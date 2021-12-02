@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from empyrical import sharpe_ratio
 from matplotlib import pyplot as plt
-
+import streamlit as st
 
 class Portfolio:
     def __init__(self, balance=50000):
@@ -59,13 +59,14 @@ def generate_portfolio_state(stock_price, balance, num_holding):
 
 def generate_combined_state(end_index, window_size, stock_prices, balance, num_holding):
     '''
-    return a state representation, defined as
-    adjacent stock prices differences after sigmoid function (for the past window_size days up to end_date) plus
+    returns a state representation, defined as
+    adjacent stock price differences after sigmoid function (for the past window_size days up to end_date) 
+    plus
     logarithmic values of stock price at end_date, portfolio balance, and number of holding stocks
     '''
-    prince_state = generate_price_state(stock_prices, end_index, window_size)
+    price_state = generate_price_state(stock_prices, end_index, window_size)
     portfolio_state = generate_portfolio_state(stock_prices[end_index], balance, num_holding)
-    return np.array([np.concatenate((prince_state, portfolio_state), axis=None)])
+    return np.array([np.concatenate((price_state, portfolio_state), axis=None)])
 
 
 def treasury_bond_daily_return_rate():
@@ -170,9 +171,9 @@ def plot_all(stock_name, agent):
     ax[1].set_xticks(np.linspace(0, len(df), 10))
     ax[1].legend()
     ax[1].grid()
-
-    plt.subplots_adjust(hspace=0.5)
-    plt.show()
+    st.pyplot(fig)
+    # plt.subplots_adjust(hspace=0.5)
+    # plt.show()
 
 
 def plot_portfolio_returns_across_episodes(model_name, returns_across_episodes):
