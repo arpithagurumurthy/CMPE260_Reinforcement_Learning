@@ -9,8 +9,8 @@ from utils import *
 st.title('Deep Reinforcement Learning for Automated Stock Trader')
 st.subheader('Model uses DQN to generate optimal trades for any given data')
 
-stocks = ['FB_2018', 'BABA_2018', '^GSPC_2018', 'NasdaqComposite']
-models = ['DQN_baseline', 'DQN_v1', 'DQN_v3', 'DQN_ep_first_draft5', 'DQN_FB_ep2']
+stocks = ['FB_2020-2021', 'AAPL_2020-2021', '^GSPC_2018', 'NasdaqComposite_2020-2021']
+models = ['DQN_baseline', 'DQN_v1', 'DQN_v3', 'DQN_v4', 'DQN_v5']
 initial_balance = st.sidebar.slider('Initial Balance', 25000, 100000, 25000)
 # balances = [25000, 50000, 100000]
 window_sizes = [10, 5, 2]
