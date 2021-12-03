@@ -9,13 +9,15 @@ from utils import *
 st.title('Deep Reinforcement Learning for Automated Stock Trader')
 st.subheader('Model uses DQN to generate optimal trades for any given data')
 
-stocks = ['FB_2018', 'BABA_2018', '^GSPC_2016', 'NasdaqComposite']
-models = ['DQN_best_ep4', 'DQN_ep10']
+stocks = ['FB_2018', 'BABA_2018', '^GSPC_2018', 'NasdaqComposite']
+models = ['DQN_baseline', 'DQN_v1', 'DQN_v3', 'DQN_ep_first_draft5', 'DQN_FB_ep2']
 initial_balance = st.sidebar.slider('Initial Balance', 25000, 100000, 25000)
 # balances = [25000, 50000, 100000]
+window_sizes = [10, 5, 2]
 stock_name = st.sidebar.selectbox('Stock Name:', stocks)
 model_to_load = st.sidebar.selectbox('Model:', models)
 # initial_balance = st.sidebar.selectbox('Initial Balance:', balances)
+window_size = st.sidebar.selectbox('Window Size:', window_sizes)
 model_name = model_to_load.split('_')[0]
 
 @st.cache
@@ -28,7 +30,7 @@ st.write(prices)
 
 submit = st.sidebar.button('Run')
 
-window_size = 5
+# window_size = 10
 action_dict = {0: 'Hold', 1: 'Buy', 2: 'Sell'}
 
 # select evaluation model
@@ -60,19 +62,15 @@ logging.info("balance ",initial_balance, " model name ", model_to_load)
 portfolio_return = 0
 if submit:
     while portfolio_return == 0: # a hack to avoid stationary case
-        agent = model.Agent(state_dim=8, balance=initial_balance, is_eval=True, model_name=model_to_load)
+        agent = model.Agent(state_dim=window_size + 3, balance=initial_balance, is_eval=True, model_name=model_to_load)
         stock_prices = stock_close_prices(stock_name)
         logging.info("Agent inventory ", len(agent.inventory))
         trading_period = len(stock_prices) - 1
         state = generate_combined_state(0, window_size, stock_prices, agent.balance, len(agent.inventory))
 
         for t in range(1, trading_period + 1):
-            if model_name == 'DDPG':
-                actions = agent.act(state, t)
-                action = np.argmax(actions)
-            else:
-                actions = agent.model.predict(state)[0]
-                action = agent.act(state)
+            actions = agent.model.predict(state)[0]
+            action = agent.act(state)
 
             # print('actions:', actions)
             # print('chosen action:', action)
