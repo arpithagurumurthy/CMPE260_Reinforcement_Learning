@@ -28,11 +28,11 @@ Below are the sample execution results for 'FB_2020-2021' on model 'DQN_v1':
 
 * Streamlit results:
 
-<img src="">
+<img src="https://github.com/arpithagurumurthy/CMPE260_Reinforcement_Learning/blob/main/Screenshots/Streamlit_app.png">
 
-* Execution summary
+* Execution summary:
 
-<img src="">
+<img src="https://github.com/arpithagurumurthy/CMPE260_Reinforcement_Learning/blob/main/Screenshots/Execution_results.png" width=500>
 
 
 
