@@ -1,0 +1,465 @@
+[11/30/2021 15:52:49.159 evaluate.py: 74] Step: 1
+[11/30/2021 15:52:49.159 evaluate.py: 36] Buy:  $2713.06
+[11/30/2021 15:52:49.196 evaluate.py: 74] Step: 2
+[11/30/2021 15:52:49.196 evaluate.py: 36] Buy:  $2723.99
+[11/30/2021 15:52:49.235 evaluate.py: 74] Step: 3
+[11/30/2021 15:52:49.235 evaluate.py: 45] Sell: $2743.15 | Profit: $30.09
+[11/30/2021 15:52:49.274 evaluate.py: 74] Step: 4
+[11/30/2021 15:52:49.275 evaluate.py: 45] Sell: $2747.71 | Profit: $23.72
+[11/30/2021 15:52:49.313 evaluate.py: 74] Step: 5
+[11/30/2021 15:52:49.348 evaluate.py: 74] Step: 6
+[11/30/2021 15:52:49.348 evaluate.py: 36] Buy:  $2748.23
+[11/30/2021 15:52:49.386 evaluate.py: 74] Step: 7
+[11/30/2021 15:52:49.386 evaluate.py: 36] Buy:  $2767.56
+[11/30/2021 15:52:49.425 evaluate.py: 74] Step: 8
+[11/30/2021 15:52:49.425 evaluate.py: 45] Sell: $2786.24 | Profit: $38.01
+[11/30/2021 15:52:49.467 evaluate.py: 74] Step: 9
+[11/30/2021 15:52:49.467 evaluate.py: 45] Sell: $2776.42 | Profit: $8.86
+[11/30/2021 15:52:49.500 evaluate.py: 74] Step: 10
+[11/30/2021 15:52:49.535 evaluate.py: 74] Step: 11
+[11/30/2021 15:52:49.535 evaluate.py: 36] Buy:  $2798.03
+[11/30/2021 15:52:49.571 evaluate.py: 74] Step: 12
+[11/30/2021 15:52:49.571 evaluate.py: 36] Buy:  $2810.30
+[11/30/2021 15:52:49.608 evaluate.py: 74] Step: 13
+[11/30/2021 15:52:49.608 evaluate.py: 45] Sell: $2832.97 | Profit: $34.94
+[11/30/2021 15:52:49.653 evaluate.py: 74] Step: 14
+[11/30/2021 15:52:49.653 evaluate.py: 45] Sell: $2839.13 | Profit: $28.83
+[11/30/2021 15:52:49.690 evaluate.py: 74] Step: 15
+[11/30/2021 15:52:49.726 evaluate.py: 74] Step: 16
+[11/30/2021 15:52:49.727 evaluate.py: 36] Buy:  $2839.25
+[11/30/2021 15:52:49.764 evaluate.py: 74] Step: 17
+[11/30/2021 15:52:49.764 evaluate.py: 36] Buy:  $2872.87
+[11/30/2021 15:52:49.801 evaluate.py: 74] Step: 18
+[11/30/2021 15:52:49.801 evaluate.py: 45] Sell: $2853.53 | Profit: $14.28
+[11/30/2021 15:52:49.843 evaluate.py: 74] Step: 19
+[11/30/2021 15:52:49.843 evaluate.py: 45] Sell: $2822.43 | Profit: $-50.44
+[11/30/2021 15:52:49.883 evaluate.py: 74] Step: 20
+[11/30/2021 15:52:49.922 evaluate.py: 74] Step: 21
+[11/30/2021 15:52:49.923 evaluate.py: 36] Buy:  $2821.98
+[11/30/2021 15:52:49.964 evaluate.py: 74] Step: 22
+[11/30/2021 15:52:49.964 evaluate.py: 36] Buy:  $2762.13
+[11/30/2021 15:52:50.005 evaluate.py: 74] Step: 23
+[11/30/2021 15:52:50.005 evaluate.py: 45] Sell: $2648.94 | Profit: $-173.04
+[11/30/2021 15:52:50.047 evaluate.py: 74] Step: 24
+[11/30/2021 15:52:50.048 evaluate.py: 45] Sell: $2695.14 | Profit: $-66.99
+[11/30/2021 15:52:50.084 evaluate.py: 74] Step: 25
+[11/30/2021 15:52:50.123 evaluate.py: 74] Step: 26
+[11/30/2021 15:52:50.123 evaluate.py: 36] Buy:  $2581.00
+[11/30/2021 15:52:50.163 evaluate.py: 74] Step: 27
+[11/30/2021 15:52:50.163 evaluate.py: 36] Buy:  $2619.55
+[11/30/2021 15:52:50.208 evaluate.py: 74] Step: 28
+[11/30/2021 15:52:50.208 evaluate.py: 45] Sell: $2656.00 | Profit: $75.00
+[11/30/2021 15:52:50.257 evaluate.py: 74] Step: 29
+[11/30/2021 15:52:50.257 evaluate.py: 45] Sell: $2662.94 | Profit: $43.39
+[11/30/2021 15:52:50.302 evaluate.py: 74] Step: 30
+[11/30/2021 15:52:50.352 evaluate.py: 74] Step: 31
+[11/30/2021 15:52:50.352 evaluate.py: 36] Buy:  $2731.20
+[11/30/2021 15:52:50.425 evaluate.py: 74] Step: 32
+[11/30/2021 15:52:50.425 evaluate.py: 36] Buy:  $2732.22
+[11/30/2021 15:52:50.496 evaluate.py: 74] Step: 33
+[11/30/2021 15:52:50.496 evaluate.py: 45] Sell: $2716.26 | Profit: $-14.94
+[11/30/2021 15:52:50.566 evaluate.py: 74] Step: 34
+[11/30/2021 15:52:50.566 evaluate.py: 45] Sell: $2701.33 | Profit: $-30.89
+[11/30/2021 15:52:50.617 evaluate.py: 74] Step: 35
+[11/30/2021 15:52:50.666 evaluate.py: 74] Step: 36
+[11/30/2021 15:52:50.667 evaluate.py: 36] Buy:  $2747.30
+[11/30/2021 15:52:50.720 evaluate.py: 74] Step: 37
+[11/30/2021 15:52:50.720 evaluate.py: 36] Buy:  $2779.60
+[11/30/2021 15:52:50.775 evaluate.py: 74] Step: 38
+[11/30/2021 15:52:50.775 evaluate.py: 45] Sell: $2744.28 | Profit: $-3.02
+[11/30/2021 15:52:50.815 evaluate.py: 74] Step: 39
+[11/30/2021 15:52:50.815 evaluate.py: 45] Sell: $2713.83 | Profit: $-65.77
+[11/30/2021 15:52:50.852 evaluate.py: 74] Step: 40
+[11/30/2021 15:52:50.891 evaluate.py: 74] Step: 41
+[11/30/2021 15:52:50.891 evaluate.py: 36] Buy:  $2691.25
+[11/30/2021 15:52:50.932 evaluate.py: 74] Step: 42
+[11/30/2021 15:52:50.933 evaluate.py: 36] Buy:  $2720.94
+[11/30/2021 15:52:50.983 evaluate.py: 74] Step: 43
+[11/30/2021 15:52:50.983 evaluate.py: 45] Sell: $2728.12 | Profit: $36.87
+[11/30/2021 15:52:51.022 evaluate.py: 74] Step: 44
+[11/30/2021 15:52:51.022 evaluate.py: 45] Sell: $2726.80 | Profit: $5.86
+[11/30/2021 15:52:51.058 evaluate.py: 74] Step: 45
+[11/30/2021 15:52:51.092 evaluate.py: 74] Step: 46
+[11/30/2021 15:52:51.093 evaluate.py: 36] Buy:  $2786.57
+[11/30/2021 15:52:51.130 evaluate.py: 74] Step: 47
+[11/30/2021 15:52:51.130 evaluate.py: 36] Buy:  $2783.02
+[11/30/2021 15:52:51.177 evaluate.py: 74] Step: 48
+[11/30/2021 15:52:51.177 evaluate.py: 45] Sell: $2765.31 | Profit: $-21.26
+[11/30/2021 15:52:51.213 evaluate.py: 74] Step: 49
+[11/30/2021 15:52:51.214 evaluate.py: 45] Sell: $2749.48 | Profit: $-33.54
+[11/30/2021 15:52:51.250 evaluate.py: 74] Step: 50
+[11/30/2021 15:52:51.305 evaluate.py: 74] Step: 51
+[11/30/2021 15:52:51.306 evaluate.py: 36] Buy:  $2752.01
+[11/30/2021 15:52:51.374 evaluate.py: 74] Step: 52
+[11/30/2021 15:52:51.374 evaluate.py: 36] Buy:  $2712.92
+[11/30/2021 15:52:51.433 evaluate.py: 74] Step: 53
+[11/30/2021 15:52:51.433 evaluate.py: 45] Sell: $2716.94 | Profit: $-35.07
+[11/30/2021 15:52:51.475 evaluate.py: 74] Step: 54
+[11/30/2021 15:52:51.475 evaluate.py: 45] Sell: $2711.93 | Profit: $-0.99
+[11/30/2021 15:52:51.514 evaluate.py: 74] Step: 55
+[11/30/2021 15:52:51.554 evaluate.py: 74] Step: 56
+[11/30/2021 15:52:51.554 evaluate.py: 36] Buy:  $2588.26
+[11/30/2021 15:52:51.594 evaluate.py: 74] Step: 57
+[11/30/2021 15:52:51.594 evaluate.py: 36] Buy:  $2658.55
+[11/30/2021 15:52:51.638 evaluate.py: 74] Step: 58
+[11/30/2021 15:52:51.639 evaluate.py: 45] Sell: $2612.62 | Profit: $24.36
+[11/30/2021 15:52:51.674 evaluate.py: 74] Step: 59
+[11/30/2021 15:52:51.674 evaluate.py: 45] Sell: $2605.00 | Profit: $-53.55
+[11/30/2021 15:52:51.710 evaluate.py: 74] Step: 60
+[11/30/2021 15:52:51.747 evaluate.py: 74] Step: 61
+[11/30/2021 15:52:51.747 evaluate.py: 36] Buy:  $2581.88
+[11/30/2021 15:52:51.784 evaluate.py: 74] Step: 62
+[11/30/2021 15:52:51.784 evaluate.py: 36] Buy:  $2614.45
+[11/30/2021 15:52:51.825 evaluate.py: 74] Step: 63
+[11/30/2021 15:52:51.825 evaluate.py: 45] Sell: $2644.69 | Profit: $62.81
+[11/30/2021 15:52:51.860 evaluate.py: 74] Step: 64
+[11/30/2021 15:52:51.860 evaluate.py: 45] Sell: $2662.84 | Profit: $48.39
+[11/30/2021 15:52:51.896 evaluate.py: 74] Step: 65
+[11/30/2021 15:52:51.933 evaluate.py: 74] Step: 66
+[11/30/2021 15:52:51.933 evaluate.py: 36] Buy:  $2613.16
+[11/30/2021 15:52:51.972 evaluate.py: 74] Step: 67
+[11/30/2021 15:52:51.972 evaluate.py: 36] Buy:  $2656.87
+[11/30/2021 15:52:52.015 evaluate.py: 74] Step: 68
+[11/30/2021 15:52:52.015 evaluate.py: 45] Sell: $2642.19 | Profit: $29.03
+[11/30/2021 15:52:52.050 evaluate.py: 74] Step: 69
+[11/30/2021 15:52:52.050 evaluate.py: 45] Sell: $2663.99 | Profit: $7.12
+[11/30/2021 15:52:52.085 evaluate.py: 74] Step: 70
+[11/30/2021 15:52:52.121 evaluate.py: 74] Step: 71
+[11/30/2021 15:52:52.121 evaluate.py: 36] Buy:  $2677.84
+[11/30/2021 15:52:52.160 evaluate.py: 74] Step: 72
+[11/30/2021 15:52:52.160 evaluate.py: 36] Buy:  $2706.39
+[11/30/2021 15:52:52.205 evaluate.py: 74] Step: 73
+[11/30/2021 15:52:52.206 evaluate.py: 45] Sell: $2708.64 | Profit: $30.80
+[11/30/2021 15:52:52.247 evaluate.py: 74] Step: 74
+[11/30/2021 15:52:52.247 evaluate.py: 45] Sell: $2693.13 | Profit: $-13.26
+[11/30/2021 15:52:52.287 evaluate.py: 74] Step: 75
+[11/30/2021 15:52:52.322 evaluate.py: 74] Step: 76
+[11/30/2021 15:52:52.322 evaluate.py: 36] Buy:  $2670.29
+[11/30/2021 15:52:52.360 evaluate.py: 74] Step: 77
+[11/30/2021 15:52:52.360 evaluate.py: 36] Buy:  $2634.56
+[11/30/2021 15:52:52.401 evaluate.py: 74] Step: 78
+[11/30/2021 15:52:52.401 evaluate.py: 45] Sell: $2639.40 | Profit: $-30.89
+[11/30/2021 15:52:52.439 evaluate.py: 74] Step: 79
+[11/30/2021 15:52:52.439 evaluate.py: 45] Sell: $2666.94 | Profit: $32.38
+[11/30/2021 15:52:52.474 evaluate.py: 74] Step: 80
+[11/30/2021 15:52:52.509 evaluate.py: 74] Step: 81
+[11/30/2021 15:52:52.509 evaluate.py: 36] Buy:  $2648.05
+[11/30/2021 15:52:52.542 evaluate.py: 74] Step: 82
+[11/30/2021 15:52:52.542 evaluate.py: 36] Buy:  $2654.80
+[11/30/2021 15:52:52.581 evaluate.py: 74] Step: 83
+[11/30/2021 15:52:52.582 evaluate.py: 45] Sell: $2635.67 | Profit: $-12.38
+[11/30/2021 15:52:52.617 evaluate.py: 74] Step: 84
+[11/30/2021 15:52:52.617 evaluate.py: 45] Sell: $2629.73 | Profit: $-25.07
+[11/30/2021 15:52:52.650 evaluate.py: 74] Step: 85
+[11/30/2021 15:52:52.683 evaluate.py: 74] Step: 86
+[11/30/2021 15:52:52.683 evaluate.py: 36] Buy:  $2672.63
+[11/30/2021 15:52:52.717 evaluate.py: 74] Step: 87
+[11/30/2021 15:52:52.717 evaluate.py: 36] Buy:  $2671.92
+[11/30/2021 15:52:52.762 evaluate.py: 74] Step: 88
+[11/30/2021 15:52:52.762 evaluate.py: 45] Sell: $2697.79 | Profit: $25.16
+[11/30/2021 15:52:52.799 evaluate.py: 74] Step: 89
+[11/30/2021 15:52:52.799 evaluate.py: 45] Sell: $2723.07 | Profit: $51.15
+[11/30/2021 15:52:52.836 evaluate.py: 74] Step: 90
+[11/30/2021 15:52:52.877 evaluate.py: 74] Step: 91
+[11/30/2021 15:52:52.877 evaluate.py: 36] Buy:  $2730.13
+[11/30/2021 15:52:52.916 evaluate.py: 74] Step: 92
+[11/30/2021 15:52:52.916 evaluate.py: 36] Buy:  $2711.45
+[11/30/2021 15:52:52.958 evaluate.py: 74] Step: 93
+[11/30/2021 15:52:52.958 evaluate.py: 45] Sell: $2722.46 | Profit: $-7.67
+[11/30/2021 15:52:52.998 evaluate.py: 74] Step: 94
+[11/30/2021 15:52:52.998 evaluate.py: 45] Sell: $2720.13 | Profit: $8.68
+[11/30/2021 15:52:53.041 evaluate.py: 74] Step: 95
+[11/30/2021 15:52:53.089 evaluate.py: 74] Step: 96
+[11/30/2021 15:52:53.089 evaluate.py: 36] Buy:  $2733.01
+[11/30/2021 15:52:53.136 evaluate.py: 74] Step: 97
+[11/30/2021 15:52:53.136 evaluate.py: 36] Buy:  $2724.44
+[11/30/2021 15:52:53.193 evaluate.py: 74] Step: 98
+[11/30/2021 15:52:53.194 evaluate.py: 45] Sell: $2733.29 | Profit: $0.28
+[11/30/2021 15:52:53.255 evaluate.py: 74] Step: 99
+[11/30/2021 15:52:53.256 evaluate.py: 45] Sell: $2727.76 | Profit: $3.32
+[11/30/2021 15:52:53.311 evaluate.py: 74] Step: 100
+[11/30/2021 15:52:53.362 evaluate.py: 74] Step: 101
+[11/30/2021 15:52:53.363 evaluate.py: 36] Buy:  $2689.86
+[11/30/2021 15:52:53.416 evaluate.py: 74] Step: 102
+[11/30/2021 15:52:53.416 evaluate.py: 36] Buy:  $2724.01
+[11/30/2021 15:52:53.478 evaluate.py: 74] Step: 103
+[11/30/2021 15:52:53.478 evaluate.py: 45] Sell: $2705.27 | Profit: $15.41
+[11/30/2021 15:52:53.530 evaluate.py: 74] Step: 104
+[11/30/2021 15:52:53.530 evaluate.py: 45] Sell: $2734.62 | Profit: $10.61
+[11/30/2021 15:52:53.580 evaluate.py: 74] Step: 105
+[11/30/2021 15:52:53.631 evaluate.py: 74] Step: 106
+[11/30/2021 15:52:53.632 evaluate.py: 36] Buy:  $2748.80
+[11/30/2021 15:52:53.684 evaluate.py: 74] Step: 107
+[11/30/2021 15:52:53.684 evaluate.py: 36] Buy:  $2772.35
+[11/30/2021 15:52:53.744 evaluate.py: 74] Step: 108
+[11/30/2021 15:52:53.745 evaluate.py: 45] Sell: $2770.37 | Profit: $21.57
+[11/30/2021 15:52:53.839 evaluate.py: 74] Step: 109
+[11/30/2021 15:52:53.839 evaluate.py: 45] Sell: $2779.03 | Profit: $6.68
+[11/30/2021 15:52:53.911 evaluate.py: 74] Step: 110
+[11/30/2021 15:52:53.964 evaluate.py: 74] Step: 111
+[11/30/2021 15:52:53.964 evaluate.py: 36] Buy:  $2786.85
+[11/30/2021 15:52:54.012 evaluate.py: 74] Step: 112
+[11/30/2021 15:52:54.012 evaluate.py: 36] Buy:  $2775.63
+[11/30/2021 15:52:54.072 evaluate.py: 74] Step: 113
+[11/30/2021 15:52:54.072 evaluate.py: 45] Sell: $2782.49 | Profit: $-4.36
+[11/30/2021 15:52:54.135 evaluate.py: 74] Step: 114
+[11/30/2021 15:52:54.135 evaluate.py: 45] Sell: $2779.66 | Profit: $4.03
+[11/30/2021 15:52:54.215 evaluate.py: 74] Step: 115
+[11/30/2021 15:52:54.283 evaluate.py: 74] Step: 116
+[11/30/2021 15:52:54.283 evaluate.py: 36] Buy:  $2762.59
+[11/30/2021 15:52:54.337 evaluate.py: 74] Step: 117
+[11/30/2021 15:52:54.337 evaluate.py: 36] Buy:  $2767.32
+[11/30/2021 15:52:54.389 evaluate.py: 74] Step: 118
+[11/30/2021 15:52:54.390 evaluate.py: 45] Sell: $2749.76 | Profit: $-12.83
+[11/30/2021 15:52:54.431 evaluate.py: 74] Step: 119
+[11/30/2021 15:52:54.431 evaluate.py: 45] Sell: $2754.88 | Profit: $-12.44
+[11/30/2021 15:52:54.477 evaluate.py: 74] Step: 120
+[11/30/2021 15:52:54.531 evaluate.py: 74] Step: 121
+[11/30/2021 15:52:54.531 evaluate.py: 36] Buy:  $2723.06
+[11/30/2021 15:52:54.590 evaluate.py: 74] Step: 122
+[11/30/2021 15:52:54.590 evaluate.py: 36] Buy:  $2699.63
+[11/30/2021 15:52:54.654 evaluate.py: 74] Step: 123
+[11/30/2021 15:52:54.654 evaluate.py: 45] Sell: $2716.31 | Profit: $-6.75
+[11/30/2021 15:52:54.708 evaluate.py: 74] Step: 124
+[11/30/2021 15:52:54.709 evaluate.py: 45] Sell: $2718.37 | Profit: $18.74
+[11/30/2021 15:52:54.766 evaluate.py: 74] Step: 125
+[11/30/2021 15:52:54.820 evaluate.py: 74] Step: 126
+[11/30/2021 15:52:54.820 evaluate.py: 36] Buy:  $2713.22
+[11/30/2021 15:52:54.874 evaluate.py: 74] Step: 127
+[11/30/2021 15:52:54.874 evaluate.py: 36] Buy:  $2736.61
+[11/30/2021 15:52:54.938 evaluate.py: 74] Step: 128
+[11/30/2021 15:52:54.939 evaluate.py: 45] Sell: $2759.82 | Profit: $46.60
+[11/30/2021 15:52:54.990 evaluate.py: 74] Step: 129
+[11/30/2021 15:52:54.990 evaluate.py: 45] Sell: $2784.17 | Profit: $47.56
+[11/30/2021 15:52:55.029 evaluate.py: 74] Step: 130
+[11/30/2021 15:52:55.064 evaluate.py: 74] Step: 131
+[11/30/2021 15:52:55.064 evaluate.py: 36] Buy:  $2774.02
+[11/30/2021 15:52:55.100 evaluate.py: 74] Step: 132
+[11/30/2021 15:52:55.100 evaluate.py: 36] Buy:  $2798.29
+[11/30/2021 15:52:55.143 evaluate.py: 74] Step: 133
+[11/30/2021 15:52:55.143 evaluate.py: 45] Sell: $2801.31 | Profit: $27.29
+[11/30/2021 15:52:55.177 evaluate.py: 74] Step: 134
+[11/30/2021 15:52:55.177 evaluate.py: 45] Sell: $2798.43 | Profit: $0.14
+[11/30/2021 15:52:55.213 evaluate.py: 74] Step: 135
+[11/30/2021 15:52:55.250 evaluate.py: 74] Step: 136
+[11/30/2021 15:52:55.250 evaluate.py: 36] Buy:  $2815.62
+[11/30/2021 15:52:55.288 evaluate.py: 74] Step: 137
+[11/30/2021 15:52:55.288 evaluate.py: 36] Buy:  $2804.49
+[11/30/2021 15:52:55.334 evaluate.py: 74] Step: 138
+[11/30/2021 15:52:55.334 evaluate.py: 45] Sell: $2801.83 | Profit: $-13.79
+[11/30/2021 15:52:55.375 evaluate.py: 74] Step: 139
+[11/30/2021 15:52:55.375 evaluate.py: 45] Sell: $2806.98 | Profit: $2.49
+[11/30/2021 15:52:55.415 evaluate.py: 74] Step: 140
+[11/30/2021 15:52:55.453 evaluate.py: 74] Step: 141
+[11/30/2021 15:52:55.453 evaluate.py: 36] Buy:  $2846.07
+[11/30/2021 15:52:55.489 evaluate.py: 74] Step: 142
+[11/30/2021 15:52:55.489 evaluate.py: 36] Buy:  $2837.44
+[11/30/2021 15:52:55.534 evaluate.py: 74] Step: 143
+[11/30/2021 15:52:55.534 evaluate.py: 45] Sell: $2818.82 | Profit: $-27.25
+[11/30/2021 15:52:55.570 evaluate.py: 74] Step: 144
+[11/30/2021 15:52:55.570 evaluate.py: 45] Sell: $2802.60 | Profit: $-34.84
+[11/30/2021 15:52:55.610 evaluate.py: 74] Step: 145
+[11/30/2021 15:52:55.653 evaluate.py: 74] Step: 146
+[11/30/2021 15:52:55.653 evaluate.py: 36] Buy:  $2813.36
+[11/30/2021 15:52:55.692 evaluate.py: 74] Step: 147
+[11/30/2021 15:52:55.692 evaluate.py: 36] Buy:  $2827.22
+[11/30/2021 15:52:55.739 evaluate.py: 74] Step: 148
+[11/30/2021 15:52:55.739 evaluate.py: 45] Sell: $2840.35 | Profit: $26.99
+[11/30/2021 15:52:55.781 evaluate.py: 74] Step: 149
+[11/30/2021 15:52:55.781 evaluate.py: 45] Sell: $2850.40 | Profit: $23.18
+[11/30/2021 15:52:55.824 evaluate.py: 74] Step: 150
+[11/30/2021 15:52:55.874 evaluate.py: 74] Step: 151
+[11/30/2021 15:52:55.874 evaluate.py: 36] Buy:  $2857.70
+[11/30/2021 15:52:55.920 evaluate.py: 74] Step: 152
+[11/30/2021 15:52:55.920 evaluate.py: 36] Buy:  $2853.58
+[11/30/2021 15:52:55.968 evaluate.py: 74] Step: 153
+[11/30/2021 15:52:55.968 evaluate.py: 45] Sell: $2833.28 | Profit: $-24.42
+[11/30/2021 15:52:56.007 evaluate.py: 74] Step: 154
+[11/30/2021 15:52:56.008 evaluate.py: 45] Sell: $2821.93 | Profit: $-31.65
+[11/30/2021 15:52:56.049 evaluate.py: 74] Step: 155
+[11/30/2021 15:52:56.089 evaluate.py: 74] Step: 156
+[11/30/2021 15:52:56.089 evaluate.py: 36] Buy:  $2818.37
+[11/30/2021 15:52:56.127 evaluate.py: 74] Step: 157
+[11/30/2021 15:52:56.127 evaluate.py: 36] Buy:  $2840.69
+[11/30/2021 15:52:56.173 evaluate.py: 74] Step: 158
+[11/30/2021 15:52:56.173 evaluate.py: 45] Sell: $2850.13 | Profit: $31.76
+[11/30/2021 15:52:56.227 evaluate.py: 74] Step: 159
+[11/30/2021 15:52:56.227 evaluate.py: 45] Sell: $2857.05 | Profit: $16.36
+[11/30/2021 15:52:56.281 evaluate.py: 74] Step: 160
+[11/30/2021 15:52:56.338 evaluate.py: 74] Step: 161
+[11/30/2021 15:52:56.338 evaluate.py: 36] Buy:  $2861.82
+[11/30/2021 15:52:56.393 evaluate.py: 74] Step: 162
+[11/30/2021 15:52:56.393 evaluate.py: 36] Buy:  $2856.98
+[11/30/2021 15:52:56.455 evaluate.py: 74] Step: 163
+[11/30/2021 15:52:56.455 evaluate.py: 45] Sell: $2874.69 | Profit: $12.87
+[11/30/2021 15:52:56.509 evaluate.py: 74] Step: 164
+[11/30/2021 15:52:56.509 evaluate.py: 45] Sell: $2896.74 | Profit: $39.76
+[11/30/2021 15:52:56.559 evaluate.py: 74] Step: 165
+[11/30/2021 15:52:56.609 evaluate.py: 74] Step: 166
+[11/30/2021 15:52:56.609 evaluate.py: 36] Buy:  $2914.04
+[11/30/2021 15:52:56.665 evaluate.py: 74] Step: 167
+[11/30/2021 15:52:56.665 evaluate.py: 36] Buy:  $2901.13
+[11/30/2021 15:52:56.727 evaluate.py: 74] Step: 168
+[11/30/2021 15:52:56.727 evaluate.py: 45] Sell: $2901.52 | Profit: $-12.52
+[11/30/2021 15:52:56.773 evaluate.py: 74] Step: 169
+[11/30/2021 15:52:56.773 evaluate.py: 45] Sell: $2896.72 | Profit: $-4.41
+[11/30/2021 15:52:56.816 evaluate.py: 74] Step: 170
+[11/30/2021 15:52:56.863 evaluate.py: 74] Step: 171
+[11/30/2021 15:52:56.863 evaluate.py: 36] Buy:  $2878.05
+[11/30/2021 15:52:56.911 evaluate.py: 74] Step: 172
+[11/30/2021 15:52:56.911 evaluate.py: 36] Buy:  $2871.68
+[11/30/2021 15:52:56.981 evaluate.py: 74] Step: 173
+[11/30/2021 15:52:56.981 evaluate.py: 45] Sell: $2877.13 | Profit: $-0.92
+[11/30/2021 15:52:57.040 evaluate.py: 74] Step: 174
+[11/30/2021 15:52:57.041 evaluate.py: 45] Sell: $2887.89 | Profit: $16.21
+[11/30/2021 15:52:57.095 evaluate.py: 74] Step: 175
+[11/30/2021 15:52:57.143 evaluate.py: 74] Step: 176
+[11/30/2021 15:52:57.143 evaluate.py: 36] Buy:  $2904.18
+[11/30/2021 15:52:57.189 evaluate.py: 74] Step: 177
+[11/30/2021 15:52:57.190 evaluate.py: 36] Buy:  $2904.98
+[11/30/2021 15:52:57.242 evaluate.py: 74] Step: 178
+[11/30/2021 15:52:57.242 evaluate.py: 45] Sell: $2888.80 | Profit: $-15.38
+[11/30/2021 15:52:57.286 evaluate.py: 74] Step: 179
+[11/30/2021 15:52:57.286 evaluate.py: 45] Sell: $2904.31 | Profit: $-0.67
+[11/30/2021 15:52:57.326 evaluate.py: 74] Step: 180
+[11/30/2021 15:52:57.366 evaluate.py: 74] Step: 181
+[11/30/2021 15:52:57.366 evaluate.py: 36] Buy:  $2930.75
+[11/30/2021 15:52:57.406 evaluate.py: 74] Step: 182
+[11/30/2021 15:52:57.406 evaluate.py: 36] Buy:  $2929.67
+[11/30/2021 15:52:57.452 evaluate.py: 74] Step: 183
+[11/30/2021 15:52:57.452 evaluate.py: 45] Sell: $2919.37 | Profit: $-11.38
+[11/30/2021 15:52:57.491 evaluate.py: 74] Step: 184
+[11/30/2021 15:52:57.491 evaluate.py: 45] Sell: $2915.56 | Profit: $-14.11
+[11/30/2021 15:52:57.529 evaluate.py: 74] Step: 185
+[11/30/2021 15:52:57.568 evaluate.py: 74] Step: 186
+[11/30/2021 15:52:57.568 evaluate.py: 36] Buy:  $2914.00
+[11/30/2021 15:52:57.604 evaluate.py: 74] Step: 187
+[11/30/2021 15:52:57.604 evaluate.py: 36] Buy:  $2913.98
+[11/30/2021 15:52:57.649 evaluate.py: 74] Step: 188
+[11/30/2021 15:52:57.649 evaluate.py: 45] Sell: $2924.59 | Profit: $10.59
+[11/30/2021 15:52:57.688 evaluate.py: 74] Step: 189
+[11/30/2021 15:52:57.688 evaluate.py: 45] Sell: $2923.43 | Profit: $9.45
+[11/30/2021 15:52:57.725 evaluate.py: 74] Step: 190
+[11/30/2021 15:52:57.763 evaluate.py: 74] Step: 191
+[11/30/2021 15:52:57.763 evaluate.py: 36] Buy:  $2901.61
+[11/30/2021 15:52:57.804 evaluate.py: 74] Step: 192
+[11/30/2021 15:52:57.804 evaluate.py: 36] Buy:  $2885.57
+[11/30/2021 15:52:57.851 evaluate.py: 74] Step: 193
+[11/30/2021 15:52:57.851 evaluate.py: 45] Sell: $2884.43 | Profit: $-17.18
+[11/30/2021 15:52:57.977 evaluate.py: 74] Step: 194
+[11/30/2021 15:52:57.977 evaluate.py: 45] Sell: $2880.34 | Profit: $-5.23
+[11/30/2021 15:52:58.017 evaluate.py: 74] Step: 195
+[11/30/2021 15:52:58.058 evaluate.py: 74] Step: 196
+[11/30/2021 15:52:58.058 evaluate.py: 36] Buy:  $2728.37
+[11/30/2021 15:52:58.103 evaluate.py: 74] Step: 197
+[11/30/2021 15:52:58.103 evaluate.py: 36] Buy:  $2767.13
+[11/30/2021 15:52:58.148 evaluate.py: 74] Step: 198
+[11/30/2021 15:52:58.148 evaluate.py: 45] Sell: $2750.79 | Profit: $22.42
+[11/30/2021 15:52:58.189 evaluate.py: 74] Step: 199
+[11/30/2021 15:52:58.189 evaluate.py: 45] Sell: $2809.92 | Profit: $42.79
+[11/30/2021 15:52:58.245 evaluate.py: 74] Step: 200
+[11/30/2021 15:52:58.307 evaluate.py: 74] Step: 201
+[11/30/2021 15:52:58.307 evaluate.py: 36] Buy:  $2768.78
+[11/30/2021 15:52:58.362 evaluate.py: 74] Step: 202
+[11/30/2021 15:52:58.362 evaluate.py: 36] Buy:  $2767.78
+[11/30/2021 15:52:58.419 evaluate.py: 74] Step: 203
+[11/30/2021 15:52:58.419 evaluate.py: 45] Sell: $2755.88 | Profit: $-12.90
+[11/30/2021 15:52:58.463 evaluate.py: 74] Step: 204
+[11/30/2021 15:52:58.463 evaluate.py: 45] Sell: $2740.69 | Profit: $-27.09
+[11/30/2021 15:52:58.507 evaluate.py: 74] Step: 205
+[11/30/2021 15:52:58.544 evaluate.py: 74] Step: 206
+[11/30/2021 15:52:58.544 evaluate.py: 36] Buy:  $2705.57
+[11/30/2021 15:52:58.590 evaluate.py: 74] Step: 207
+[11/30/2021 15:52:58.591 evaluate.py: 36] Buy:  $2658.69
+[11/30/2021 15:52:58.644 evaluate.py: 74] Step: 208
+[11/30/2021 15:52:58.645 evaluate.py: 45] Sell: $2641.25 | Profit: $-64.32
+[11/30/2021 15:52:58.689 evaluate.py: 74] Step: 209
+[11/30/2021 15:52:58.690 evaluate.py: 45] Sell: $2682.63 | Profit: $23.94
+[11/30/2021 15:52:58.726 evaluate.py: 74] Step: 210
+[11/30/2021 15:52:58.762 evaluate.py: 74] Step: 211
+[11/30/2021 15:52:58.762 evaluate.py: 36] Buy:  $2740.37
+[11/30/2021 15:52:58.797 evaluate.py: 74] Step: 212
+[11/30/2021 15:52:58.797 evaluate.py: 36] Buy:  $2723.06
+[11/30/2021 15:52:58.844 evaluate.py: 74] Step: 213
+[11/30/2021 15:52:58.844 evaluate.py: 45] Sell: $2738.31 | Profit: $-2.06
+[11/30/2021 15:52:58.883 evaluate.py: 74] Step: 214
+[11/30/2021 15:52:58.883 evaluate.py: 45] Sell: $2755.45 | Profit: $32.39
+[11/30/2021 15:52:58.925 evaluate.py: 74] Step: 215
+[11/30/2021 15:52:58.966 evaluate.py: 74] Step: 216
+[11/30/2021 15:52:58.966 evaluate.py: 36] Buy:  $2806.83
+[11/30/2021 15:52:59.007 evaluate.py: 74] Step: 217
+[11/30/2021 15:52:59.008 evaluate.py: 36] Buy:  $2781.01
+[11/30/2021 15:52:59.055 evaluate.py: 74] Step: 218
+[11/30/2021 15:52:59.055 evaluate.py: 45] Sell: $2726.22 | Profit: $-80.61
+[11/30/2021 15:52:59.092 evaluate.py: 74] Step: 219
+[11/30/2021 15:52:59.092 evaluate.py: 45] Sell: $2722.18 | Profit: $-58.83
+[11/30/2021 15:52:59.130 evaluate.py: 74] Step: 220
+[11/30/2021 15:52:59.166 evaluate.py: 74] Step: 221
+[11/30/2021 15:52:59.166 evaluate.py: 36] Buy:  $2730.20
+[11/30/2021 15:52:59.204 evaluate.py: 74] Step: 222
+[11/30/2021 15:52:59.204 evaluate.py: 36] Buy:  $2736.27
+[11/30/2021 15:52:59.248 evaluate.py: 74] Step: 223
+[11/30/2021 15:52:59.248 evaluate.py: 45] Sell: $2690.73 | Profit: $-39.47
+[11/30/2021 15:52:59.286 evaluate.py: 74] Step: 224
+[11/30/2021 15:52:59.286 evaluate.py: 45] Sell: $2641.89 | Profit: $-94.38
+[11/30/2021 15:52:59.324 evaluate.py: 74] Step: 225
+[11/30/2021 15:52:59.372 evaluate.py: 74] Step: 226
+[11/30/2021 15:52:59.372 evaluate.py: 36] Buy:  $2632.56
+[11/30/2021 15:52:59.414 evaluate.py: 74] Step: 227
+[11/30/2021 15:52:59.415 evaluate.py: 36] Buy:  $2673.45
+[11/30/2021 15:52:59.462 evaluate.py: 74] Step: 228
+[11/30/2021 15:52:59.462 evaluate.py: 45] Sell: $2682.17 | Profit: $49.61
+[11/30/2021 15:52:59.499 evaluate.py: 74] Step: 229
+[11/30/2021 15:52:59.499 evaluate.py: 45] Sell: $2743.79 | Profit: $70.34
+[11/30/2021 15:52:59.539 evaluate.py: 74] Step: 230
+[11/30/2021 15:52:59.577 evaluate.py: 74] Step: 231
+[11/30/2021 15:52:59.577 evaluate.py: 36] Buy:  $2760.17
+[11/30/2021 15:52:59.613 evaluate.py: 74] Step: 232
+[11/30/2021 15:52:59.613 evaluate.py: 36] Buy:  $2790.37
+[11/30/2021 15:52:59.661 evaluate.py: 74] Step: 233
+[11/30/2021 15:52:59.661 evaluate.py: 45] Sell: $2700.06 | Profit: $-60.11
+[11/30/2021 15:52:59.701 evaluate.py: 74] Step: 234
+[11/30/2021 15:52:59.701 evaluate.py: 45] Sell: $2695.95 | Profit: $-94.42
+[11/30/2021 15:52:59.739 evaluate.py: 74] Step: 235
+[11/30/2021 15:52:59.777 evaluate.py: 74] Step: 236
+[11/30/2021 15:52:59.777 evaluate.py: 36] Buy:  $2637.72
+[11/30/2021 15:52:59.813 evaluate.py: 74] Step: 237
+[11/30/2021 15:52:59.814 evaluate.py: 36] Buy:  $2636.78
+[11/30/2021 15:52:59.854 evaluate.py: 74] Step: 238
+[11/30/2021 15:52:59.854 evaluate.py: 45] Sell: $2651.07 | Profit: $13.35
+[11/30/2021 15:52:59.888 evaluate.py: 74] Step: 239
+[11/30/2021 15:52:59.888 evaluate.py: 45] Sell: $2650.54 | Profit: $13.76
+[11/30/2021 15:52:59.927 evaluate.py: 74] Step: 240
+[11/30/2021 15:52:59.969 evaluate.py: 74] Step: 241
+[11/30/2021 15:52:59.970 evaluate.py: 36] Buy:  $2545.94
+[11/30/2021 15:53:00.010 evaluate.py: 74] Step: 242
+[11/30/2021 15:53:00.010 evaluate.py: 36] Buy:  $2546.16
+[11/30/2021 15:53:00.060 evaluate.py: 74] Step: 243
+[11/30/2021 15:53:00.060 evaluate.py: 45] Sell: $2506.96 | Profit: $-38.98
+[11/30/2021 15:53:00.096 evaluate.py: 74] Step: 244
+[11/30/2021 15:53:00.096 evaluate.py: 45] Sell: $2467.42 | Profit: $-78.74
+[11/30/2021 15:53:00.135 evaluate.py: 74] Step: 245
+[11/30/2021 15:53:00.177 evaluate.py: 74] Step: 246
+[11/30/2021 15:53:00.178 evaluate.py: 36] Buy:  $2351.10
+[11/30/2021 15:53:00.217 evaluate.py: 74] Step: 247
+[11/30/2021 15:53:00.218 evaluate.py: 36] Buy:  $2467.70
+[11/30/2021 15:53:00.266 evaluate.py: 74] Step: 248
+[11/30/2021 15:53:00.266 evaluate.py: 45] Sell: $2488.83 | Profit: $137.73
+[11/30/2021 15:53:00.309 evaluate.py: 74] Step: 249
+[11/30/2021 15:53:00.309 evaluate.py: 45] Sell: $2485.74 | Profit: $18.04
+[11/30/2021 15:53:00.346 evaluate.py: 74] Step: 250
+[11/30/2021 15:53:00.346 utils.py: 87] --------------------------------
+[11/30/2021 15:53:00.346 utils.py: 88] Portfolio Value:        $49935.18
+[11/30/2021 15:53:00.346 utils.py: 89] Portfolio Balance:      $49935.18
+[11/30/2021 15:53:00.346 utils.py: 90] Portfolio Stocks Number: 0
+[11/30/2021 15:53:00.346 utils.py: 91] Total Return:           $-64.82
+[11/30/2021 15:53:00.346 utils.py: 92] Mean/Daily Return Rate:  -0.000%
+[11/30/2021 15:53:00.346 utils.py: 93] Sharpe Ratio adjusted with Treasury bond daily return: -0.151
+[11/30/2021 15:53:00.347 utils.py: 94] Maximum Drawdown:        -0.893%
+[11/30/2021 15:53:00.347 utils.py: 95] --------------------------------
+[11/30/2021 15:53:00.672 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 15:53:00.701 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 15:53:00.771 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 15:53:00.788 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 15:53:00.806 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 15:53:00.821 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

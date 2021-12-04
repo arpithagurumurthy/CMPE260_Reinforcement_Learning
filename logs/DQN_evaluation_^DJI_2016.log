@@ -1,0 +1,314 @@
+[11/30/2021 17:22:35.156 evaluate.py: 74] Step: 1
+[11/30/2021 17:22:35.156 evaluate.py: 36] Buy:  $17158.66
+[11/30/2021 17:22:35.198 evaluate.py: 74] Step: 2
+[11/30/2021 17:22:35.198 evaluate.py: 36] Buy:  $16906.51
+[11/30/2021 17:22:35.246 evaluate.py: 74] Step: 3
+[11/30/2021 17:22:35.290 evaluate.py: 74] Step: 4
+[11/30/2021 17:22:35.329 evaluate.py: 74] Step: 5
+[11/30/2021 17:22:35.370 evaluate.py: 74] Step: 6
+[11/30/2021 17:22:35.416 evaluate.py: 74] Step: 7
+[11/30/2021 17:22:35.459 evaluate.py: 74] Step: 8
+[11/30/2021 17:22:35.499 evaluate.py: 74] Step: 9
+[11/30/2021 17:22:35.538 evaluate.py: 74] Step: 10
+[11/30/2021 17:22:35.576 evaluate.py: 74] Step: 11
+[11/30/2021 17:22:35.576 evaluate.py: 36] Buy:  $15766.74
+[11/30/2021 17:22:35.620 evaluate.py: 74] Step: 12
+[11/30/2021 17:22:35.661 evaluate.py: 74] Step: 13
+[11/30/2021 17:22:35.661 evaluate.py: 45] Sell: $16093.51 | Profit: $-1065.15
+[11/30/2021 17:22:35.706 evaluate.py: 74] Step: 14
+[11/30/2021 17:22:35.707 evaluate.py: 45] Sell: $15885.22 | Profit: $-1021.29
+[11/30/2021 17:22:35.748 evaluate.py: 74] Step: 15
+[11/30/2021 17:22:35.748 evaluate.py: 36] Buy:  $16167.23
+[11/30/2021 17:22:35.790 evaluate.py: 74] Step: 16
+[11/30/2021 17:22:35.791 evaluate.py: 36] Buy:  $15944.46
+[11/30/2021 17:22:35.842 evaluate.py: 74] Step: 17
+[11/30/2021 17:22:35.888 evaluate.py: 74] Step: 18
+[11/30/2021 17:22:35.888 evaluate.py: 45] Sell: $16466.30 | Profit: $699.56
+[11/30/2021 17:22:35.937 evaluate.py: 74] Step: 19
+[11/30/2021 17:22:35.937 evaluate.py: 45] Sell: $16449.18 | Profit: $281.95
+[11/30/2021 17:22:35.984 evaluate.py: 74] Step: 20
+[11/30/2021 17:22:35.984 evaluate.py: 36] Buy:  $16153.54
+[11/30/2021 17:22:36.031 evaluate.py: 74] Step: 21
+[11/30/2021 17:22:36.031 evaluate.py: 36] Buy:  $16336.66
+[11/30/2021 17:22:36.094 evaluate.py: 74] Step: 22
+[11/30/2021 17:22:36.153 evaluate.py: 74] Step: 23
+[11/30/2021 17:22:36.153 evaluate.py: 45] Sell: $16204.97 | Profit: $260.51
+[11/30/2021 17:22:36.199 evaluate.py: 74] Step: 24
+[11/30/2021 17:22:36.200 evaluate.py: 45] Sell: $16027.05 | Profit: $-126.49
+[11/30/2021 17:22:36.242 evaluate.py: 74] Step: 25
+[11/30/2021 17:22:36.242 evaluate.py: 36] Buy:  $16014.38
+[11/30/2021 17:22:36.289 evaluate.py: 74] Step: 26
+[11/30/2021 17:22:36.289 evaluate.py: 36] Buy:  $15914.74
+[11/30/2021 17:22:36.345 evaluate.py: 74] Step: 27
+[11/30/2021 17:22:36.397 evaluate.py: 74] Step: 28
+[11/30/2021 17:22:36.450 evaluate.py: 74] Step: 29
+[11/30/2021 17:22:36.450 evaluate.py: 45] Sell: $16196.41 | Profit: $-140.25
+[11/30/2021 17:22:36.496 evaluate.py: 74] Step: 30
+[11/30/2021 17:22:36.496 evaluate.py: 45] Sell: $16453.83 | Profit: $439.45
+[11/30/2021 17:22:36.550 evaluate.py: 74] Step: 31
+[11/30/2021 17:22:36.550 evaluate.py: 36] Buy:  $16413.43
+[11/30/2021 17:22:36.621 evaluate.py: 74] Step: 32
+[11/30/2021 17:22:36.621 evaluate.py: 36] Buy:  $16391.99
+[11/30/2021 17:22:36.675 evaluate.py: 74] Step: 33
+[11/30/2021 17:22:36.722 evaluate.py: 74] Step: 34
+[11/30/2021 17:22:36.775 evaluate.py: 74] Step: 35
+[11/30/2021 17:22:36.826 evaluate.py: 74] Step: 36
+[11/30/2021 17:22:36.826 evaluate.py: 45] Sell: $16697.29 | Profit: $782.55
+[11/30/2021 17:22:36.879 evaluate.py: 74] Step: 37
+[11/30/2021 17:22:36.880 evaluate.py: 45] Sell: $16639.97 | Profit: $226.54
+[11/30/2021 17:22:36.926 evaluate.py: 74] Step: 38
+[11/30/2021 17:22:36.926 evaluate.py: 36] Buy:  $16516.50
+[11/30/2021 17:22:36.970 evaluate.py: 74] Step: 39
+[11/30/2021 17:22:36.970 evaluate.py: 36] Buy:  $16865.08
+[11/30/2021 17:22:37.014 evaluate.py: 74] Step: 40
+[11/30/2021 17:22:37.066 evaluate.py: 74] Step: 41
+[11/30/2021 17:22:37.067 evaluate.py: 45] Sell: $16943.90 | Profit: $551.91
+[11/30/2021 17:22:37.127 evaluate.py: 74] Step: 42
+[11/30/2021 17:22:37.127 evaluate.py: 45] Sell: $17006.77 | Profit: $490.27
+[11/30/2021 17:22:37.180 evaluate.py: 74] Step: 43
+[11/30/2021 17:22:37.180 evaluate.py: 36] Buy:  $17073.95
+[11/30/2021 17:22:37.227 evaluate.py: 74] Step: 44
+[11/30/2021 17:22:37.227 evaluate.py: 36] Buy:  $16964.10
+[11/30/2021 17:22:37.270 evaluate.py: 74] Step: 45
+[11/30/2021 17:22:37.316 evaluate.py: 74] Step: 46
+[11/30/2021 17:22:37.316 evaluate.py: 45] Sell: $16995.13 | Profit: $130.05
+[11/30/2021 17:22:37.369 evaluate.py: 74] Step: 47
+[11/30/2021 17:22:37.369 evaluate.py: 45] Sell: $17213.31 | Profit: $139.36
+[11/30/2021 17:22:37.415 evaluate.py: 74] Step: 48
+[11/30/2021 17:22:37.415 evaluate.py: 36] Buy:  $17229.13
+[11/30/2021 17:22:37.461 evaluate.py: 74] Step: 49
+[11/30/2021 17:22:37.461 evaluate.py: 36] Buy:  $17251.53
+[11/30/2021 17:22:37.504 evaluate.py: 74] Step: 50
+[11/30/2021 17:22:37.546 evaluate.py: 74] Step: 51
+[11/30/2021 17:22:37.546 evaluate.py: 45] Sell: $17481.49 | Profit: $517.39
+[11/30/2021 17:22:37.602 evaluate.py: 74] Step: 52
+[11/30/2021 17:22:37.603 evaluate.py: 45] Sell: $17602.30 | Profit: $373.17
+[11/30/2021 17:22:37.669 evaluate.py: 74] Step: 53
+[11/30/2021 17:22:37.669 evaluate.py: 36] Buy:  $17623.87
+[11/30/2021 17:22:37.739 evaluate.py: 74] Step: 54
+[11/30/2021 17:22:37.739 evaluate.py: 36] Buy:  $17582.57
+[11/30/2021 17:22:37.807 evaluate.py: 74] Step: 55
+[11/30/2021 17:22:37.871 evaluate.py: 74] Step: 56
+[11/30/2021 17:22:37.871 evaluate.py: 45] Sell: $17515.73 | Profit: $264.20
+[11/30/2021 17:22:37.933 evaluate.py: 74] Step: 57
+[11/30/2021 17:22:37.933 evaluate.py: 45] Sell: $17535.39 | Profit: $-88.48
+[11/30/2021 17:22:37.975 evaluate.py: 74] Step: 58
+[11/30/2021 17:22:37.975 evaluate.py: 36] Buy:  $17633.11
+[11/30/2021 17:22:38.015 evaluate.py: 74] Step: 59
+[11/30/2021 17:22:38.057 evaluate.py: 74] Step: 60
+[11/30/2021 17:22:38.101 evaluate.py: 74] Step: 61
+[11/30/2021 17:22:38.149 evaluate.py: 74] Step: 62
+[11/30/2021 17:22:38.196 evaluate.py: 74] Step: 63
+[11/30/2021 17:22:38.243 evaluate.py: 74] Step: 64
+[11/30/2021 17:22:38.286 evaluate.py: 74] Step: 65
+[11/30/2021 17:22:38.332 evaluate.py: 74] Step: 66
+[11/30/2021 17:22:38.390 evaluate.py: 74] Step: 67
+[11/30/2021 17:22:38.430 evaluate.py: 74] Step: 68
+[11/30/2021 17:22:38.471 evaluate.py: 74] Step: 69
+[11/30/2021 17:22:38.513 evaluate.py: 74] Step: 70
+[11/30/2021 17:22:38.558 evaluate.py: 74] Step: 71
+[11/30/2021 17:22:38.611 evaluate.py: 74] Step: 72
+[11/30/2021 17:22:38.666 evaluate.py: 74] Step: 73
+[11/30/2021 17:22:38.733 evaluate.py: 74] Step: 74
+[11/30/2021 17:22:38.819 evaluate.py: 74] Step: 75
+[11/30/2021 17:22:38.892 evaluate.py: 74] Step: 76
+[11/30/2021 17:22:38.956 evaluate.py: 74] Step: 77
+[11/30/2021 17:22:39.013 evaluate.py: 74] Step: 78
+[11/30/2021 17:22:39.073 evaluate.py: 74] Step: 79
+[11/30/2021 17:22:39.129 evaluate.py: 74] Step: 80
+[11/30/2021 17:22:39.180 evaluate.py: 74] Step: 81
+[11/30/2021 17:22:39.228 evaluate.py: 74] Step: 82
+[11/30/2021 17:22:39.269 evaluate.py: 74] Step: 83
+[11/30/2021 17:22:39.313 evaluate.py: 74] Step: 84
+[11/30/2021 17:22:39.383 evaluate.py: 74] Step: 85
+[11/30/2021 17:22:39.448 evaluate.py: 74] Step: 86
+[11/30/2021 17:22:39.504 evaluate.py: 74] Step: 87
+[11/30/2021 17:22:39.548 evaluate.py: 74] Step: 88
+[11/30/2021 17:22:39.594 evaluate.py: 74] Step: 89
+[11/30/2021 17:22:39.637 evaluate.py: 74] Step: 90
+[11/30/2021 17:22:39.683 evaluate.py: 74] Step: 91
+[11/30/2021 17:22:39.741 evaluate.py: 74] Step: 92
+[11/30/2021 17:22:39.787 evaluate.py: 74] Step: 93
+[11/30/2021 17:22:39.833 evaluate.py: 74] Step: 94
+[11/30/2021 17:22:39.878 evaluate.py: 74] Step: 95
+[11/30/2021 17:22:39.878 evaluate.py: 36] Buy:  $17435.40
+[11/30/2021 17:22:39.919 evaluate.py: 74] Step: 96
+[11/30/2021 17:22:39.978 evaluate.py: 74] Step: 97
+[11/30/2021 17:22:39.978 evaluate.py: 45] Sell: $17492.93 | Profit: $-89.64
+[11/30/2021 17:22:40.038 evaluate.py: 74] Step: 98
+[11/30/2021 17:22:40.038 evaluate.py: 45] Sell: $17706.05 | Profit: $72.94
+[11/30/2021 17:22:40.110 evaluate.py: 74] Step: 99
+[11/30/2021 17:22:40.110 evaluate.py: 36] Buy:  $17851.51
+[11/30/2021 17:22:40.178 evaluate.py: 74] Step: 100
+[11/30/2021 17:22:40.229 evaluate.py: 74] Step: 101
+[11/30/2021 17:22:40.282 evaluate.py: 74] Step: 102
+[11/30/2021 17:22:40.328 evaluate.py: 74] Step: 103
+[11/30/2021 17:22:40.377 evaluate.py: 74] Step: 104
+[11/30/2021 17:22:40.420 evaluate.py: 74] Step: 105
+[11/30/2021 17:22:40.465 evaluate.py: 74] Step: 106
+[11/30/2021 17:22:40.517 evaluate.py: 74] Step: 107
+[11/30/2021 17:22:40.563 evaluate.py: 74] Step: 108
+[11/30/2021 17:22:40.608 evaluate.py: 74] Step: 109
+[11/30/2021 17:22:40.652 evaluate.py: 74] Step: 110
+[11/30/2021 17:22:40.694 evaluate.py: 74] Step: 111
+[11/30/2021 17:22:40.751 evaluate.py: 74] Step: 112
+[11/30/2021 17:22:40.800 evaluate.py: 74] Step: 113
+[11/30/2021 17:22:40.847 evaluate.py: 74] Step: 114
+[11/30/2021 17:22:40.890 evaluate.py: 74] Step: 115
+[11/30/2021 17:22:40.930 evaluate.py: 74] Step: 116
+[11/30/2021 17:22:40.978 evaluate.py: 74] Step: 117
+[11/30/2021 17:22:41.023 evaluate.py: 74] Step: 118
+[11/30/2021 17:22:41.066 evaluate.py: 74] Step: 119
+[11/30/2021 17:22:41.108 evaluate.py: 74] Step: 120
+[11/30/2021 17:22:41.108 evaluate.py: 36] Buy:  $17400.75
+[11/30/2021 17:22:41.147 evaluate.py: 74] Step: 121
+[11/30/2021 17:22:41.195 evaluate.py: 74] Step: 122
+[11/30/2021 17:22:41.195 evaluate.py: 45] Sell: $17409.72 | Profit: $-25.68
+[11/30/2021 17:22:41.236 evaluate.py: 74] Step: 123
+[11/30/2021 17:22:41.236 evaluate.py: 45] Sell: $17694.68 | Profit: $-156.83
+[11/30/2021 17:22:41.276 evaluate.py: 74] Step: 124
+[11/30/2021 17:22:41.276 evaluate.py: 36] Buy:  $17929.99
+[11/30/2021 17:22:41.319 evaluate.py: 74] Step: 125
+[11/30/2021 17:22:41.372 evaluate.py: 74] Step: 126
+[11/30/2021 17:22:41.427 evaluate.py: 74] Step: 127
+[11/30/2021 17:22:41.471 evaluate.py: 74] Step: 128
+[11/30/2021 17:22:41.512 evaluate.py: 74] Step: 129
+[11/30/2021 17:22:41.550 evaluate.py: 74] Step: 130
+[11/30/2021 17:22:41.593 evaluate.py: 74] Step: 131
+[11/30/2021 17:22:41.644 evaluate.py: 74] Step: 132
+[11/30/2021 17:22:41.689 evaluate.py: 74] Step: 133
+[11/30/2021 17:22:41.734 evaluate.py: 74] Step: 134
+[11/30/2021 17:22:41.776 evaluate.py: 74] Step: 135
+[11/30/2021 17:22:41.819 evaluate.py: 74] Step: 136
+[11/30/2021 17:22:41.869 evaluate.py: 74] Step: 137
+[11/30/2021 17:22:41.912 evaluate.py: 74] Step: 138
+[11/30/2021 17:22:41.959 evaluate.py: 74] Step: 139
+[11/30/2021 17:22:42.011 evaluate.py: 74] Step: 140
+[11/30/2021 17:22:42.070 evaluate.py: 74] Step: 141
+[11/30/2021 17:22:42.153 evaluate.py: 74] Step: 142
+[11/30/2021 17:22:42.220 evaluate.py: 74] Step: 143
+[11/30/2021 17:22:42.283 evaluate.py: 74] Step: 144
+[11/30/2021 17:22:42.345 evaluate.py: 74] Step: 145
+[11/30/2021 17:22:42.410 evaluate.py: 74] Step: 146
+[11/30/2021 17:22:42.494 evaluate.py: 74] Step: 147
+[11/30/2021 17:22:42.564 evaluate.py: 74] Step: 148
+[11/30/2021 17:22:42.623 evaluate.py: 74] Step: 149
+[11/30/2021 17:22:42.680 evaluate.py: 74] Step: 150
+[11/30/2021 17:22:42.744 evaluate.py: 74] Step: 151
+[11/30/2021 17:22:42.827 evaluate.py: 74] Step: 152
+[11/30/2021 17:22:42.914 evaluate.py: 74] Step: 153
+[11/30/2021 17:22:42.994 evaluate.py: 74] Step: 154
+[11/30/2021 17:22:43.047 evaluate.py: 74] Step: 155
+[11/30/2021 17:22:43.097 evaluate.py: 74] Step: 156
+[11/30/2021 17:22:43.153 evaluate.py: 74] Step: 157
+[11/30/2021 17:22:43.196 evaluate.py: 74] Step: 158
+[11/30/2021 17:22:43.240 evaluate.py: 74] Step: 159
+[11/30/2021 17:22:43.287 evaluate.py: 74] Step: 160
+[11/30/2021 17:22:43.338 evaluate.py: 74] Step: 161
+[11/30/2021 17:22:43.398 evaluate.py: 74] Step: 162
+[11/30/2021 17:22:43.446 evaluate.py: 74] Step: 163
+[11/30/2021 17:22:43.501 evaluate.py: 74] Step: 164
+[11/30/2021 17:22:43.560 evaluate.py: 74] Step: 165
+[11/30/2021 17:22:43.613 evaluate.py: 74] Step: 166
+[11/30/2021 17:22:43.675 evaluate.py: 74] Step: 167
+[11/30/2021 17:22:43.730 evaluate.py: 74] Step: 168
+[11/30/2021 17:22:43.806 evaluate.py: 74] Step: 169
+[11/30/2021 17:22:43.866 evaluate.py: 74] Step: 170
+[11/30/2021 17:22:43.924 evaluate.py: 74] Step: 171
+[11/30/2021 17:22:43.990 evaluate.py: 74] Step: 172
+[11/30/2021 17:22:44.048 evaluate.py: 74] Step: 173
+[11/30/2021 17:22:44.110 evaluate.py: 74] Step: 174
+[11/30/2021 17:22:44.166 evaluate.py: 74] Step: 175
+[11/30/2021 17:22:44.223 evaluate.py: 74] Step: 176
+[11/30/2021 17:22:44.288 evaluate.py: 74] Step: 177
+[11/30/2021 17:22:44.343 evaluate.py: 74] Step: 178
+[11/30/2021 17:22:44.398 evaluate.py: 74] Step: 179
+[11/30/2021 17:22:44.463 evaluate.py: 74] Step: 180
+[11/30/2021 17:22:44.523 evaluate.py: 74] Step: 181
+[11/30/2021 17:22:44.587 evaluate.py: 74] Step: 182
+[11/30/2021 17:22:44.638 evaluate.py: 74] Step: 183
+[11/30/2021 17:22:44.687 evaluate.py: 74] Step: 184
+[11/30/2021 17:22:44.733 evaluate.py: 74] Step: 185
+[11/30/2021 17:22:44.782 evaluate.py: 74] Step: 186
+[11/30/2021 17:22:44.838 evaluate.py: 74] Step: 187
+[11/30/2021 17:22:44.884 evaluate.py: 74] Step: 188
+[11/30/2021 17:22:44.937 evaluate.py: 74] Step: 189
+[11/30/2021 17:22:44.989 evaluate.py: 74] Step: 190
+[11/30/2021 17:22:45.038 evaluate.py: 74] Step: 191
+[11/30/2021 17:22:45.181 evaluate.py: 74] Step: 192
+[11/30/2021 17:22:45.230 evaluate.py: 74] Step: 193
+[11/30/2021 17:22:45.277 evaluate.py: 74] Step: 194
+[11/30/2021 17:22:45.323 evaluate.py: 74] Step: 195
+[11/30/2021 17:22:45.371 evaluate.py: 74] Step: 196
+[11/30/2021 17:22:45.432 evaluate.py: 74] Step: 197
+[11/30/2021 17:22:45.502 evaluate.py: 74] Step: 198
+[11/30/2021 17:22:45.581 evaluate.py: 74] Step: 199
+[11/30/2021 17:22:45.639 evaluate.py: 74] Step: 200
+[11/30/2021 17:22:45.692 evaluate.py: 74] Step: 201
+[11/30/2021 17:22:45.750 evaluate.py: 74] Step: 202
+[11/30/2021 17:22:45.810 evaluate.py: 74] Step: 203
+[11/30/2021 17:22:45.865 evaluate.py: 74] Step: 204
+[11/30/2021 17:22:45.915 evaluate.py: 74] Step: 205
+[11/30/2021 17:22:45.966 evaluate.py: 74] Step: 206
+[11/30/2021 17:22:46.022 evaluate.py: 74] Step: 207
+[11/30/2021 17:22:46.071 evaluate.py: 74] Step: 208
+[11/30/2021 17:22:46.116 evaluate.py: 74] Step: 209
+[11/30/2021 17:22:46.165 evaluate.py: 74] Step: 210
+[11/30/2021 17:22:46.219 evaluate.py: 74] Step: 211
+[11/30/2021 17:22:46.276 evaluate.py: 74] Step: 212
+[11/30/2021 17:22:46.324 evaluate.py: 74] Step: 213
+[11/30/2021 17:22:46.376 evaluate.py: 74] Step: 214
+[11/30/2021 17:22:46.428 evaluate.py: 74] Step: 215
+[11/30/2021 17:22:46.476 evaluate.py: 74] Step: 216
+[11/30/2021 17:22:46.527 evaluate.py: 74] Step: 217
+[11/30/2021 17:22:46.569 evaluate.py: 74] Step: 218
+[11/30/2021 17:22:46.612 evaluate.py: 74] Step: 219
+[11/30/2021 17:22:46.654 evaluate.py: 74] Step: 220
+[11/30/2021 17:22:46.700 evaluate.py: 74] Step: 221
+[11/30/2021 17:22:46.751 evaluate.py: 74] Step: 222
+[11/30/2021 17:22:46.795 evaluate.py: 74] Step: 223
+[11/30/2021 17:22:46.843 evaluate.py: 74] Step: 224
+[11/30/2021 17:22:46.891 evaluate.py: 74] Step: 225
+[11/30/2021 17:22:46.936 evaluate.py: 74] Step: 226
+[11/30/2021 17:22:46.991 evaluate.py: 74] Step: 227
+[11/30/2021 17:22:47.059 evaluate.py: 74] Step: 228
+[11/30/2021 17:22:47.139 evaluate.py: 74] Step: 229
+[11/30/2021 17:22:47.225 evaluate.py: 74] Step: 230
+[11/30/2021 17:22:47.300 evaluate.py: 74] Step: 231
+[11/30/2021 17:22:47.387 evaluate.py: 74] Step: 232
+[11/30/2021 17:22:47.460 evaluate.py: 74] Step: 233
+[11/30/2021 17:22:47.535 evaluate.py: 74] Step: 234
+[11/30/2021 17:22:47.602 evaluate.py: 74] Step: 235
+[11/30/2021 17:22:47.657 evaluate.py: 74] Step: 236
+[11/30/2021 17:22:47.739 evaluate.py: 74] Step: 237
+[11/30/2021 17:22:47.825 evaluate.py: 74] Step: 238
+[11/30/2021 17:22:47.919 evaluate.py: 74] Step: 239
+[11/30/2021 17:22:48.004 evaluate.py: 74] Step: 240
+[11/30/2021 17:22:48.085 evaluate.py: 74] Step: 241
+[11/30/2021 17:22:48.164 evaluate.py: 74] Step: 242
+[11/30/2021 17:22:48.230 evaluate.py: 74] Step: 243
+[11/30/2021 17:22:48.294 evaluate.py: 74] Step: 244
+[11/30/2021 17:22:48.357 evaluate.py: 74] Step: 245
+[11/30/2021 17:22:48.418 evaluate.py: 74] Step: 246
+[11/30/2021 17:22:48.481 evaluate.py: 74] Step: 247
+[11/30/2021 17:22:48.530 evaluate.py: 74] Step: 248
+[11/30/2021 17:22:48.582 evaluate.py: 74] Step: 249
+[11/30/2021 17:22:48.632 evaluate.py: 74] Step: 250
+[11/30/2021 17:22:48.680 evaluate.py: 74] Step: 251
+[11/30/2021 17:22:48.680 utils.py: 87] --------------------------------
+[11/30/2021 17:22:48.680 utils.py: 88] Portfolio Value:        $56710.50
+[11/30/2021 17:22:48.680 utils.py: 89] Portfolio Balance:      $17185.30
+[11/30/2021 17:22:48.680 utils.py: 90] Portfolio Stocks Number: 2
+[11/30/2021 17:22:48.680 utils.py: 91] Total Return:           $6710.50
+[11/30/2021 17:22:48.680 utils.py: 92] Mean/Daily Return Rate:  0.000%
+[11/30/2021 17:22:48.681 utils.py: 93] Sharpe Ratio adjusted with Treasury bond daily return: 0.333
+[11/30/2021 17:22:48.681 utils.py: 94] Maximum Drawdown:        -5.063%
+[11/30/2021 17:22:48.681 utils.py: 95] --------------------------------
+[11/30/2021 17:22:48.892 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 17:22:48.916 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 17:22:48.972 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 17:22:48.992 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 17:22:49.011 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 17:22:49.030 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 17:22:49.054 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[11/30/2021 17:22:49.071 category.py:225] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

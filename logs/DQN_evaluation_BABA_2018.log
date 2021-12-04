@@ -1,0 +1,1284 @@
+[11/29/2021 07:36:21.887 evaluate.py: 70] Step: 1
+[11/29/2021 07:36:21.887 evaluate.py: 29] Hold
+[11/29/2021 07:36:21.919 evaluate.py: 70] Step: 2
+[11/29/2021 07:36:21.919 evaluate.py: 29] Hold
+[11/29/2021 07:36:21.953 evaluate.py: 70] Step: 3
+[11/29/2021 07:36:21.953 evaluate.py: 29] Hold
+[11/29/2021 07:36:21.987 evaluate.py: 70] Step: 4
+[11/29/2021 07:36:21.987 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.017 evaluate.py: 70] Step: 5
+[11/29/2021 07:36:22.017 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.047 evaluate.py: 70] Step: 6
+[11/29/2021 07:36:22.047 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.081 evaluate.py: 70] Step: 7
+[11/29/2021 07:36:22.081 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.115 evaluate.py: 70] Step: 8
+[11/29/2021 07:36:22.115 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.145 evaluate.py: 70] Step: 9
+[11/29/2021 07:36:22.145 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.175 evaluate.py: 70] Step: 10
+[11/29/2021 07:36:22.175 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.205 evaluate.py: 70] Step: 11
+[11/29/2021 07:36:22.205 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.245 evaluate.py: 70] Step: 12
+[11/29/2021 07:36:22.245 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.277 evaluate.py: 70] Step: 13
+[11/29/2021 07:36:22.277 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.307 evaluate.py: 70] Step: 14
+[11/29/2021 07:36:22.308 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.337 evaluate.py: 70] Step: 15
+[11/29/2021 07:36:22.337 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.366 evaluate.py: 70] Step: 16
+[11/29/2021 07:36:22.367 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.401 evaluate.py: 70] Step: 17
+[11/29/2021 07:36:22.402 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.431 evaluate.py: 70] Step: 18
+[11/29/2021 07:36:22.431 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.461 evaluate.py: 70] Step: 19
+[11/29/2021 07:36:22.461 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.491 evaluate.py: 70] Step: 20
+[11/29/2021 07:36:22.491 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.521 evaluate.py: 70] Step: 21
+[11/29/2021 07:36:22.521 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.555 evaluate.py: 70] Step: 22
+[11/29/2021 07:36:22.555 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.586 evaluate.py: 70] Step: 23
+[11/29/2021 07:36:22.586 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.619 evaluate.py: 70] Step: 24
+[11/29/2021 07:36:22.619 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.649 evaluate.py: 70] Step: 25
+[11/29/2021 07:36:22.650 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.679 evaluate.py: 70] Step: 26
+[11/29/2021 07:36:22.679 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.714 evaluate.py: 70] Step: 27
+[11/29/2021 07:36:22.714 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.743 evaluate.py: 70] Step: 28
+[11/29/2021 07:36:22.743 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.773 evaluate.py: 70] Step: 29
+[11/29/2021 07:36:22.773 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.803 evaluate.py: 70] Step: 30
+[11/29/2021 07:36:22.803 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.832 evaluate.py: 70] Step: 31
+[11/29/2021 07:36:22.832 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.867 evaluate.py: 70] Step: 32
+[11/29/2021 07:36:22.867 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.901 evaluate.py: 70] Step: 33
+[11/29/2021 07:36:22.901 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.938 evaluate.py: 70] Step: 34
+[11/29/2021 07:36:22.938 evaluate.py: 29] Hold
+[11/29/2021 07:36:22.977 evaluate.py: 70] Step: 35
+[11/29/2021 07:36:22.977 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.013 evaluate.py: 70] Step: 36
+[11/29/2021 07:36:23.013 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.049 evaluate.py: 70] Step: 37
+[11/29/2021 07:36:23.049 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.083 evaluate.py: 70] Step: 38
+[11/29/2021 07:36:23.083 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.119 evaluate.py: 70] Step: 39
+[11/29/2021 07:36:23.119 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.153 evaluate.py: 70] Step: 40
+[11/29/2021 07:36:23.154 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.183 evaluate.py: 70] Step: 41
+[11/29/2021 07:36:23.184 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.223 evaluate.py: 70] Step: 42
+[11/29/2021 07:36:23.223 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.254 evaluate.py: 70] Step: 43
+[11/29/2021 07:36:23.254 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.284 evaluate.py: 70] Step: 44
+[11/29/2021 07:36:23.284 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.314 evaluate.py: 70] Step: 45
+[11/29/2021 07:36:23.314 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.347 evaluate.py: 70] Step: 46
+[11/29/2021 07:36:23.347 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.383 evaluate.py: 70] Step: 47
+[11/29/2021 07:36:23.383 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.413 evaluate.py: 70] Step: 48
+[11/29/2021 07:36:23.413 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.444 evaluate.py: 70] Step: 49
+[11/29/2021 07:36:23.444 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.474 evaluate.py: 70] Step: 50
+[11/29/2021 07:36:23.474 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.506 evaluate.py: 70] Step: 51
+[11/29/2021 07:36:23.507 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.544 evaluate.py: 70] Step: 52
+[11/29/2021 07:36:23.544 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.576 evaluate.py: 70] Step: 53
+[11/29/2021 07:36:23.576 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.607 evaluate.py: 70] Step: 54
+[11/29/2021 07:36:23.607 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.640 evaluate.py: 70] Step: 55
+[11/29/2021 07:36:23.640 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.673 evaluate.py: 70] Step: 56
+[11/29/2021 07:36:23.673 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.711 evaluate.py: 70] Step: 57
+[11/29/2021 07:36:23.711 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.741 evaluate.py: 70] Step: 58
+[11/29/2021 07:36:23.741 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.773 evaluate.py: 70] Step: 59
+[11/29/2021 07:36:23.773 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.804 evaluate.py: 70] Step: 60
+[11/29/2021 07:36:23.804 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.834 evaluate.py: 70] Step: 61
+[11/29/2021 07:36:23.834 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.870 evaluate.py: 70] Step: 62
+[11/29/2021 07:36:23.870 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.900 evaluate.py: 70] Step: 63
+[11/29/2021 07:36:23.901 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.931 evaluate.py: 70] Step: 64
+[11/29/2021 07:36:23.931 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.960 evaluate.py: 70] Step: 65
+[11/29/2021 07:36:23.960 evaluate.py: 29] Hold
+[11/29/2021 07:36:23.989 evaluate.py: 70] Step: 66
+[11/29/2021 07:36:23.990 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.026 evaluate.py: 70] Step: 67
+[11/29/2021 07:36:24.026 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.057 evaluate.py: 70] Step: 68
+[11/29/2021 07:36:24.057 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.086 evaluate.py: 70] Step: 69
+[11/29/2021 07:36:24.087 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.120 evaluate.py: 70] Step: 70
+[11/29/2021 07:36:24.120 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.151 evaluate.py: 70] Step: 71
+[11/29/2021 07:36:24.151 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.186 evaluate.py: 70] Step: 72
+[11/29/2021 07:36:24.186 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.216 evaluate.py: 70] Step: 73
+[11/29/2021 07:36:24.216 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.246 evaluate.py: 70] Step: 74
+[11/29/2021 07:36:24.246 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.276 evaluate.py: 70] Step: 75
+[11/29/2021 07:36:24.276 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.305 evaluate.py: 70] Step: 76
+[11/29/2021 07:36:24.305 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.340 evaluate.py: 70] Step: 77
+[11/29/2021 07:36:24.340 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.370 evaluate.py: 70] Step: 78
+[11/29/2021 07:36:24.370 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.400 evaluate.py: 70] Step: 79
+[11/29/2021 07:36:24.400 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.430 evaluate.py: 70] Step: 80
+[11/29/2021 07:36:24.430 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.460 evaluate.py: 70] Step: 81
+[11/29/2021 07:36:24.460 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.495 evaluate.py: 70] Step: 82
+[11/29/2021 07:36:24.495 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.525 evaluate.py: 70] Step: 83
+[11/29/2021 07:36:24.525 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.554 evaluate.py: 70] Step: 84
+[11/29/2021 07:36:24.555 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.586 evaluate.py: 70] Step: 85
+[11/29/2021 07:36:24.586 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.618 evaluate.py: 70] Step: 86
+[11/29/2021 07:36:24.618 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.655 evaluate.py: 70] Step: 87
+[11/29/2021 07:36:24.655 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.686 evaluate.py: 70] Step: 88
+[11/29/2021 07:36:24.686 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.715 evaluate.py: 70] Step: 89
+[11/29/2021 07:36:24.715 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.745 evaluate.py: 70] Step: 90
+[11/29/2021 07:36:24.745 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.775 evaluate.py: 70] Step: 91
+[11/29/2021 07:36:24.775 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.812 evaluate.py: 70] Step: 92
+[11/29/2021 07:36:24.812 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.844 evaluate.py: 70] Step: 93
+[11/29/2021 07:36:24.844 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.878 evaluate.py: 70] Step: 94
+[11/29/2021 07:36:24.878 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.910 evaluate.py: 70] Step: 95
+[11/29/2021 07:36:24.910 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.940 evaluate.py: 70] Step: 96
+[11/29/2021 07:36:24.940 evaluate.py: 29] Hold
+[11/29/2021 07:36:24.990 evaluate.py: 70] Step: 97
+[11/29/2021 07:36:24.990 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.027 evaluate.py: 70] Step: 98
+[11/29/2021 07:36:25.027 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.061 evaluate.py: 70] Step: 99
+[11/29/2021 07:36:25.061 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.094 evaluate.py: 70] Step: 100
+[11/29/2021 07:36:25.094 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.127 evaluate.py: 70] Step: 101
+[11/29/2021 07:36:25.127 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.165 evaluate.py: 70] Step: 102
+[11/29/2021 07:36:25.165 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.199 evaluate.py: 70] Step: 103
+[11/29/2021 07:36:25.199 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.231 evaluate.py: 70] Step: 104
+[11/29/2021 07:36:25.231 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.264 evaluate.py: 70] Step: 105
+[11/29/2021 07:36:25.264 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.297 evaluate.py: 70] Step: 106
+[11/29/2021 07:36:25.297 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.336 evaluate.py: 70] Step: 107
+[11/29/2021 07:36:25.336 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.368 evaluate.py: 70] Step: 108
+[11/29/2021 07:36:25.369 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.402 evaluate.py: 70] Step: 109
+[11/29/2021 07:36:25.402 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.434 evaluate.py: 70] Step: 110
+[11/29/2021 07:36:25.435 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.468 evaluate.py: 70] Step: 111
+[11/29/2021 07:36:25.468 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.507 evaluate.py: 70] Step: 112
+[11/29/2021 07:36:25.507 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.540 evaluate.py: 70] Step: 113
+[11/29/2021 07:36:25.540 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.572 evaluate.py: 70] Step: 114
+[11/29/2021 07:36:25.572 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.605 evaluate.py: 70] Step: 115
+[11/29/2021 07:36:25.605 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.637 evaluate.py: 70] Step: 116
+[11/29/2021 07:36:25.637 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.675 evaluate.py: 70] Step: 117
+[11/29/2021 07:36:25.675 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.707 evaluate.py: 70] Step: 118
+[11/29/2021 07:36:25.707 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.739 evaluate.py: 70] Step: 119
+[11/29/2021 07:36:25.739 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.770 evaluate.py: 70] Step: 120
+[11/29/2021 07:36:25.770 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.801 evaluate.py: 70] Step: 121
+[11/29/2021 07:36:25.802 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.841 evaluate.py: 70] Step: 122
+[11/29/2021 07:36:25.841 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.874 evaluate.py: 70] Step: 123
+[11/29/2021 07:36:25.874 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.903 evaluate.py: 70] Step: 124
+[11/29/2021 07:36:25.903 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.933 evaluate.py: 70] Step: 125
+[11/29/2021 07:36:25.933 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.962 evaluate.py: 70] Step: 126
+[11/29/2021 07:36:25.963 evaluate.py: 29] Hold
+[11/29/2021 07:36:25.997 evaluate.py: 70] Step: 127
+[11/29/2021 07:36:25.997 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.028 evaluate.py: 70] Step: 128
+[11/29/2021 07:36:26.028 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.058 evaluate.py: 70] Step: 129
+[11/29/2021 07:36:26.058 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.088 evaluate.py: 70] Step: 130
+[11/29/2021 07:36:26.088 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.118 evaluate.py: 70] Step: 131
+[11/29/2021 07:36:26.118 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.154 evaluate.py: 70] Step: 132
+[11/29/2021 07:36:26.154 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.184 evaluate.py: 70] Step: 133
+[11/29/2021 07:36:26.184 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.214 evaluate.py: 70] Step: 134
+[11/29/2021 07:36:26.214 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.243 evaluate.py: 70] Step: 135
+[11/29/2021 07:36:26.243 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.272 evaluate.py: 70] Step: 136
+[11/29/2021 07:36:26.272 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.307 evaluate.py: 70] Step: 137
+[11/29/2021 07:36:26.307 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.338 evaluate.py: 70] Step: 138
+[11/29/2021 07:36:26.338 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.368 evaluate.py: 70] Step: 139
+[11/29/2021 07:36:26.368 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.398 evaluate.py: 70] Step: 140
+[11/29/2021 07:36:26.398 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.428 evaluate.py: 70] Step: 141
+[11/29/2021 07:36:26.428 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.463 evaluate.py: 70] Step: 142
+[11/29/2021 07:36:26.463 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.494 evaluate.py: 70] Step: 143
+[11/29/2021 07:36:26.494 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.525 evaluate.py: 70] Step: 144
+[11/29/2021 07:36:26.526 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.559 evaluate.py: 70] Step: 145
+[11/29/2021 07:36:26.559 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.595 evaluate.py: 70] Step: 146
+[11/29/2021 07:36:26.595 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.636 evaluate.py: 70] Step: 147
+[11/29/2021 07:36:26.636 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.670 evaluate.py: 70] Step: 148
+[11/29/2021 07:36:26.670 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.704 evaluate.py: 70] Step: 149
+[11/29/2021 07:36:26.704 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.738 evaluate.py: 70] Step: 150
+[11/29/2021 07:36:26.738 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.773 evaluate.py: 70] Step: 151
+[11/29/2021 07:36:26.773 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.812 evaluate.py: 70] Step: 152
+[11/29/2021 07:36:26.812 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.846 evaluate.py: 70] Step: 153
+[11/29/2021 07:36:26.846 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.878 evaluate.py: 70] Step: 154
+[11/29/2021 07:36:26.878 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.911 evaluate.py: 70] Step: 155
+[11/29/2021 07:36:26.911 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.945 evaluate.py: 70] Step: 156
+[11/29/2021 07:36:26.945 evaluate.py: 29] Hold
+[11/29/2021 07:36:26.985 evaluate.py: 70] Step: 157
+[11/29/2021 07:36:26.985 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.019 evaluate.py: 70] Step: 158
+[11/29/2021 07:36:27.019 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.053 evaluate.py: 70] Step: 159
+[11/29/2021 07:36:27.053 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.086 evaluate.py: 70] Step: 160
+[11/29/2021 07:36:27.086 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.119 evaluate.py: 70] Step: 161
+[11/29/2021 07:36:27.119 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.156 evaluate.py: 70] Step: 162
+[11/29/2021 07:36:27.157 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.188 evaluate.py: 70] Step: 163
+[11/29/2021 07:36:27.188 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.220 evaluate.py: 70] Step: 164
+[11/29/2021 07:36:27.220 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.252 evaluate.py: 70] Step: 165
+[11/29/2021 07:36:27.252 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.283 evaluate.py: 70] Step: 166
+[11/29/2021 07:36:27.283 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.321 evaluate.py: 70] Step: 167
+[11/29/2021 07:36:27.321 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.352 evaluate.py: 70] Step: 168
+[11/29/2021 07:36:27.352 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.383 evaluate.py: 70] Step: 169
+[11/29/2021 07:36:27.383 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.412 evaluate.py: 70] Step: 170
+[11/29/2021 07:36:27.413 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.442 evaluate.py: 70] Step: 171
+[11/29/2021 07:36:27.442 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.477 evaluate.py: 70] Step: 172
+[11/29/2021 07:36:27.477 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.507 evaluate.py: 70] Step: 173
+[11/29/2021 07:36:27.507 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.537 evaluate.py: 70] Step: 174
+[11/29/2021 07:36:27.537 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.568 evaluate.py: 70] Step: 175
+[11/29/2021 07:36:27.568 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.599 evaluate.py: 70] Step: 176
+[11/29/2021 07:36:27.599 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.636 evaluate.py: 70] Step: 177
+[11/29/2021 07:36:27.636 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.666 evaluate.py: 70] Step: 178
+[11/29/2021 07:36:27.666 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.696 evaluate.py: 70] Step: 179
+[11/29/2021 07:36:27.696 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.726 evaluate.py: 70] Step: 180
+[11/29/2021 07:36:27.726 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.756 evaluate.py: 70] Step: 181
+[11/29/2021 07:36:27.756 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.791 evaluate.py: 70] Step: 182
+[11/29/2021 07:36:27.791 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.822 evaluate.py: 70] Step: 183
+[11/29/2021 07:36:27.822 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.852 evaluate.py: 70] Step: 184
+[11/29/2021 07:36:27.852 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.883 evaluate.py: 70] Step: 185
+[11/29/2021 07:36:27.883 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.914 evaluate.py: 70] Step: 186
+[11/29/2021 07:36:27.914 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.950 evaluate.py: 70] Step: 187
+[11/29/2021 07:36:27.950 evaluate.py: 29] Hold
+[11/29/2021 07:36:27.981 evaluate.py: 70] Step: 188
+[11/29/2021 07:36:27.981 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.011 evaluate.py: 70] Step: 189
+[11/29/2021 07:36:28.011 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.041 evaluate.py: 70] Step: 190
+[11/29/2021 07:36:28.041 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.070 evaluate.py: 70] Step: 191
+[11/29/2021 07:36:28.071 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.106 evaluate.py: 70] Step: 192
+[11/29/2021 07:36:28.106 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.205 evaluate.py: 70] Step: 193
+[11/29/2021 07:36:28.206 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.235 evaluate.py: 70] Step: 194
+[11/29/2021 07:36:28.235 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.265 evaluate.py: 70] Step: 195
+[11/29/2021 07:36:28.265 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.294 evaluate.py: 70] Step: 196
+[11/29/2021 07:36:28.294 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.328 evaluate.py: 70] Step: 197
+[11/29/2021 07:36:28.328 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.357 evaluate.py: 70] Step: 198
+[11/29/2021 07:36:28.357 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.387 evaluate.py: 70] Step: 199
+[11/29/2021 07:36:28.387 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.416 evaluate.py: 70] Step: 200
+[11/29/2021 07:36:28.416 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.446 evaluate.py: 70] Step: 201
+[11/29/2021 07:36:28.446 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.480 evaluate.py: 70] Step: 202
+[11/29/2021 07:36:28.480 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.509 evaluate.py: 70] Step: 203
+[11/29/2021 07:36:28.509 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.539 evaluate.py: 70] Step: 204
+[11/29/2021 07:36:28.539 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.569 evaluate.py: 70] Step: 205
+[11/29/2021 07:36:28.569 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.599 evaluate.py: 70] Step: 206
+[11/29/2021 07:36:28.599 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.632 evaluate.py: 70] Step: 207
+[11/29/2021 07:36:28.632 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.665 evaluate.py: 70] Step: 208
+[11/29/2021 07:36:28.666 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.697 evaluate.py: 70] Step: 209
+[11/29/2021 07:36:28.697 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.727 evaluate.py: 70] Step: 210
+[11/29/2021 07:36:28.727 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.757 evaluate.py: 70] Step: 211
+[11/29/2021 07:36:28.757 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.791 evaluate.py: 70] Step: 212
+[11/29/2021 07:36:28.791 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.821 evaluate.py: 70] Step: 213
+[11/29/2021 07:36:28.821 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.850 evaluate.py: 70] Step: 214
+[11/29/2021 07:36:28.850 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.879 evaluate.py: 70] Step: 215
+[11/29/2021 07:36:28.880 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.909 evaluate.py: 70] Step: 216
+[11/29/2021 07:36:28.910 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.944 evaluate.py: 70] Step: 217
+[11/29/2021 07:36:28.944 evaluate.py: 29] Hold
+[11/29/2021 07:36:28.973 evaluate.py: 70] Step: 218
+[11/29/2021 07:36:28.973 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.002 evaluate.py: 70] Step: 219
+[11/29/2021 07:36:29.002 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.032 evaluate.py: 70] Step: 220
+[11/29/2021 07:36:29.032 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.064 evaluate.py: 70] Step: 221
+[11/29/2021 07:36:29.064 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.101 evaluate.py: 70] Step: 222
+[11/29/2021 07:36:29.101 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.132 evaluate.py: 70] Step: 223
+[11/29/2021 07:36:29.132 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.163 evaluate.py: 70] Step: 224
+[11/29/2021 07:36:29.163 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.193 evaluate.py: 70] Step: 225
+[11/29/2021 07:36:29.193 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.223 evaluate.py: 70] Step: 226
+[11/29/2021 07:36:29.224 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.258 evaluate.py: 70] Step: 227
+[11/29/2021 07:36:29.258 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.287 evaluate.py: 70] Step: 228
+[11/29/2021 07:36:29.287 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.317 evaluate.py: 70] Step: 229
+[11/29/2021 07:36:29.317 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.347 evaluate.py: 70] Step: 230
+[11/29/2021 07:36:29.347 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.377 evaluate.py: 70] Step: 231
+[11/29/2021 07:36:29.377 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.413 evaluate.py: 70] Step: 232
+[11/29/2021 07:36:29.413 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.442 evaluate.py: 70] Step: 233
+[11/29/2021 07:36:29.442 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.476 evaluate.py: 70] Step: 234
+[11/29/2021 07:36:29.476 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.506 evaluate.py: 70] Step: 235
+[11/29/2021 07:36:29.506 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.535 evaluate.py: 70] Step: 236
+[11/29/2021 07:36:29.536 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.571 evaluate.py: 70] Step: 237
+[11/29/2021 07:36:29.571 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.619 evaluate.py: 70] Step: 238
+[11/29/2021 07:36:29.620 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.652 evaluate.py: 70] Step: 239
+[11/29/2021 07:36:29.653 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.684 evaluate.py: 70] Step: 240
+[11/29/2021 07:36:29.684 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.716 evaluate.py: 70] Step: 241
+[11/29/2021 07:36:29.717 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.754 evaluate.py: 70] Step: 242
+[11/29/2021 07:36:29.754 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.783 evaluate.py: 70] Step: 243
+[11/29/2021 07:36:29.784 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.817 evaluate.py: 70] Step: 244
+[11/29/2021 07:36:29.817 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.852 evaluate.py: 70] Step: 245
+[11/29/2021 07:36:29.853 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.882 evaluate.py: 70] Step: 246
+[11/29/2021 07:36:29.882 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.918 evaluate.py: 70] Step: 247
+[11/29/2021 07:36:29.918 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.948 evaluate.py: 70] Step: 248
+[11/29/2021 07:36:29.948 evaluate.py: 29] Hold
+[11/29/2021 07:36:29.977 evaluate.py: 70] Step: 249
+[11/29/2021 07:36:29.977 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.006 evaluate.py: 70] Step: 250
+[11/29/2021 07:36:30.007 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.007 utils.py: 86] --------------------------------
+[11/29/2021 07:36:30.007 utils.py: 87] Portfolio Value:        $50000.00
+[11/29/2021 07:36:30.007 utils.py: 88] Portfolio Balance:      $50000.00
+[11/29/2021 07:36:30.007 utils.py: 89] Portfolio Stocks Number: 0
+[11/29/2021 07:36:30.007 utils.py: 90] Total Return:           $0.00
+[11/29/2021 07:36:30.007 utils.py: 91] Mean/Daily Return Rate:  0.000%
+[11/29/2021 07:36:30.007 utils.py: 92] Sharpe Ratio adjusted with Treasury bond daily return: nan
+[11/29/2021 07:36:30.008 utils.py: 93] Maximum Drawdown:        0.000%
+[11/29/2021 07:36:30.008 utils.py: 94] --------------------------------
+[11/29/2021 07:36:30.322 evaluate.py: 70] Step: 1
+[11/29/2021 07:36:30.322 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.359 evaluate.py: 70] Step: 2
+[11/29/2021 07:36:30.359 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.394 evaluate.py: 70] Step: 3
+[11/29/2021 07:36:30.395 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.429 evaluate.py: 70] Step: 4
+[11/29/2021 07:36:30.429 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.462 evaluate.py: 70] Step: 5
+[11/29/2021 07:36:30.463 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.494 evaluate.py: 70] Step: 6
+[11/29/2021 07:36:30.494 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.528 evaluate.py: 70] Step: 7
+[11/29/2021 07:36:30.528 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.559 evaluate.py: 70] Step: 8
+[11/29/2021 07:36:30.559 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.593 evaluate.py: 70] Step: 9
+[11/29/2021 07:36:30.593 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.626 evaluate.py: 70] Step: 10
+[11/29/2021 07:36:30.626 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.658 evaluate.py: 70] Step: 11
+[11/29/2021 07:36:30.658 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.700 evaluate.py: 70] Step: 12
+[11/29/2021 07:36:30.700 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.735 evaluate.py: 70] Step: 13
+[11/29/2021 07:36:30.735 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.770 evaluate.py: 70] Step: 14
+[11/29/2021 07:36:30.770 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.804 evaluate.py: 70] Step: 15
+[11/29/2021 07:36:30.804 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.842 evaluate.py: 70] Step: 16
+[11/29/2021 07:36:30.842 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.886 evaluate.py: 70] Step: 17
+[11/29/2021 07:36:30.887 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.922 evaluate.py: 70] Step: 18
+[11/29/2021 07:36:30.923 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.957 evaluate.py: 70] Step: 19
+[11/29/2021 07:36:30.957 evaluate.py: 29] Hold
+[11/29/2021 07:36:30.990 evaluate.py: 70] Step: 20
+[11/29/2021 07:36:30.990 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.023 evaluate.py: 70] Step: 21
+[11/29/2021 07:36:31.023 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.061 evaluate.py: 70] Step: 22
+[11/29/2021 07:36:31.061 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.095 evaluate.py: 70] Step: 23
+[11/29/2021 07:36:31.095 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.129 evaluate.py: 70] Step: 24
+[11/29/2021 07:36:31.129 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.163 evaluate.py: 70] Step: 25
+[11/29/2021 07:36:31.163 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.199 evaluate.py: 70] Step: 26
+[11/29/2021 07:36:31.199 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.241 evaluate.py: 70] Step: 27
+[11/29/2021 07:36:31.241 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.278 evaluate.py: 70] Step: 28
+[11/29/2021 07:36:31.279 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.316 evaluate.py: 70] Step: 29
+[11/29/2021 07:36:31.316 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.350 evaluate.py: 70] Step: 30
+[11/29/2021 07:36:31.351 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.384 evaluate.py: 70] Step: 31
+[11/29/2021 07:36:31.384 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.427 evaluate.py: 70] Step: 32
+[11/29/2021 07:36:31.427 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.466 evaluate.py: 70] Step: 33
+[11/29/2021 07:36:31.466 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.505 evaluate.py: 70] Step: 34
+[11/29/2021 07:36:31.505 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.543 evaluate.py: 70] Step: 35
+[11/29/2021 07:36:31.543 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.588 evaluate.py: 70] Step: 36
+[11/29/2021 07:36:31.588 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.640 evaluate.py: 70] Step: 37
+[11/29/2021 07:36:31.640 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.682 evaluate.py: 70] Step: 38
+[11/29/2021 07:36:31.682 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.763 evaluate.py: 70] Step: 39
+[11/29/2021 07:36:31.763 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.811 evaluate.py: 70] Step: 40
+[11/29/2021 07:36:31.811 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.848 evaluate.py: 70] Step: 41
+[11/29/2021 07:36:31.848 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.891 evaluate.py: 70] Step: 42
+[11/29/2021 07:36:31.891 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.930 evaluate.py: 70] Step: 43
+[11/29/2021 07:36:31.930 evaluate.py: 29] Hold
+[11/29/2021 07:36:31.965 evaluate.py: 70] Step: 44
+[11/29/2021 07:36:31.965 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.003 evaluate.py: 70] Step: 45
+[11/29/2021 07:36:32.003 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.040 evaluate.py: 70] Step: 46
+[11/29/2021 07:36:32.040 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.081 evaluate.py: 70] Step: 47
+[11/29/2021 07:36:32.081 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.116 evaluate.py: 70] Step: 48
+[11/29/2021 07:36:32.116 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.151 evaluate.py: 70] Step: 49
+[11/29/2021 07:36:32.151 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.185 evaluate.py: 70] Step: 50
+[11/29/2021 07:36:32.185 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.219 evaluate.py: 70] Step: 51
+[11/29/2021 07:36:32.219 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.259 evaluate.py: 70] Step: 52
+[11/29/2021 07:36:32.260 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.296 evaluate.py: 70] Step: 53
+[11/29/2021 07:36:32.296 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.333 evaluate.py: 70] Step: 54
+[11/29/2021 07:36:32.333 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.369 evaluate.py: 70] Step: 55
+[11/29/2021 07:36:32.369 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.404 evaluate.py: 70] Step: 56
+[11/29/2021 07:36:32.404 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.445 evaluate.py: 70] Step: 57
+[11/29/2021 07:36:32.445 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.476 evaluate.py: 70] Step: 58
+[11/29/2021 07:36:32.476 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.506 evaluate.py: 70] Step: 59
+[11/29/2021 07:36:32.506 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.539 evaluate.py: 70] Step: 60
+[11/29/2021 07:36:32.539 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.569 evaluate.py: 70] Step: 61
+[11/29/2021 07:36:32.569 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.604 evaluate.py: 70] Step: 62
+[11/29/2021 07:36:32.604 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.657 evaluate.py: 70] Step: 63
+[11/29/2021 07:36:32.657 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.696 evaluate.py: 70] Step: 64
+[11/29/2021 07:36:32.696 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.730 evaluate.py: 70] Step: 65
+[11/29/2021 07:36:32.730 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.764 evaluate.py: 70] Step: 66
+[11/29/2021 07:36:32.764 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.802 evaluate.py: 70] Step: 67
+[11/29/2021 07:36:32.802 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.834 evaluate.py: 70] Step: 68
+[11/29/2021 07:36:32.835 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.869 evaluate.py: 70] Step: 69
+[11/29/2021 07:36:32.869 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.900 evaluate.py: 70] Step: 70
+[11/29/2021 07:36:32.901 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.931 evaluate.py: 70] Step: 71
+[11/29/2021 07:36:32.931 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.967 evaluate.py: 70] Step: 72
+[11/29/2021 07:36:32.967 evaluate.py: 29] Hold
+[11/29/2021 07:36:32.997 evaluate.py: 70] Step: 73
+[11/29/2021 07:36:32.997 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.027 evaluate.py: 70] Step: 74
+[11/29/2021 07:36:33.027 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.059 evaluate.py: 70] Step: 75
+[11/29/2021 07:36:33.059 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.090 evaluate.py: 70] Step: 76
+[11/29/2021 07:36:33.090 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.132 evaluate.py: 70] Step: 77
+[11/29/2021 07:36:33.132 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.173 evaluate.py: 70] Step: 78
+[11/29/2021 07:36:33.173 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.211 evaluate.py: 70] Step: 79
+[11/29/2021 07:36:33.211 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.249 evaluate.py: 70] Step: 80
+[11/29/2021 07:36:33.249 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.286 evaluate.py: 70] Step: 81
+[11/29/2021 07:36:33.286 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.329 evaluate.py: 70] Step: 82
+[11/29/2021 07:36:33.329 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.366 evaluate.py: 70] Step: 83
+[11/29/2021 07:36:33.366 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.403 evaluate.py: 70] Step: 84
+[11/29/2021 07:36:33.403 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.439 evaluate.py: 70] Step: 85
+[11/29/2021 07:36:33.439 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.473 evaluate.py: 70] Step: 86
+[11/29/2021 07:36:33.473 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.511 evaluate.py: 70] Step: 87
+[11/29/2021 07:36:33.511 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.544 evaluate.py: 70] Step: 88
+[11/29/2021 07:36:33.544 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.578 evaluate.py: 70] Step: 89
+[11/29/2021 07:36:33.578 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.611 evaluate.py: 70] Step: 90
+[11/29/2021 07:36:33.611 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.645 evaluate.py: 70] Step: 91
+[11/29/2021 07:36:33.645 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.684 evaluate.py: 70] Step: 92
+[11/29/2021 07:36:33.684 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.717 evaluate.py: 70] Step: 93
+[11/29/2021 07:36:33.717 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.750 evaluate.py: 70] Step: 94
+[11/29/2021 07:36:33.750 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.784 evaluate.py: 70] Step: 95
+[11/29/2021 07:36:33.784 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.819 evaluate.py: 70] Step: 96
+[11/29/2021 07:36:33.819 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.859 evaluate.py: 70] Step: 97
+[11/29/2021 07:36:33.859 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.893 evaluate.py: 70] Step: 98
+[11/29/2021 07:36:33.893 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.929 evaluate.py: 70] Step: 99
+[11/29/2021 07:36:33.929 evaluate.py: 29] Hold
+[11/29/2021 07:36:33.967 evaluate.py: 70] Step: 100
+[11/29/2021 07:36:33.967 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.002 evaluate.py: 70] Step: 101
+[11/29/2021 07:36:34.002 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.045 evaluate.py: 70] Step: 102
+[11/29/2021 07:36:34.045 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.079 evaluate.py: 70] Step: 103
+[11/29/2021 07:36:34.080 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.114 evaluate.py: 70] Step: 104
+[11/29/2021 07:36:34.114 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.147 evaluate.py: 70] Step: 105
+[11/29/2021 07:36:34.147 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.178 evaluate.py: 70] Step: 106
+[11/29/2021 07:36:34.178 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.216 evaluate.py: 70] Step: 107
+[11/29/2021 07:36:34.217 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.248 evaluate.py: 70] Step: 108
+[11/29/2021 07:36:34.248 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.280 evaluate.py: 70] Step: 109
+[11/29/2021 07:36:34.280 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.311 evaluate.py: 70] Step: 110
+[11/29/2021 07:36:34.311 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.345 evaluate.py: 70] Step: 111
+[11/29/2021 07:36:34.345 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.385 evaluate.py: 70] Step: 112
+[11/29/2021 07:36:34.385 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.416 evaluate.py: 70] Step: 113
+[11/29/2021 07:36:34.416 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.448 evaluate.py: 70] Step: 114
+[11/29/2021 07:36:34.448 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.479 evaluate.py: 70] Step: 115
+[11/29/2021 07:36:34.479 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.512 evaluate.py: 70] Step: 116
+[11/29/2021 07:36:34.512 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.552 evaluate.py: 70] Step: 117
+[11/29/2021 07:36:34.552 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.585 evaluate.py: 70] Step: 118
+[11/29/2021 07:36:34.585 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.617 evaluate.py: 70] Step: 119
+[11/29/2021 07:36:34.617 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.650 evaluate.py: 70] Step: 120
+[11/29/2021 07:36:34.650 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.685 evaluate.py: 70] Step: 121
+[11/29/2021 07:36:34.685 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.726 evaluate.py: 70] Step: 122
+[11/29/2021 07:36:34.726 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.757 evaluate.py: 70] Step: 123
+[11/29/2021 07:36:34.758 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.788 evaluate.py: 70] Step: 124
+[11/29/2021 07:36:34.788 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.846 evaluate.py: 70] Step: 125
+[11/29/2021 07:36:34.846 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.886 evaluate.py: 70] Step: 126
+[11/29/2021 07:36:34.886 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.922 evaluate.py: 70] Step: 127
+[11/29/2021 07:36:34.922 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.952 evaluate.py: 70] Step: 128
+[11/29/2021 07:36:34.952 evaluate.py: 29] Hold
+[11/29/2021 07:36:34.982 evaluate.py: 70] Step: 129
+[11/29/2021 07:36:34.982 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.012 evaluate.py: 70] Step: 130
+[11/29/2021 07:36:35.012 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.044 evaluate.py: 70] Step: 131
+[11/29/2021 07:36:35.044 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.082 evaluate.py: 70] Step: 132
+[11/29/2021 07:36:35.082 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.118 evaluate.py: 70] Step: 133
+[11/29/2021 07:36:35.118 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.151 evaluate.py: 70] Step: 134
+[11/29/2021 07:36:35.151 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.182 evaluate.py: 70] Step: 135
+[11/29/2021 07:36:35.182 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.214 evaluate.py: 70] Step: 136
+[11/29/2021 07:36:35.214 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.250 evaluate.py: 70] Step: 137
+[11/29/2021 07:36:35.250 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.280 evaluate.py: 70] Step: 138
+[11/29/2021 07:36:35.280 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.310 evaluate.py: 70] Step: 139
+[11/29/2021 07:36:35.310 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.340 evaluate.py: 70] Step: 140
+[11/29/2021 07:36:35.340 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.371 evaluate.py: 70] Step: 141
+[11/29/2021 07:36:35.371 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.411 evaluate.py: 70] Step: 142
+[11/29/2021 07:36:35.411 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.442 evaluate.py: 70] Step: 143
+[11/29/2021 07:36:35.442 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.472 evaluate.py: 70] Step: 144
+[11/29/2021 07:36:35.472 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.505 evaluate.py: 70] Step: 145
+[11/29/2021 07:36:35.505 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.535 evaluate.py: 70] Step: 146
+[11/29/2021 07:36:35.535 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.570 evaluate.py: 70] Step: 147
+[11/29/2021 07:36:35.570 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.620 evaluate.py: 70] Step: 148
+[11/29/2021 07:36:35.620 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.655 evaluate.py: 70] Step: 149
+[11/29/2021 07:36:35.655 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.688 evaluate.py: 70] Step: 150
+[11/29/2021 07:36:35.688 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.720 evaluate.py: 70] Step: 151
+[11/29/2021 07:36:35.720 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.759 evaluate.py: 70] Step: 152
+[11/29/2021 07:36:35.759 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.793 evaluate.py: 70] Step: 153
+[11/29/2021 07:36:35.794 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.827 evaluate.py: 70] Step: 154
+[11/29/2021 07:36:35.828 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.861 evaluate.py: 70] Step: 155
+[11/29/2021 07:36:35.861 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.895 evaluate.py: 70] Step: 156
+[11/29/2021 07:36:35.895 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.934 evaluate.py: 70] Step: 157
+[11/29/2021 07:36:35.934 evaluate.py: 29] Hold
+[11/29/2021 07:36:35.968 evaluate.py: 70] Step: 158
+[11/29/2021 07:36:35.968 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.003 evaluate.py: 70] Step: 159
+[11/29/2021 07:36:36.003 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.039 evaluate.py: 70] Step: 160
+[11/29/2021 07:36:36.039 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.075 evaluate.py: 70] Step: 161
+[11/29/2021 07:36:36.075 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.217 evaluate.py: 70] Step: 162
+[11/29/2021 07:36:36.217 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.254 evaluate.py: 70] Step: 163
+[11/29/2021 07:36:36.254 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.288 evaluate.py: 70] Step: 164
+[11/29/2021 07:36:36.288 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.323 evaluate.py: 70] Step: 165
+[11/29/2021 07:36:36.324 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.356 evaluate.py: 70] Step: 166
+[11/29/2021 07:36:36.356 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.393 evaluate.py: 70] Step: 167
+[11/29/2021 07:36:36.393 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.427 evaluate.py: 70] Step: 168
+[11/29/2021 07:36:36.427 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.458 evaluate.py: 70] Step: 169
+[11/29/2021 07:36:36.458 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.489 evaluate.py: 70] Step: 170
+[11/29/2021 07:36:36.489 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.522 evaluate.py: 70] Step: 171
+[11/29/2021 07:36:36.522 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.562 evaluate.py: 70] Step: 172
+[11/29/2021 07:36:36.562 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.597 evaluate.py: 70] Step: 173
+[11/29/2021 07:36:36.597 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.631 evaluate.py: 70] Step: 174
+[11/29/2021 07:36:36.631 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.665 evaluate.py: 70] Step: 175
+[11/29/2021 07:36:36.665 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.698 evaluate.py: 70] Step: 176
+[11/29/2021 07:36:36.698 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.739 evaluate.py: 70] Step: 177
+[11/29/2021 07:36:36.739 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.773 evaluate.py: 70] Step: 178
+[11/29/2021 07:36:36.773 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.807 evaluate.py: 70] Step: 179
+[11/29/2021 07:36:36.807 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.839 evaluate.py: 70] Step: 180
+[11/29/2021 07:36:36.839 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.874 evaluate.py: 70] Step: 181
+[11/29/2021 07:36:36.874 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.914 evaluate.py: 70] Step: 182
+[11/29/2021 07:36:36.914 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.948 evaluate.py: 70] Step: 183
+[11/29/2021 07:36:36.948 evaluate.py: 29] Hold
+[11/29/2021 07:36:36.982 evaluate.py: 70] Step: 184
+[11/29/2021 07:36:36.982 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.016 evaluate.py: 70] Step: 185
+[11/29/2021 07:36:37.016 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.050 evaluate.py: 70] Step: 186
+[11/29/2021 07:36:37.051 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.090 evaluate.py: 70] Step: 187
+[11/29/2021 07:36:37.091 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.125 evaluate.py: 70] Step: 188
+[11/29/2021 07:36:37.125 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.159 evaluate.py: 70] Step: 189
+[11/29/2021 07:36:37.160 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.194 evaluate.py: 70] Step: 190
+[11/29/2021 07:36:37.194 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.228 evaluate.py: 70] Step: 191
+[11/29/2021 07:36:37.228 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.269 evaluate.py: 70] Step: 192
+[11/29/2021 07:36:37.270 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.304 evaluate.py: 70] Step: 193
+[11/29/2021 07:36:37.304 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.339 evaluate.py: 70] Step: 194
+[11/29/2021 07:36:37.339 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.373 evaluate.py: 70] Step: 195
+[11/29/2021 07:36:37.373 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.407 evaluate.py: 70] Step: 196
+[11/29/2021 07:36:37.407 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.446 evaluate.py: 70] Step: 197
+[11/29/2021 07:36:37.447 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.477 evaluate.py: 70] Step: 198
+[11/29/2021 07:36:37.477 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.507 evaluate.py: 70] Step: 199
+[11/29/2021 07:36:37.507 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.537 evaluate.py: 70] Step: 200
+[11/29/2021 07:36:37.537 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.566 evaluate.py: 70] Step: 201
+[11/29/2021 07:36:37.566 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.604 evaluate.py: 70] Step: 202
+[11/29/2021 07:36:37.604 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.634 evaluate.py: 70] Step: 203
+[11/29/2021 07:36:37.634 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.667 evaluate.py: 70] Step: 204
+[11/29/2021 07:36:37.667 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.698 evaluate.py: 70] Step: 205
+[11/29/2021 07:36:37.698 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.729 evaluate.py: 70] Step: 206
+[11/29/2021 07:36:37.729 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.765 evaluate.py: 70] Step: 207
+[11/29/2021 07:36:37.765 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.795 evaluate.py: 70] Step: 208
+[11/29/2021 07:36:37.795 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.824 evaluate.py: 70] Step: 209
+[11/29/2021 07:36:37.824 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.854 evaluate.py: 70] Step: 210
+[11/29/2021 07:36:37.854 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.884 evaluate.py: 70] Step: 211
+[11/29/2021 07:36:37.884 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.920 evaluate.py: 70] Step: 212
+[11/29/2021 07:36:37.920 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.956 evaluate.py: 70] Step: 213
+[11/29/2021 07:36:37.956 evaluate.py: 29] Hold
+[11/29/2021 07:36:37.987 evaluate.py: 70] Step: 214
+[11/29/2021 07:36:37.987 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.017 evaluate.py: 70] Step: 215
+[11/29/2021 07:36:38.017 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.047 evaluate.py: 70] Step: 216
+[11/29/2021 07:36:38.048 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.085 evaluate.py: 70] Step: 217
+[11/29/2021 07:36:38.085 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.115 evaluate.py: 70] Step: 218
+[11/29/2021 07:36:38.115 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.146 evaluate.py: 70] Step: 219
+[11/29/2021 07:36:38.146 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.176 evaluate.py: 70] Step: 220
+[11/29/2021 07:36:38.176 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.207 evaluate.py: 70] Step: 221
+[11/29/2021 07:36:38.207 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.244 evaluate.py: 70] Step: 222
+[11/29/2021 07:36:38.244 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.274 evaluate.py: 70] Step: 223
+[11/29/2021 07:36:38.274 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.304 evaluate.py: 70] Step: 224
+[11/29/2021 07:36:38.304 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.334 evaluate.py: 70] Step: 225
+[11/29/2021 07:36:38.334 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.364 evaluate.py: 70] Step: 226
+[11/29/2021 07:36:38.364 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.399 evaluate.py: 70] Step: 227
+[11/29/2021 07:36:38.400 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.430 evaluate.py: 70] Step: 228
+[11/29/2021 07:36:38.430 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.463 evaluate.py: 70] Step: 229
+[11/29/2021 07:36:38.463 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.498 evaluate.py: 70] Step: 230
+[11/29/2021 07:36:38.499 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.533 evaluate.py: 70] Step: 231
+[11/29/2021 07:36:38.533 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.573 evaluate.py: 70] Step: 232
+[11/29/2021 07:36:38.573 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.608 evaluate.py: 70] Step: 233
+[11/29/2021 07:36:38.608 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.641 evaluate.py: 70] Step: 234
+[11/29/2021 07:36:38.642 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.676 evaluate.py: 70] Step: 235
+[11/29/2021 07:36:38.676 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.710 evaluate.py: 70] Step: 236
+[11/29/2021 07:36:38.710 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.749 evaluate.py: 70] Step: 237
+[11/29/2021 07:36:38.749 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.785 evaluate.py: 70] Step: 238
+[11/29/2021 07:36:38.785 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.819 evaluate.py: 70] Step: 239
+[11/29/2021 07:36:38.820 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.853 evaluate.py: 70] Step: 240
+[11/29/2021 07:36:38.853 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.887 evaluate.py: 70] Step: 241
+[11/29/2021 07:36:38.887 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.928 evaluate.py: 70] Step: 242
+[11/29/2021 07:36:38.928 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.962 evaluate.py: 70] Step: 243
+[11/29/2021 07:36:38.962 evaluate.py: 29] Hold
+[11/29/2021 07:36:38.996 evaluate.py: 70] Step: 244
+[11/29/2021 07:36:38.996 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.030 evaluate.py: 70] Step: 245
+[11/29/2021 07:36:39.030 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.065 evaluate.py: 70] Step: 246
+[11/29/2021 07:36:39.065 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.102 evaluate.py: 70] Step: 247
+[11/29/2021 07:36:39.102 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.133 evaluate.py: 70] Step: 248
+[11/29/2021 07:36:39.133 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.164 evaluate.py: 70] Step: 249
+[11/29/2021 07:36:39.164 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.195 evaluate.py: 70] Step: 250
+[11/29/2021 07:36:39.195 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.195 utils.py: 86] --------------------------------
+[11/29/2021 07:36:39.195 utils.py: 87] Portfolio Value:        $50000.00
+[11/29/2021 07:36:39.195 utils.py: 88] Portfolio Balance:      $50000.00
+[11/29/2021 07:36:39.195 utils.py: 89] Portfolio Stocks Number: 0
+[11/29/2021 07:36:39.195 utils.py: 90] Total Return:           $0.00
+[11/29/2021 07:36:39.196 utils.py: 91] Mean/Daily Return Rate:  0.000%
+[11/29/2021 07:36:39.196 utils.py: 92] Sharpe Ratio adjusted with Treasury bond daily return: nan
+[11/29/2021 07:36:39.196 utils.py: 93] Maximum Drawdown:        0.000%
+[11/29/2021 07:36:39.196 utils.py: 94] --------------------------------
+[11/29/2021 07:36:39.495 evaluate.py: 70] Step: 1
+[11/29/2021 07:36:39.495 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.525 evaluate.py: 70] Step: 2
+[11/29/2021 07:36:39.526 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.556 evaluate.py: 70] Step: 3
+[11/29/2021 07:36:39.556 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.588 evaluate.py: 70] Step: 4
+[11/29/2021 07:36:39.588 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.622 evaluate.py: 70] Step: 5
+[11/29/2021 07:36:39.622 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.659 evaluate.py: 70] Step: 6
+[11/29/2021 07:36:39.659 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.690 evaluate.py: 70] Step: 7
+[11/29/2021 07:36:39.690 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.723 evaluate.py: 70] Step: 8
+[11/29/2021 07:36:39.723 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.756 evaluate.py: 70] Step: 9
+[11/29/2021 07:36:39.756 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.786 evaluate.py: 70] Step: 10
+[11/29/2021 07:36:39.787 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.822 evaluate.py: 70] Step: 11
+[11/29/2021 07:36:39.822 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.852 evaluate.py: 70] Step: 12
+[11/29/2021 07:36:39.852 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.881 evaluate.py: 70] Step: 13
+[11/29/2021 07:36:39.881 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.910 evaluate.py: 70] Step: 14
+[11/29/2021 07:36:39.910 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.940 evaluate.py: 70] Step: 15
+[11/29/2021 07:36:39.940 evaluate.py: 29] Hold
+[11/29/2021 07:36:39.976 evaluate.py: 70] Step: 16
+[11/29/2021 07:36:39.976 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.006 evaluate.py: 70] Step: 17
+[11/29/2021 07:36:40.006 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.035 evaluate.py: 70] Step: 18
+[11/29/2021 07:36:40.035 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.065 evaluate.py: 70] Step: 19
+[11/29/2021 07:36:40.065 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.097 evaluate.py: 70] Step: 20
+[11/29/2021 07:36:40.097 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.132 evaluate.py: 70] Step: 21
+[11/29/2021 07:36:40.132 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.164 evaluate.py: 70] Step: 22
+[11/29/2021 07:36:40.164 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.195 evaluate.py: 70] Step: 23
+[11/29/2021 07:36:40.195 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.229 evaluate.py: 70] Step: 24
+[11/29/2021 07:36:40.229 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.260 evaluate.py: 70] Step: 25
+[11/29/2021 07:36:40.260 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.297 evaluate.py: 70] Step: 26
+[11/29/2021 07:36:40.297 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.343 evaluate.py: 70] Step: 27
+[11/29/2021 07:36:40.344 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.381 evaluate.py: 70] Step: 28
+[11/29/2021 07:36:40.381 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.415 evaluate.py: 70] Step: 29
+[11/29/2021 07:36:40.415 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.453 evaluate.py: 70] Step: 30
+[11/29/2021 07:36:40.453 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.494 evaluate.py: 70] Step: 31
+[11/29/2021 07:36:40.494 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.529 evaluate.py: 70] Step: 32
+[11/29/2021 07:36:40.529 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.569 evaluate.py: 70] Step: 33
+[11/29/2021 07:36:40.569 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.610 evaluate.py: 70] Step: 34
+[11/29/2021 07:36:40.610 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.659 evaluate.py: 70] Step: 35
+[11/29/2021 07:36:40.659 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.705 evaluate.py: 70] Step: 36
+[11/29/2021 07:36:40.705 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.744 evaluate.py: 70] Step: 37
+[11/29/2021 07:36:40.745 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.780 evaluate.py: 70] Step: 38
+[11/29/2021 07:36:40.780 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.815 evaluate.py: 70] Step: 39
+[11/29/2021 07:36:40.816 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.853 evaluate.py: 70] Step: 40
+[11/29/2021 07:36:40.853 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.892 evaluate.py: 70] Step: 41
+[11/29/2021 07:36:40.892 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.927 evaluate.py: 70] Step: 42
+[11/29/2021 07:36:40.927 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.960 evaluate.py: 70] Step: 43
+[11/29/2021 07:36:40.960 evaluate.py: 29] Hold
+[11/29/2021 07:36:40.992 evaluate.py: 70] Step: 44
+[11/29/2021 07:36:40.992 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.026 evaluate.py: 70] Step: 45
+[11/29/2021 07:36:41.026 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.070 evaluate.py: 70] Step: 46
+[11/29/2021 07:36:41.070 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.107 evaluate.py: 70] Step: 47
+[11/29/2021 07:36:41.107 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.146 evaluate.py: 70] Step: 48
+[11/29/2021 07:36:41.146 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.185 evaluate.py: 70] Step: 49
+[11/29/2021 07:36:41.185 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.222 evaluate.py: 70] Step: 50
+[11/29/2021 07:36:41.222 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.264 evaluate.py: 70] Step: 51
+[11/29/2021 07:36:41.264 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.301 evaluate.py: 70] Step: 52
+[11/29/2021 07:36:41.301 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.338 evaluate.py: 70] Step: 53
+[11/29/2021 07:36:41.339 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.375 evaluate.py: 70] Step: 54
+[11/29/2021 07:36:41.375 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.412 evaluate.py: 70] Step: 55
+[11/29/2021 07:36:41.412 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.456 evaluate.py: 70] Step: 56
+[11/29/2021 07:36:41.456 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.493 evaluate.py: 70] Step: 57
+[11/29/2021 07:36:41.493 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.530 evaluate.py: 70] Step: 58
+[11/29/2021 07:36:41.530 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.567 evaluate.py: 70] Step: 59
+[11/29/2021 07:36:41.567 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.603 evaluate.py: 70] Step: 60
+[11/29/2021 07:36:41.603 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.646 evaluate.py: 70] Step: 61
+[11/29/2021 07:36:41.646 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.684 evaluate.py: 70] Step: 62
+[11/29/2021 07:36:41.684 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.719 evaluate.py: 70] Step: 63
+[11/29/2021 07:36:41.719 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.756 evaluate.py: 70] Step: 64
+[11/29/2021 07:36:41.756 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.793 evaluate.py: 70] Step: 65
+[11/29/2021 07:36:41.794 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.839 evaluate.py: 70] Step: 66
+[11/29/2021 07:36:41.839 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.875 evaluate.py: 70] Step: 67
+[11/29/2021 07:36:41.876 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.911 evaluate.py: 70] Step: 68
+[11/29/2021 07:36:41.912 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.946 evaluate.py: 70] Step: 69
+[11/29/2021 07:36:41.946 evaluate.py: 29] Hold
+[11/29/2021 07:36:41.980 evaluate.py: 70] Step: 70
+[11/29/2021 07:36:41.980 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.021 evaluate.py: 70] Step: 71
+[11/29/2021 07:36:42.021 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.058 evaluate.py: 70] Step: 72
+[11/29/2021 07:36:42.058 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.092 evaluate.py: 70] Step: 73
+[11/29/2021 07:36:42.092 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.127 evaluate.py: 70] Step: 74
+[11/29/2021 07:36:42.127 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.163 evaluate.py: 70] Step: 75
+[11/29/2021 07:36:42.163 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.205 evaluate.py: 70] Step: 76
+[11/29/2021 07:36:42.205 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.240 evaluate.py: 70] Step: 77
+[11/29/2021 07:36:42.241 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.273 evaluate.py: 70] Step: 78
+[11/29/2021 07:36:42.273 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.307 evaluate.py: 70] Step: 79
+[11/29/2021 07:36:42.307 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.343 evaluate.py: 70] Step: 80
+[11/29/2021 07:36:42.343 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.383 evaluate.py: 70] Step: 81
+[11/29/2021 07:36:42.383 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.418 evaluate.py: 70] Step: 82
+[11/29/2021 07:36:42.418 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.452 evaluate.py: 70] Step: 83
+[11/29/2021 07:36:42.452 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.488 evaluate.py: 70] Step: 84
+[11/29/2021 07:36:42.488 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.522 evaluate.py: 70] Step: 85
+[11/29/2021 07:36:42.522 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.565 evaluate.py: 70] Step: 86
+[11/29/2021 07:36:42.565 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.599 evaluate.py: 70] Step: 87
+[11/29/2021 07:36:42.599 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.634 evaluate.py: 70] Step: 88
+[11/29/2021 07:36:42.634 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.668 evaluate.py: 70] Step: 89
+[11/29/2021 07:36:42.668 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.702 evaluate.py: 70] Step: 90
+[11/29/2021 07:36:42.703 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.740 evaluate.py: 70] Step: 91
+[11/29/2021 07:36:42.740 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.772 evaluate.py: 70] Step: 92
+[11/29/2021 07:36:42.772 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.808 evaluate.py: 70] Step: 93
+[11/29/2021 07:36:42.808 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.839 evaluate.py: 70] Step: 94
+[11/29/2021 07:36:42.840 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.871 evaluate.py: 70] Step: 95
+[11/29/2021 07:36:42.871 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.906 evaluate.py: 70] Step: 96
+[11/29/2021 07:36:42.906 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.937 evaluate.py: 70] Step: 97
+[11/29/2021 07:36:42.937 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.967 evaluate.py: 70] Step: 98
+[11/29/2021 07:36:42.967 evaluate.py: 29] Hold
+[11/29/2021 07:36:42.997 evaluate.py: 70] Step: 99
+[11/29/2021 07:36:42.997 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.027 evaluate.py: 70] Step: 100
+[11/29/2021 07:36:43.027 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.062 evaluate.py: 70] Step: 101
+[11/29/2021 07:36:43.062 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.092 evaluate.py: 70] Step: 102
+[11/29/2021 07:36:43.092 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.122 evaluate.py: 70] Step: 103
+[11/29/2021 07:36:43.122 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.151 evaluate.py: 70] Step: 104
+[11/29/2021 07:36:43.152 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.182 evaluate.py: 70] Step: 105
+[11/29/2021 07:36:43.182 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.224 evaluate.py: 70] Step: 106
+[11/29/2021 07:36:43.225 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.254 evaluate.py: 70] Step: 107
+[11/29/2021 07:36:43.255 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.284 evaluate.py: 70] Step: 108
+[11/29/2021 07:36:43.284 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.315 evaluate.py: 70] Step: 109
+[11/29/2021 07:36:43.315 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.347 evaluate.py: 70] Step: 110
+[11/29/2021 07:36:43.347 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.382 evaluate.py: 70] Step: 111
+[11/29/2021 07:36:43.382 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.414 evaluate.py: 70] Step: 112
+[11/29/2021 07:36:43.415 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.445 evaluate.py: 70] Step: 113
+[11/29/2021 07:36:43.446 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.477 evaluate.py: 70] Step: 114
+[11/29/2021 07:36:43.478 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.509 evaluate.py: 70] Step: 115
+[11/29/2021 07:36:43.509 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.545 evaluate.py: 70] Step: 116
+[11/29/2021 07:36:43.545 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.574 evaluate.py: 70] Step: 117
+[11/29/2021 07:36:43.575 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.606 evaluate.py: 70] Step: 118
+[11/29/2021 07:36:43.606 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.636 evaluate.py: 70] Step: 119
+[11/29/2021 07:36:43.637 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.667 evaluate.py: 70] Step: 120
+[11/29/2021 07:36:43.667 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.703 evaluate.py: 70] Step: 121
+[11/29/2021 07:36:43.703 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.733 evaluate.py: 70] Step: 122
+[11/29/2021 07:36:43.733 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.763 evaluate.py: 70] Step: 123
+[11/29/2021 07:36:43.763 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.792 evaluate.py: 70] Step: 124
+[11/29/2021 07:36:43.792 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.823 evaluate.py: 70] Step: 125
+[11/29/2021 07:36:43.824 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.861 evaluate.py: 70] Step: 126
+[11/29/2021 07:36:43.862 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.892 evaluate.py: 70] Step: 127
+[11/29/2021 07:36:43.892 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.922 evaluate.py: 70] Step: 128
+[11/29/2021 07:36:43.922 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.955 evaluate.py: 70] Step: 129
+[11/29/2021 07:36:43.955 evaluate.py: 29] Hold
+[11/29/2021 07:36:43.985 evaluate.py: 70] Step: 130
+[11/29/2021 07:36:43.985 evaluate.py: 29] Hold
+[11/29/2021 07:36:44.021 evaluate.py: 70] Step: 131
+[11/29/2021 07:36:44.021 evaluate.py: 29] Hold
+[11/29/2021 07:36:44.051 evaluate.py: 70] Step: 132
+[11/29/2021 07:36:44.051 evaluate.py: 29] Hold
+[11/29/2021 07:36:44.081 evaluate.py: 70] Step: 133
+[11/29/2021 07:36:44.081 evaluate.py: 29] Hold

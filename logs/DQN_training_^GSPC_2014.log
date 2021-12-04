@@ -1,0 +1,1569 @@
+[11/28/2021 17:51:38.270 train.py: 72] Trading Object:           ^GSPC_2014
+[11/28/2021 17:51:38.270 train.py: 73] Trading Period:           251 days
+[11/28/2021 17:51:38.270 train.py: 74] Window Size:              2 days
+[11/28/2021 17:51:38.270 train.py: 75] Training Episode:         2
+[11/28/2021 17:51:38.270 train.py: 76] Model Name:               DQN
+[11/28/2021 17:51:38.270 train.py: 77] Initial Portfolio Value: $50,000
+[11/28/2021 17:51:38.270 train.py: 81] 
+Episode: 1/2
+[11/28/2021 17:51:38.320 train.py: 98] Step: 1	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.320 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.320 train.py:114] Buy: $1831.37
+[11/28/2021 17:51:38.335 train.py: 98] Step: 2	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.335 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.335 train.py:114] Buy: $1826.77
+[11/28/2021 17:51:38.351 train.py: 98] Step: 3	Hold signal: 0.4769 	Buy signal: 0.1984 	Sell signal: 0.3247
+[11/28/2021 17:51:38.353 train.py:114] Hold
+[11/28/2021 17:51:38.372 train.py: 98] Step: 4	Hold signal: 0.5862 	Buy signal: 0.1183 	Sell signal: 0.2955
+[11/28/2021 17:51:38.372 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.372 train.py:114] Sell: $1837.49 | Profit: $10.72
+[11/28/2021 17:51:38.388 train.py: 98] Step: 5	Hold signal: 0.4999 	Buy signal: 0.1866 	Sell signal: 0.3135
+[11/28/2021 17:51:38.388 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.388 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:51:38.403 train.py: 98] Step: 6	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.403 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.403 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:51:38.418 train.py: 98] Step: 7	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.418 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.418 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:51:38.434 train.py: 98] Step: 8	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.452 train.py: 98] Step: 9	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.452 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.452 train.py:114] Buy: $1848.38
+[11/28/2021 17:51:38.468 train.py: 98] Step: 10	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.468 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.468 train.py:114] Buy: $1845.89
+[11/28/2021 17:51:38.484 train.py: 98] Step: 11	Hold signal: 0.4739 	Buy signal: 0.2064 	Sell signal: 0.3197
+[11/28/2021 17:51:38.484 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.484 train.py:114] Buy: $1838.70
+[11/28/2021 17:51:38.499 train.py: 98] Step: 12	Hold signal: 0.5024 	Buy signal: 0.1697 	Sell signal: 0.3278
+[11/28/2021 17:51:38.499 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.499 train.py:114] Buy: $1843.80
+[11/28/2021 17:51:38.516 train.py: 98] Step: 13	Hold signal: 0.59 	Buy signal: 0.1126 	Sell signal: 0.2974
+[11/28/2021 17:51:38.517 train.py:114] Hold
+[11/28/2021 17:51:38.539 train.py: 98] Step: 14	Hold signal: 0.5569 	Buy signal: 0.128 	Sell signal: 0.3151
+[11/28/2021 17:51:38.539 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.539 train.py:114] Sell: $1828.46 | Profit: $-17.43
+[11/28/2021 17:51:38.554 train.py: 98] Step: 15	Hold signal: 0.4966 	Buy signal: 0.1697 	Sell signal: 0.3337
+[11/28/2021 17:51:38.555 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.555 train.py:114] Buy: $1790.29
+[11/28/2021 17:51:38.570 train.py: 98] Step: 16	Hold signal: 0.5027 	Buy signal: 0.1692 	Sell signal: 0.328
+[11/28/2021 17:51:38.570 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.571 train.py:114] Sell: $1781.56 | Profit: $-57.14
+[11/28/2021 17:51:38.586 train.py: 98] Step: 17	Hold signal: 0.5068 	Buy signal: 0.1619 	Sell signal: 0.3313
+[11/28/2021 17:51:38.586 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.586 train.py:114] Buy: $1792.50
+[11/28/2021 17:51:38.601 train.py: 98] Step: 18	Hold signal: 0.5858 	Buy signal: 0.1182 	Sell signal: 0.296
+[11/28/2021 17:51:38.619 train.py: 98] Step: 19	Hold signal: 0.4922 	Buy signal: 0.1735 	Sell signal: 0.3343
+[11/28/2021 17:51:38.619 train.py:114] Hold
+[11/28/2021 17:51:38.636 train.py: 98] Step: 20	Hold signal: 0.5904 	Buy signal: 0.112 	Sell signal: 0.2975
+[11/28/2021 17:51:38.653 train.py: 98] Step: 21	Hold signal: 0.4874 	Buy signal: 0.1834 	Sell signal: 0.3291
+[11/28/2021 17:51:38.653 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.653 train.py:114] Buy: $1741.89
+[11/28/2021 17:51:38.669 train.py: 98] Step: 22	Hold signal: 0.5018 	Buy signal: 0.1693 	Sell signal: 0.3288
+[11/28/2021 17:51:38.669 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.669 train.py:114] Buy: $1755.20
+[11/28/2021 17:51:38.685 train.py: 98] Step: 23	Hold signal: 0.5904 	Buy signal: 0.1118 	Sell signal: 0.2978
+[11/28/2021 17:51:38.685 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.685 train.py:114] Sell: $1751.64 | Profit: $-38.65
+[11/28/2021 17:51:38.705 train.py: 98] Step: 24	Hold signal: 0.5012 	Buy signal: 0.1631 	Sell signal: 0.3356
+[11/28/2021 17:51:38.705 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.705 train.py:114] Sell: $1773.43 | Profit: $-19.07
+[11/28/2021 17:51:38.721 train.py: 98] Step: 25	Hold signal: 0.5901 	Buy signal: 0.1121 	Sell signal: 0.2978
+[11/28/2021 17:51:38.722 train.py:114] Hold
+[11/28/2021 17:51:38.739 train.py: 98] Step: 26	Hold signal: 0.5671 	Buy signal: 0.1289 	Sell signal: 0.304
+[11/28/2021 17:51:38.739 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.739 train.py:114] Sell: $1799.84 | Profit: $44.64
+[11/28/2021 17:51:38.754 train.py: 98] Step: 27	Hold signal: 0.5433 	Buy signal: 0.1537 	Sell signal: 0.3029
+[11/28/2021 17:51:38.755 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.755 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:51:38.770 train.py: 98] Step: 28	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.770 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.770 train.py:114] Buy: $1819.26
+[11/28/2021 17:51:38.785 train.py: 98] Step: 29	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.785 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.785 train.py:114] Buy: $1829.83
+[11/28/2021 17:51:38.801 train.py: 98] Step: 30	Hold signal: 0.5598 	Buy signal: 0.1412 	Sell signal: 0.299
+[11/28/2021 17:51:38.801 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.801 train.py:114] Sell: $1838.63 | Profit: $19.37
+[11/28/2021 17:51:38.816 train.py: 98] Step: 31	Hold signal: 0.5673 	Buy signal: 0.1291 	Sell signal: 0.3036
+[11/28/2021 17:51:38.816 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.816 train.py:114] Sell: $1840.76 | Profit: $10.93
+[11/28/2021 17:51:38.831 train.py: 98] Step: 32	Hold signal: 0.5392 	Buy signal: 0.1572 	Sell signal: 0.3035
+[11/28/2021 17:51:38.831 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.831 train.py:114] Buy: $1828.75
+[11/28/2021 17:51:38.846 train.py: 98] Step: 33	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.869 train.py: 98] Step: 34	Hold signal: 0.5699 	Buy signal: 0.1349 	Sell signal: 0.2952
+[11/28/2021 17:51:38.870 train.py:114] Hold
+[11/28/2021 17:51:38.886 train.py: 98] Step: 35	Hold signal: 0.4699 	Buy signal: 0.2093 	Sell signal: 0.3207
+[11/28/2021 17:51:38.886 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.886 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:51:38.902 train.py: 98] Step: 36	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.919 train.py: 98] Step: 37	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.919 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.919 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:51:38.935 train.py: 98] Step: 38	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.935 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:38.935 train.py:114] Buy: $1854.29
+[11/28/2021 17:51:38.950 train.py: 98] Step: 39	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:38.950 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:51:38.950 train.py:114] Sell: $1859.45 | Profit: $5.16
+[11/28/2021 17:51:38.965 train.py: 98] Step: 40	Hold signal: 0.5486 	Buy signal: 0.1507 	Sell signal: 0.3008
+[11/28/2021 17:51:38.983 train.py: 98] Step: 41	Hold signal: 0.3333 	Buy signal: 0.3333 	Sell signal: 0.3333
+[11/28/2021 17:51:41.200 train.py:134] Episode: 1	Loss: 2012.40	Action: Hold	Reward: -78.65	Balance: 49974.54	Number of Stocks: 0
+[11/28/2021 17:51:41.215 train.py: 98] Step: 42	Hold signal: 6.142e-07 	Buy signal: 2.43e-11 	Sell signal: 1.0
+[11/28/2021 17:51:41.215 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:41.215 train.py:114] Buy: $1873.81
+[11/28/2021 17:51:43.251 train.py:134] Episode: 1	Loss: 3616.40	Action: Buy	Reward: -104.11	Balance: 48100.73	Number of Stocks: 1
+[11/28/2021 17:51:43.267 train.py: 98] Step: 43	Hold signal: 1.505e-08 	Buy signal: 3.718e-14 	Sell signal: 1.0
+[11/28/2021 17:51:43.267 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:51:45.383 train.py:134] Episode: 1	Loss: 5631.15	Action: Hold	Reward: -129.92	Balance: 48100.73	Number of Stocks: 1
+[11/28/2021 17:51:45.398 train.py: 98] Step: 44	Hold signal: 1.531e-08 	Buy signal: 1.842e-14 	Sell signal: 1.0
+[11/28/2021 17:51:45.398 train.py:114] Sell: $1878.04 | Profit: $4.23
+[11/28/2021 17:51:47.578 train.py:134] Episode: 1	Loss: 96.90	Action: Sell	Reward: -17.00	Balance: 49978.77	Number of Stocks: 0
+[11/28/2021 17:51:47.596 train.py: 98] Step: 45	Hold signal: 1.242e-08 	Buy signal: 1.266e-14 	Sell signal: 1.0
+[11/28/2021 17:51:47.596 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:47.596 train.py:114] Buy: $1877.17
+[11/28/2021 17:51:49.601 train.py:134] Episode: 1	Loss: 488.46	Action: Buy	Reward: -38.23	Balance: 48101.60	Number of Stocks: 1
+[11/28/2021 17:51:49.617 train.py: 98] Step: 46	Hold signal: 1.397e-08 	Buy signal: 3.255e-14 	Sell signal: 1.0
+[11/28/2021 17:51:49.618 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:51:51.588 train.py:134] Episode: 1	Loss: 1758.16	Action: Hold	Reward: -72.58	Balance: 48101.60	Number of Stocks: 1
+[11/28/2021 17:51:51.605 train.py: 98] Step: 47	Hold signal: 1.588e-08 	Buy signal: 1.915e-14 	Sell signal: 1.0
+[11/28/2021 17:51:51.605 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:51:51.605 train.py:114] Buy: $1868.20
+[11/28/2021 17:51:53.687 train.py:134] Episode: 1	Loss: 3524.39	Action: Buy	Reward: -102.78	Balance: 46233.40	Number of Stocks: 2
+[11/28/2021 17:51:53.707 train.py: 98] Step: 48	Hold signal: 1.566e-08 	Buy signal: 1.875e-14 	Sell signal: 1.0
+[11/28/2021 17:51:53.707 train.py:114] Sell: $1846.34 | Profit: $-30.83
+[11/28/2021 17:51:55.754 train.py:134] Episode: 1	Loss: 3661.03	Action: Sell	Reward: -104.75	Balance: 48079.74	Number of Stocks: 1
+[11/28/2021 17:51:55.772 train.py: 98] Step: 49	Hold signal: 1.265e-08 	Buy signal: 1.269e-14 	Sell signal: 1.0
+[11/28/2021 17:51:55.772 train.py:114] Sell: $1841.13 | Profit: $-27.07
+[11/28/2021 17:51:57.878 train.py:134] Episode: 1	Loss: 3763.03	Action: Sell	Reward: -106.20	Balance: 49920.87	Number of Stocks: 0
+[11/28/2021 17:51:57.892 train.py: 98] Step: 50	Hold signal: 1.559e-08 	Buy signal: 1.831e-14 	Sell signal: 1.0
+[11/28/2021 17:51:57.893 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:51:59.874 train.py:134] Episode: 1	Loss: 11918.43	Action: Hold	Reward: -189.04	Balance: 49920.87	Number of Stocks: 0
+[11/28/2021 17:51:59.895 train.py: 98] Step: 51	Hold signal: 1.345e-08 	Buy signal: 3.012e-14 	Sell signal: 1.0
+[11/28/2021 17:51:59.895 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:52:01.994 train.py:134] Episode: 1	Loss: 24648.89	Action: Hold	Reward: -271.88	Balance: 49920.87	Number of Stocks: 0
+[11/28/2021 17:52:02.011 train.py: 98] Step: 52	Hold signal: 1.03e-08 	Buy signal: 1.854e-14 	Sell signal: 1.0
+[11/28/2021 17:52:02.011 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:52:02.011 train.py:114] Buy: $1860.77
+[11/28/2021 17:52:03.997 train.py:134] Episode: 1	Loss: 41081.39	Action: Buy	Reward: -351.01	Balance: 48060.10	Number of Stocks: 1
+[11/28/2021 17:52:04.013 train.py: 98] Step: 53	Hold signal: 1.202e-08 	Buy signal: 2.449e-14 	Sell signal: 1.0
+[11/28/2021 17:52:04.013 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:52:04.013 train.py:114] Buy: $1872.01
+[11/28/2021 17:52:05.991 train.py:134] Episode: 1	Loss: 58506.82	Action: Buy	Reward: -418.90	Balance: 46188.09	Number of Stocks: 2
+[11/28/2021 17:52:06.013 train.py: 98] Step: 54	Hold signal: 1.223e-08 	Buy signal: 1.198e-14 	Sell signal: 1.0
+[11/28/2021 17:52:06.013 train.py:114] Sell: $1866.52 | Profit: $5.75
+[11/28/2021 17:52:08.022 train.py:134] Episode: 1	Loss: 1784.62	Action: Sell	Reward: -73.12	Balance: 48054.61	Number of Stocks: 1
+[11/28/2021 17:52:08.056 train.py: 98] Step: 55	Hold signal: 9.221e-09 	Buy signal: 7.148e-15 	Sell signal: 1.0
+[11/28/2021 17:52:08.056 train.py:114] Sell: $1857.44 | Profit: $-14.57
+[11/28/2021 17:52:10.142 train.py:134] Episode: 1	Loss: 3506.89	Action: Sell	Reward: -102.52	Balance: 49912.05	Number of Stocks: 0
+[11/28/2021 17:52:10.159 train.py: 98] Step: 56	Hold signal: 1.357e-08 	Buy signal: 1.414e-14 	Sell signal: 1.0
+[11/28/2021 17:52:10.160 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:52:12.161 train.py:134] Episode: 1	Loss: 3346294528.00	Action: Sell	Reward: -100194.18	Balance: 49912.05	Number of Stocks: 0
+[11/28/2021 17:52:12.191 train.py: 98] Step: 57	Hold signal: 1.228e-08 	Buy signal: 2.534e-14 	Sell signal: 1.0
+[11/28/2021 17:52:12.192 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:52:14.187 train.py:134] Episode: 1	Loss: 13371479040.00	Action: Sell	Reward: -200285.84	Balance: 49912.05	Number of Stocks: 0
+[11/28/2021 17:52:14.204 train.py: 98] Step: 58	Hold signal: 1.113e-08 	Buy signal: 2.118e-14 	Sell signal: 1.0
+[11/28/2021 17:52:14.204 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:52:14.204 train.py:114] Buy: $1849.04
+[11/28/2021 17:52:16.214 train.py:134] Episode: 1	Loss: 13383225344.00	Action: Buy	Reward: -200373.79	Balance: 48063.01	Number of Stocks: 1
+[11/28/2021 17:52:16.231 train.py: 98] Step: 59	Hold signal: 1.404e-08 	Buy signal: 3.223e-14 	Sell signal: 1.0
+[11/28/2021 17:52:16.231 train.py:114] Sell: $1857.62 | Profit: $8.58
+[11/28/2021 17:52:18.301 train.py:134] Episode: 1	Loss: 1672.78	Action: Sell	Reward: -70.79	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:18.316 train.py: 98] Step: 60	Hold signal: 1.084e-08 	Buy signal: 9.55e-15 	Sell signal: 1.0
+[11/28/2021 17:52:18.316 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:52:20.323 train.py:134] Episode: 1	Loss: 3343602688.00	Action: Sell	Reward: -100153.87	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:20.340 train.py: 98] Step: 61	Hold signal: 8.967e-09 	Buy signal: 1.425e-14 	Sell signal: 1.0
+[11/28/2021 17:52:20.341 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:52:22.365 train.py:134] Episode: 1	Loss: 3349152000.00	Action: Hold	Reward: -100236.95	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:22.405 train.py: 98] Step: 62	Hold signal: 8.798e-09 	Buy signal: 1.375e-14 	Sell signal: 1.0
+[11/28/2021 17:52:22.405 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:52:24.723 train.py:134] Episode: 1	Loss: 13376045056.00	Action: Sell	Reward: -200320.03	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:24.740 train.py: 98] Step: 63	Hold signal: 8.664e-09 	Buy signal: 1.335e-14 	Sell signal: 1.0
+[11/28/2021 17:52:24.740 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:52:27.400 train.py:134] Episode: 1	Loss: 13387141120.00	Action: Hold	Reward: -200403.11	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:27.416 train.py: 98] Step: 64	Hold signal: 9.917e-09 	Buy signal: 1.702e-14 	Sell signal: 1.0
+[11/28/2021 17:52:27.416 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:52:30.417 train.py:134] Episode: 1	Loss: 13398245376.00	Action: Hold	Reward: -200486.19	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:30.449 train.py: 98] Step: 65	Hold signal: 1.257e-08 	Buy signal: 2.612e-14 	Sell signal: 1.0
+[11/28/2021 17:52:30.450 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:52:33.041 train.py:134] Episode: 1	Loss: 30113970176.00	Action: Sell	Reward: -300569.27	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:33.092 train.py: 98] Step: 66	Hold signal: 1.286e-08 	Buy signal: 2.715e-14 	Sell signal: 1.0
+[11/28/2021 17:52:33.092 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:52:35.591 train.py:134] Episode: 1	Loss: 53507452928.00	Action: Sell	Reward: -400652.36	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:35.638 train.py: 98] Step: 67	Hold signal: 1.08e-08 	Buy signal: 1.977e-14 	Sell signal: 1.0
+[11/28/2021 17:52:35.638 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:52:38.130 train.py:134] Episode: 1	Loss: 83578675200.00	Action: Sell	Reward: -500735.44	Balance: 49920.63	Number of Stocks: 0
+[11/28/2021 17:52:38.146 train.py: 98] Step: 68	Hold signal: 8.33e-09 	Buy signal: 1.232e-14 	Sell signal: 1.0
+[11/28/2021 17:52:38.147 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:52:38.147 train.py:114] Buy: $1833.08
+[11/28/2021 17:52:40.633 train.py:134] Episode: 1	Loss: 83605168128.00	Action: Buy	Reward: -500814.81	Balance: 48087.55	Number of Stocks: 1
+[11/28/2021 17:52:40.649 train.py: 98] Step: 69	Hold signal: 1.001e-08 	Buy signal: 1.712e-14 	Sell signal: 1.0
+[11/28/2021 17:52:40.649 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:52:43.073 train.py:134] Episode: 1	Loss: 83638673408.00	Action: Hold	Reward: -500915.14	Balance: 48087.55	Number of Stocks: 1
+[11/28/2021 17:52:43.090 train.py: 98] Step: 70	Hold signal: 1.17e-08 	Buy signal: 1.058e-14 	Sell signal: 1.0
+[11/28/2021 17:52:43.090 train.py:114] Sell: $1830.61 | Profit: $-2.47
+[11/28/2021 17:52:45.325 train.py:134] Episode: 1	Loss: 2372.21	Action: Sell	Reward: -84.31	Balance: 49918.16	Number of Stocks: 0
+[11/28/2021 17:52:45.343 train.py: 98] Step: 71	Hold signal: 1.016e-08 	Buy signal: 8.342e-15 	Sell signal: 1.0
+[11/28/2021 17:52:45.343 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:52:45.343 train.py:114] Buy: $1842.98
+[11/28/2021 17:52:47.896 train.py:134] Episode: 1	Loss: 9207.52	Action: Buy	Reward: -166.15	Balance: 48075.18	Number of Stocks: 1
+[11/28/2021 17:52:47.927 train.py: 98] Step: 72	Hold signal: 8.778e-09 	Buy signal: 1.341e-14 	Sell signal: 1.0
+[11/28/2021 17:52:47.927 train.py:114] Sell: $1862.31 | Profit: $19.33
+[11/28/2021 17:52:50.459 train.py:134] Episode: 1	Loss: 622.95	Action: Sell	Reward: -43.18	Balance: 49937.49	Number of Stocks: 0
+[11/28/2021 17:52:50.477 train.py: 98] Step: 73	Hold signal: 6.984e-09 	Buy signal: 4.283e-15 	Sell signal: 1.0
+[11/28/2021 17:52:50.477 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:52:50.477 train.py:114] Buy: $1864.85
+[11/28/2021 17:52:52.812 train.py:134] Episode: 1	Loss: 3727.00	Action: Buy	Reward: -105.69	Balance: 48072.64	Number of Stocks: 1
+[11/28/2021 17:52:52.829 train.py: 98] Step: 74	Hold signal: 9.079e-09 	Buy signal: 1.419e-14 	Sell signal: 1.0
+[11/28/2021 17:52:52.829 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:52:55.155 train.py:134] Episode: 1	Loss: 9051.19	Action: Hold	Reward: -164.73	Balance: 48072.64	Number of Stocks: 1
+[11/28/2021 17:52:55.177 train.py: 98] Step: 75	Hold signal: 7.379e-09 	Buy signal: 4.705e-15 	Sell signal: 1.0
+[11/28/2021 17:52:55.177 train.py:114] Sell: $1879.55 | Profit: $14.70
+[11/28/2021 17:52:57.299 train.py:134] Episode: 1	Loss: 366.53	Action: Sell	Reward: -33.11	Balance: 49952.19	Number of Stocks: 0
+[11/28/2021 17:52:57.314 train.py: 98] Step: 76	Hold signal: 7.306e-09 	Buy signal: 4.619e-15 	Sell signal: 1.0
+[11/28/2021 17:52:57.315 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:52:57.315 train.py:114] Buy: $1875.39
+[11/28/2021 17:52:59.680 train.py:134] Episode: 1	Loss: 2185.38	Action: Buy	Reward: -80.92	Balance: 48076.80	Number of Stocks: 1
+[11/28/2021 17:52:59.718 train.py: 98] Step: 77	Hold signal: 1.126e-08 	Buy signal: 2.081e-14 	Sell signal: 1.0
+[11/28/2021 17:52:59.718 train.py:114] Sell: $1878.61 | Profit: $3.22
+[11/28/2021 17:53:02.385 train.py:134] Episode: 1	Loss: 571.88	Action: Sell	Reward: -41.37	Balance: 49955.41	Number of Stocks: 0
+[11/28/2021 17:53:02.412 train.py: 98] Step: 78	Hold signal: 1.141e-08 	Buy signal: 1.016e-14 	Sell signal: 1.0
+[11/28/2021 17:53:02.412 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:53:02.412 train.py:114] Buy: $1863.40
+[11/28/2021 17:53:05.263 train.py:134] Episode: 1	Loss: 2465.92	Action: Buy	Reward: -85.96	Balance: 48092.01	Number of Stocks: 1
+[11/28/2021 17:53:05.299 train.py: 98] Step: 79	Hold signal: 1.242e-08 	Buy signal: 2.479e-14 	Sell signal: 1.0
+[11/28/2021 17:53:05.299 train.py:114] Sell: $1869.43 | Profit: $6.03
+[11/28/2021 17:53:07.428 train.py:134] Episode: 1	Loss: 353.82	Action: Sell	Reward: -32.53	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:07.468 train.py: 98] Step: 80	Hold signal: 1.239e-08 	Buy signal: 1.178e-14 	Sell signal: 1.0
+[11/28/2021 17:53:07.468 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:09.574 train.py:134] Episode: 1	Loss: 3338325248.00	Action: Sell	Reward: -100074.80	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:09.607 train.py: 98] Step: 81	Hold signal: 1.139e-08 	Buy signal: 2.112e-14 	Sell signal: 1.0
+[11/28/2021 17:53:09.607 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:11.939 train.py:134] Episode: 1	Loss: 13348954112.00	Action: Sell	Reward: -200117.08	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:11.974 train.py: 98] Step: 82	Hold signal: 1.197e-08 	Buy signal: 2.309e-14 	Sell signal: 1.0
+[11/28/2021 17:53:11.975 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:14.421 train.py:134] Episode: 1	Loss: 30031888384.00	Action: Sell	Reward: -300159.35	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:14.443 train.py: 98] Step: 83	Hold signal: 1.395e-08 	Buy signal: 3.039e-14 	Sell signal: 1.0
+[11/28/2021 17:53:14.443 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:16.682 train.py:134] Episode: 1	Loss: 53387132928.00	Action: Sell	Reward: -400201.62	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:16.716 train.py: 98] Step: 84	Hold signal: 1.822e-08 	Buy signal: 4.926e-14 	Sell signal: 1.0
+[11/28/2021 17:53:16.716 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:18.889 train.py:134] Episode: 1	Loss: 83414663168.00	Action: Sell	Reward: -500243.90	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:18.924 train.py: 98] Step: 85	Hold signal: 1.858e-08 	Buy signal: 5.091e-14 	Sell signal: 1.0
+[11/28/2021 17:53:18.925 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:21.757 train.py:134] Episode: 1	Loss: 120114520064.00	Action: Sell	Reward: -600286.17	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:21.799 train.py: 98] Step: 86	Hold signal: 1.945e-08 	Buy signal: 5.503e-14 	Sell signal: 1.0
+[11/28/2021 17:53:21.799 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:24.209 train.py:134] Episode: 1	Loss: 163486679040.00	Action: Sell	Reward: -700328.45	Balance: 49961.44	Number of Stocks: 0
+[11/28/2021 17:53:24.227 train.py: 98] Step: 87	Hold signal: 2.366e-08 	Buy signal: 7.829e-14 	Sell signal: 1.0
+[11/28/2021 17:53:24.227 train.py: 99] 		'Buy' is an exploration.
+[11/28/2021 17:53:24.227 train.py:114] Buy: $1875.63
+[11/28/2021 17:53:26.460 train.py:134] Episode: 1	Loss: 163504668672.00	Action: Buy	Reward: -700367.01	Balance: 48085.81	Number of Stocks: 1
+[11/28/2021 17:53:26.477 train.py: 98] Step: 88	Hold signal: 2.553e-08 	Buy signal: 8.927e-14 	Sell signal: 1.0
+[11/28/2021 17:53:26.477 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:53:28.628 train.py:134] Episode: 1	Loss: 163523002368.00	Action: Hold	Reward: -700406.29	Balance: 48085.81	Number of Stocks: 1
+[11/28/2021 17:53:28.645 train.py: 98] Step: 89	Hold signal: 2.728e-08 	Buy signal: 4.819e-14 	Sell signal: 1.0
+[11/28/2021 17:53:28.645 train.py:114] Sell: $1896.65 | Profit: $21.02
+[11/28/2021 17:53:31.599 train.py:134] Episode: 1	Loss: 3.92	Action: Sell	Reward: 3.48	Balance: 49982.46	Number of Stocks: 0
+[11/28/2021 17:53:31.654 train.py: 98] Step: 90	Hold signal: 2.494e-08 	Buy signal: 4.128e-14 	Sell signal: 1.0
+[11/28/2021 17:53:31.654 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:36.118 train.py:134] Episode: 1	Loss: 3334521856.00	Action: Sell	Reward: -100017.78	Balance: 49982.46	Number of Stocks: 0
+[11/28/2021 17:53:36.168 train.py: 98] Step: 91	Hold signal: 1.165e-07 	Buy signal: 1.485e-12 	Sell signal: 1.0
+[11/28/2021 17:53:36.168 train.py: 64] Trying to sell when inventory is 0. Hence giving a negative reward
+[11/28/2021 17:53:39.508 train.py:134] Episode: 1	Loss: 13338447872.00	Action: Sell	Reward: -200039.03	Balance: 49982.46	Number of Stocks: 0
+[11/28/2021 17:53:39.563 train.py: 98] Step: 92	Hold signal: 0.4648 	Buy signal: 0.5349 	Sell signal: 0.0003538
+[11/28/2021 17:53:39.563 train.py:114] Buy: $1870.85
+[11/28/2021 17:53:43.638 train.py:134] Episode: 1	Loss: 13340750848.00	Action: Buy	Reward: -200056.57	Balance: 48111.61	Number of Stocks: 1
+[11/28/2021 17:53:43.729 train.py: 98] Step: 93	Hold signal: 1.0 	Buy signal: 1.357e-18 	Sell signal: 0.0
+[11/28/2021 17:53:47.192 train.py:134] Episode: 1	Loss: 13342764032.00	Action: Hold	Reward: -200070.68	Balance: 48111.61	Number of Stocks: 1
+[11/28/2021 17:53:47.281 train.py: 98] Step: 94	Hold signal: 1.0 	Buy signal: 3.821e-12 	Sell signal: 0.0
+[11/28/2021 17:53:51.135 train.py:134] Episode: 1	Loss: 13343683584.00	Action: Hold	Reward: -200077.56	Balance: 48111.61	Number of Stocks: 1
+[11/28/2021 17:53:51.198 train.py: 98] Step: 95	Hold signal: 1.0 	Buy signal: 1.165e-12 	Sell signal: 0.0
+[11/28/2021 17:53:54.705 train.py:134] Episode: 1	Loss: 13346237440.00	Action: Hold	Reward: -200096.70	Balance: 48111.61	Number of Stocks: 1
+[11/28/2021 17:53:54.760 train.py: 98] Step: 96	Hold signal: 1.0 	Buy signal: 3.845e-12 	Sell signal: 0.0
+[11/28/2021 17:53:58.135 train.py:134] Episode: 1	Loss: 13346761728.00	Action: Hold	Reward: -200100.63	Balance: 48111.61	Number of Stocks: 1
+[11/28/2021 17:53:58.185 train.py: 98] Step: 97	Hold signal: 1.0 	Buy signal: 7.424e-12 	Sell signal: 0.0
+[11/28/2021 17:54:00.576 train.py:134] Episode: 1	Loss: 13346690048.00	Action: Hold	Reward: -200100.11	Balance: 48111.61	Number of Stocks: 1
+[11/28/2021 17:54:00.612 train.py: 98] Step: 98	Hold signal: 1.0 	Buy signal: 1.094e-11 	Sell signal: 0.0
+[11/28/2021 17:54:02.790 train.py:134] Episode: 1	Loss: 13345549312.00	Action: Hold	Reward: -200091.55	Balance: 48111.61	Number of Stocks: 1
+[11/28/2021 17:54:02.828 train.py: 98] Step: 99	Hold signal: 3.123e-06 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:02.828 train.py:114] Buy: $1911.91
+[11/28/2021 17:54:04.960 train.py:134] Episode: 1	Loss: 13342411776.00	Action: Buy	Reward: -200068.03	Balance: 46199.70	Number of Stocks: 2
+[11/28/2021 17:54:04.960 train.py: 88] 
+-------------------Period: 100/251-------------------
+[11/28/2021 17:54:04.993 train.py: 98] Step: 100	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:04.993 train.py:114] Buy: $1909.78
+[11/28/2021 17:54:07.107 train.py:134] Episode: 1	Loss: 13339841536.00	Action: Buy	Reward: -200048.77	Balance: 44289.92	Number of Stocks: 3
+[11/28/2021 17:54:07.148 train.py: 98] Step: 101	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:07.148 train.py:114] Buy: $1920.03
+[11/28/2021 17:54:09.504 train.py:134] Episode: 1	Loss: 13333175296.00	Action: Buy	Reward: -199998.76	Balance: 42369.89	Number of Stocks: 4
+[11/28/2021 17:54:09.537 train.py: 98] Step: 102	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:09.537 train.py:114] Buy: $1923.57
+[11/28/2021 17:54:11.894 train.py:134] Episode: 1	Loss: 13324619776.00	Action: Buy	Reward: -199934.59	Balance: 40446.32	Number of Stocks: 5
+[11/28/2021 17:54:11.911 train.py: 98] Step: 103	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:11.911 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:54:11.912 train.py:114] Hold
+[11/28/2021 17:54:14.549 train.py:134] Episode: 1	Loss: 5228.34	Action: Hold	Reward: 125.29	Balance: 42371.29	Number of Stocks: 4
+[11/28/2021 17:54:14.589 train.py: 98] Step: 104	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:14.589 train.py:114] Buy: $1924.24
+[11/28/2021 17:54:16.735 train.py:134] Episode: 1	Loss: 12479.42	Action: Buy	Reward: 193.54	Balance: 40447.05	Number of Stocks: 5
+[11/28/2021 17:54:16.773 train.py: 98] Step: 105	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:16.773 train.py:114] Buy: $1927.88
+[11/28/2021 17:54:19.124 train.py:134] Episode: 1	Loss: 26122.07	Action: Buy	Reward: 279.99	Balance: 38519.17	Number of Stocks: 6
+[11/28/2021 17:54:19.159 train.py: 98] Step: 106	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:19.159 train.py:114] Buy: $1940.46
+[11/28/2021 17:54:21.393 train.py:134] Episode: 1	Loss: 65082.83	Action: Buy	Reward: 441.92	Balance: 36578.71	Number of Stocks: 7
+[11/28/2021 17:54:21.429 train.py: 98] Step: 107	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:21.429 train.py:114] Buy: $1949.44
+[11/28/2021 17:54:23.568 train.py:134] Episode: 1	Loss: 148144.69	Action: Buy	Reward: 666.71	Balance: 34629.27	Number of Stocks: 8
+[11/28/2021 17:54:23.590 train.py: 98] Step: 108	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:23.591 train.py:114] Buy: $1951.27
+[11/28/2021 17:54:25.974 train.py:134] Episode: 1	Loss: 273665.78	Action: Buy	Reward: 906.14	Balance: 32678.00	Number of Stocks: 9
+[11/28/2021 17:54:26.014 train.py: 98] Step: 109	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:26.014 train.py:114] Buy: $1950.79
+[11/28/2021 17:54:28.604 train.py:134] Episode: 1	Loss: 434111.97	Action: Buy	Reward: 1141.25	Balance: 30727.21	Number of Stocks: 10
+[11/28/2021 17:54:28.637 train.py: 98] Step: 110	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:28.637 train.py:114] Buy: $1943.89
+[11/28/2021 17:54:30.954 train.py:134] Episode: 1	Loss: 569686.00	Action: Buy	Reward: 1307.36	Balance: 28783.32	Number of Stocks: 11
+[11/28/2021 17:54:31.009 train.py: 98] Step: 111	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:31.009 train.py:114] Buy: $1930.11
+[11/28/2021 17:54:33.262 train.py:134] Episode: 1	Loss: 582419.69	Action: Buy	Reward: 1321.89	Balance: 26853.21	Number of Stocks: 12
+[11/28/2021 17:54:33.296 train.py: 98] Step: 112	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:33.296 train.py:114] Buy: $1936.16
+[11/28/2021 17:54:35.621 train.py:134] Episode: 1	Loss: 661731.81	Action: Buy	Reward: 1409.02	Balance: 24917.05	Number of Stocks: 13
+[11/28/2021 17:54:35.660 train.py: 98] Step: 113	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:35.661 train.py:114] Buy: $1937.78
+[11/28/2021 17:54:38.534 train.py:134] Episode: 1	Loss: 767258.06	Action: Buy	Reward: 1517.21	Balance: 22979.27	Number of Stocks: 14
+[11/28/2021 17:54:38.553 train.py: 98] Step: 114	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:38.553 train.py:114] Buy: $1941.99
+[11/28/2021 17:54:40.971 train.py:134] Episode: 1	Loss: 945610.56	Action: Buy	Reward: 1684.34	Balance: 21037.28	Number of Stocks: 15
+[11/28/2021 17:54:41.009 train.py: 98] Step: 115	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:41.010 train.py:114] Buy: $1956.98
+[11/28/2021 17:54:43.595 train.py:134] Episode: 1	Loss: 1436964.62	Action: Buy	Reward: 2076.32	Balance: 19080.30	Number of Stocks: 16
+[11/28/2021 17:54:43.615 train.py: 98] Step: 116	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:43.615 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:54:43.615 train.py:114] Sell: $1959.48 | Profit: $47.57
+[11/28/2021 17:54:45.827 train.py:134] Episode: 1	Loss: 76639.94	Action: Sell	Reward: 479.55	Balance: 21039.78	Number of Stocks: 15
+[11/28/2021 17:54:45.863 train.py: 98] Step: 117	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:45.864 train.py:114] Buy: $1962.87
+[11/28/2021 17:54:48.283 train.py:134] Episode: 1	Loss: 308692.62	Action: Buy	Reward: 962.38	Balance: 19076.91	Number of Stocks: 16
+[11/28/2021 17:54:48.319 train.py: 98] Step: 118	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:48.319 train.py:114] Buy: $1962.61
+[11/28/2021 17:54:51.078 train.py:134] Episode: 1	Loss: 692159.38	Action: Buy	Reward: 1441.05	Balance: 17114.30	Number of Stocks: 17
+[11/28/2021 17:54:51.099 train.py: 98] Step: 119	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:51.099 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:54:51.099 train.py:114] Sell: $1949.98 | Profit: $40.20
+[11/28/2021 17:54:53.681 train.py:134] Episode: 1	Loss: 30827.53	Action: Sell	Reward: 304.16	Balance: 19064.28	Number of Stocks: 16
+[11/28/2021 17:54:53.724 train.py: 98] Step: 120	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:53.724 train.py:114] Buy: $1959.53
+[11/28/2021 17:54:56.226 train.py:134] Episode: 1	Loss: 173217.83	Action: Buy	Reward: 720.92	Balance: 17104.75	Number of Stocks: 17
+[11/28/2021 17:54:56.263 train.py: 98] Step: 121	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:56.263 train.py:114] Buy: $1957.22
+[11/28/2021 17:54:58.856 train.py:134] Episode: 1	Loss: 402131.00	Action: Buy	Reward: 1098.41	Balance: 15147.53	Number of Stocks: 18
+[11/28/2021 17:54:58.896 train.py: 98] Step: 122	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:54:58.896 train.py:114] Buy: $1960.96
+[11/28/2021 17:55:01.712 train.py:134] Episode: 1	Loss: 793789.69	Action: Buy	Reward: 1543.22	Balance: 13186.57	Number of Stocks: 19
+[11/28/2021 17:55:01.729 train.py: 98] Step: 123	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:01.730 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:55:01.730 train.py:114] Hold
+[11/28/2021 17:55:04.477 train.py:134] Episode: 1	Loss: 73975.11	Action: Hold	Reward: 471.14	Balance: 15146.80	Number of Stocks: 18
+[11/28/2021 17:55:04.519 train.py: 98] Step: 124	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:04.519 train.py:114] Buy: $1973.32
+[11/28/2021 17:55:07.269 train.py:134] Episode: 1	Loss: 431414.66	Action: Buy	Reward: 1137.70	Balance: 13173.48	Number of Stocks: 19
+[11/28/2021 17:55:07.301 train.py: 98] Step: 125	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:07.301 train.py:114] Buy: $1974.62
+[11/28/2021 17:55:09.783 train.py:134] Episode: 1	Loss: 1114968.62	Action: Buy	Reward: 1828.96	Balance: 11198.86	Number of Stocks: 20
+[11/28/2021 17:55:09.822 train.py: 98] Step: 126	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:09.822 train.py:114] Buy: $1985.44
+[11/28/2021 17:55:12.100 train.py:134] Episode: 1	Loss: 2496266.50	Action: Buy	Reward: 2736.62	Balance: 9213.42	Number of Stocks: 21
+[11/28/2021 17:55:12.161 train.py: 98] Step: 127	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:12.161 train.py:114] Buy: $1977.65
+[11/28/2021 17:55:15.152 train.py:134] Episode: 1	Loss: 4038279.75	Action: Buy	Reward: 3480.69	Balance: 7235.77	Number of Stocks: 22
+[11/28/2021 17:55:15.186 train.py: 98] Step: 128	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:15.186 train.py:114] Buy: $1963.71
+[11/28/2021 17:55:17.466 train.py:134] Episode: 1	Loss: 5116978.00	Action: Buy	Reward: 3918.08	Balance: 5272.06	Number of Stocks: 23
+[11/28/2021 17:55:17.506 train.py: 98] Step: 129	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:17.507 train.py:114] Buy: $1972.83
+[11/28/2021 17:55:19.592 train.py:134] Episode: 1	Loss: 6946943.50	Action: Buy	Reward: 4565.23	Balance: 3299.23	Number of Stocks: 24
+[11/28/2021 17:55:19.624 train.py: 98] Step: 130	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:19.625 train.py:114] Buy: $1964.68
+[11/28/2021 17:55:22.242 train.py:134] Episode: 1	Loss: 8389185.00	Action: Buy	Reward: 5016.78	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:22.260 train.py: 98] Step: 131	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:22.261 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:24.928 train.py:134] Episode: 1	Loss: 2974203648.00	Action: Buy	Reward: -94459.52	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:24.986 train.py: 98] Step: 132	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:24.986 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:27.203 train.py:134] Episode: 1	Loss: 12506256384.00	Action: Buy	Reward: -193697.57	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:27.234 train.py: 98] Step: 133	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:27.235 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:29.315 train.py:134] Episode: 1	Loss: 28622419968.00	Action: Buy	Reward: -293031.12	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:29.358 train.py: 98] Step: 134	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:29.358 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:31.853 train.py:134] Episode: 1	Loss: 51262492672.00	Action: Buy	Reward: -392157.42	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:31.884 train.py: 98] Step: 135	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:31.884 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:34.574 train.py:134] Episode: 1	Loss: 80645373952.00	Action: Buy	Reward: -491869.97	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:34.610 train.py: 98] Step: 136	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:34.610 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:37.399 train.py:134] Episode: 1	Loss: 116458545152.00	Action: Buy	Reward: -591080.02	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:37.443 train.py: 98] Step: 137	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:37.443 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:39.639 train.py:134] Episode: 1	Loss: 158886297600.00	Action: Buy	Reward: -690404.82	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:39.674 train.py: 98] Step: 138	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:39.674 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:41.824 train.py:134] Episode: 1	Loss: 207760703488.00	Action: Buy	Reward: -789482.12	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:41.857 train.py: 98] Step: 139	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:41.857 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:44.222 train.py:134] Episode: 1	Loss: 263127760896.00	Action: Buy	Reward: -888472.42	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:44.265 train.py: 98] Step: 140	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:44.265 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:47.198 train.py:134] Episode: 1	Loss: 325011603456.00	Action: Buy	Reward: -987438.47	Balance: 1334.55	Number of Stocks: 25
+[11/28/2021 17:55:47.228 train.py: 98] Step: 141	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:47.228 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 17:55:47.229 train.py:114] Hold
+[11/28/2021 17:55:49.592 train.py:134] Episode: 1	Loss: 239570.89	Action: Hold	Reward: 847.82	Balance: 3312.89	Number of Stocks: 24
+[11/28/2021 17:55:49.625 train.py: 98] Step: 142	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:49.625 train.py:114] Buy: $1978.91
+[11/28/2021 17:55:51.951 train.py:134] Episode: 1	Loss: 912456.75	Action: Buy	Reward: 1654.55	Balance: 1333.98	Number of Stocks: 25
+[11/28/2021 17:55:51.984 train.py: 98] Step: 143	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:51.984 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:54.131 train.py:134] Episode: 1	Loss: 3185859328.00	Action: Buy	Reward: -97762.82	Balance: 1333.98	Number of Stocks: 25
+[11/28/2021 17:55:54.163 train.py: 98] Step: 144	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:54.163 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:56.370 train.py:134] Episode: 1	Loss: 12959621120.00	Action: Buy	Reward: -197177.19	Balance: 1333.98	Number of Stocks: 25
+[11/28/2021 17:55:56.411 train.py: 98] Step: 145	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:56.411 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:55:58.499 train.py:134] Episode: 1	Loss: 29517275136.00	Action: Buy	Reward: -297576.56	Balance: 1333.98	Number of Stocks: 25
+[11/28/2021 17:55:58.516 train.py: 98] Step: 146	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:55:58.517 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:55:58.517 train.py:114] Sell: $1925.15 | Profit: $0.91
+[11/28/2021 17:56:00.807 train.py:134] Episode: 1	Loss: 95911.66	Action: Sell	Reward: -536.36	Balance: 3259.13	Number of Stocks: 24
+[11/28/2021 17:56:00.839 train.py: 98] Step: 147	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:00.839 train.py:114] Buy: $1938.99
+[11/28/2021 17:56:03.216 train.py:134] Episode: 1	Loss: 183283.77	Action: Buy	Reward: -741.47	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:03.259 train.py: 98] Step: 148	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:03.259 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:05.782 train.py:134] Episode: 1	Loss: 3428416768.00	Action: Buy	Reward: -101416.18	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:05.814 train.py: 98] Step: 149	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:05.815 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:08.503 train.py:134] Episode: 1	Loss: 13613480960.00	Action: Buy	Reward: -202090.14	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:08.562 train.py: 98] Step: 150	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:08.562 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:11.403 train.py:134] Episode: 1	Loss: 30609244160.00	Action: Buy	Reward: -303030.85	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:11.442 train.py: 98] Step: 151	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:11.442 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:13.624 train.py:134] Episode: 1	Loss: 54249525248.00	Action: Buy	Reward: -403421.06	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:13.655 train.py: 98] Step: 152	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:13.656 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:16.350 train.py:134] Episode: 1	Loss: 84563861504.00	Action: Buy	Reward: -503678.01	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:16.386 train.py: 98] Step: 153	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:16.386 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:18.937 train.py:134] Episode: 1	Loss: 121611067392.00	Action: Buy	Reward: -604014.22	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:18.970 train.py: 98] Step: 154	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:18.970 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:21.457 train.py:134] Episode: 1	Loss: 165217648640.00	Action: Buy	Reward: -704026.18	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:21.516 train.py: 98] Step: 155	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:21.517 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:23.988 train.py:134] Episode: 1	Loss: 215379099648.00	Action: Buy	Reward: -803826.64	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:24.021 train.py: 98] Step: 156	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:24.021 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:26.412 train.py:134] Episode: 1	Loss: 272182476800.00	Action: Buy	Reward: -903630.09	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:26.467 train.py: 98] Step: 157	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:26.467 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:29.529 train.py:134] Episode: 1	Loss: 335347449856.00	Action: Buy	Reward: -1003016.55	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:29.565 train.py: 98] Step: 158	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:29.566 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:32.308 train.py:134] Episode: 1	Loss: 404916305920.00	Action: Buy	Reward: -1102156.51	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:32.367 train.py: 98] Step: 159	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:32.368 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:35.025 train.py:134] Episode: 1	Loss: 480939474944.00	Action: Buy	Reward: -1201173.72	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:35.056 train.py: 98] Step: 160	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:35.056 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:37.692 train.py:134] Episode: 1	Loss: 563371900928.00	Action: Buy	Reward: -1300044.43	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:37.729 train.py: 98] Step: 161	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:37.729 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:40.318 train.py:134] Episode: 1	Loss: 652413698048.00	Action: Buy	Reward: -1399014.38	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:40.356 train.py: 98] Step: 162	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:40.356 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:42.989 train.py:134] Episode: 1	Loss: 747748130816.00	Action: Buy	Reward: -1497746.34	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:43.048 train.py: 98] Step: 163	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:43.048 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:45.904 train.py:134] Episode: 1	Loss: 849525145600.00	Action: Buy	Reward: -1596425.80	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:45.973 train.py: 98] Step: 164	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:45.973 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:48.479 train.py:134] Episode: 1	Loss: 957791076352.00	Action: Buy	Reward: -1695102.76	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:48.512 train.py: 98] Step: 165	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:48.512 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:50.626 train.py:134] Episode: 1	Loss: 1072649666560.00	Action: Buy	Reward: -1793864.21	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:50.664 train.py: 98] Step: 166	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:50.665 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:52.766 train.py:134] Episode: 1	Loss: 1193801547776.00	Action: Buy	Reward: -1892459.92	Balance: 1320.14	Number of Stocks: 25
+[11/28/2021 17:56:52.782 train.py: 98] Step: 167	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:52.782 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:56:52.782 train.py:114] Sell: $2002.28 | Profit: $74.40
+[11/28/2021 17:56:54.966 train.py:134] Episode: 1	Loss: 702275.06	Action: Sell	Reward: 1451.54	Balance: 3322.42	Number of Stocks: 24
+[11/28/2021 17:56:54.997 train.py: 98] Step: 168	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:54.997 train.py:114] Buy: $2000.72
+[11/28/2021 17:56:57.069 train.py:134] Episode: 1	Loss: 2596914.25	Action: Buy	Reward: 2791.24	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:56:57.101 train.py: 98] Step: 169	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:57.101 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:56:59.173 train.py:134] Episode: 1	Loss: 3068542720.00	Action: Buy	Reward: -95945.91	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:56:59.205 train.py: 98] Step: 170	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:56:59.205 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:01.621 train.py:134] Episode: 1	Loss: 12601217024.00	Action: Buy	Reward: -194431.56	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:01.660 train.py: 98] Step: 171	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:01.660 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:04.166 train.py:134] Episode: 1	Loss: 28630302720.00	Action: Buy	Reward: -293071.45	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:04.203 train.py: 98] Step: 172	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:04.204 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:07.065 train.py:134] Episode: 1	Loss: 51231502336.00	Action: Buy	Reward: -392038.85	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:07.108 train.py: 98] Step: 173	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:07.109 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:09.465 train.py:134] Episode: 1	Loss: 80303079424.00	Action: Buy	Reward: -490825.00	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:09.500 train.py: 98] Step: 174	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:09.500 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:11.711 train.py:134] Episode: 1	Loss: 115863158784.00	Action: Buy	Reward: -589567.15	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:11.744 train.py: 98] Step: 175	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:11.744 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:13.868 train.py:134] Episode: 1	Loss: 158059921408.00	Action: Buy	Reward: -688607.05	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:13.899 train.py: 98] Step: 176	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:13.900 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:16.013 train.py:134] Episode: 1	Loss: 206814445568.00	Action: Buy	Reward: -787682.20	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:16.032 train.py: 98] Step: 177	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:16.032 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:18.167 train.py:134] Episode: 1	Loss: 261893455872.00	Action: Buy	Reward: -886386.10	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:18.204 train.py: 98] Step: 178	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:18.204 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:20.403 train.py:134] Episode: 1	Loss: 323424976896.00	Action: Buy	Reward: -985025.25	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:20.435 train.py: 98] Step: 179	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:20.435 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:22.559 train.py:134] Episode: 1	Loss: 391266140160.00	Action: Buy	Reward: -1083419.64	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:22.599 train.py: 98] Step: 180	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:22.599 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:24.707 train.py:134] Episode: 1	Loss: 465580457984.00	Action: Buy	Reward: -1181838.04	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:24.742 train.py: 98] Step: 181	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:24.742 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:26.830 train.py:134] Episode: 1	Loss: 546696036352.00	Action: Buy	Reward: -1280659.19	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:26.863 train.py: 98] Step: 182	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:26.863 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:29.048 train.py:134] Episode: 1	Loss: 634586923008.00	Action: Buy	Reward: -1379768.34	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:29.082 train.py: 98] Step: 183	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:29.082 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:31.158 train.py:134] Episode: 1	Loss: 728643469312.00	Action: Buy	Reward: -1478489.23	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:31.190 train.py: 98] Step: 184	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:31.190 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:33.294 train.py:134] Episode: 1	Loss: 830046797824.00	Action: Buy	Reward: -1578017.88	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:33.327 train.py: 98] Step: 185	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:33.327 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:35.443 train.py:134] Episode: 1	Loss: 937582919680.00	Action: Buy	Reward: -1677125.03	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:35.474 train.py: 98] Step: 186	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:35.474 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:37.673 train.py:134] Episode: 1	Loss: 1051816558592.00	Action: Buy	Reward: -1776358.43	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:37.711 train.py: 98] Step: 187	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:37.712 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:39.799 train.py:134] Episode: 1	Loss: 1172787167232.00	Action: Buy	Reward: -1875729.58	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:39.830 train.py: 98] Step: 188	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:39.831 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:41.897 train.py:134] Episode: 1	Loss: 1301201289216.00	Action: Buy	Reward: -1975753.97	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:41.937 train.py: 98] Step: 189	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:41.937 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:44.054 train.py:134] Episode: 1	Loss: 1436285009920.00	Action: Buy	Reward: -2075778.12	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:44.087 train.py: 98] Step: 190	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:44.087 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:46.291 train.py:134] Episode: 1	Loss: 1577250586624.00	Action: Buy	Reward: -2175259.02	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:46.324 train.py: 98] Step: 191	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:46.324 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:48.418 train.py:134] Episode: 1	Loss: 1724930719744.00	Action: Buy	Reward: -2274816.92	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:48.452 train.py: 98] Step: 192	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:48.452 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:50.521 train.py:134] Episode: 1	Loss: 1880394694656.00	Action: Buy	Reward: -2375117.82	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:50.553 train.py: 98] Step: 193	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:50.553 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:52.655 train.py:134] Episode: 1	Loss: 2041172197376.00	Action: Buy	Reward: -2474573.96	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:52.688 train.py: 98] Step: 194	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:52.688 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:54.863 train.py:134] Episode: 1	Loss: 2210289418240.00	Action: Buy	Reward: -2575047.11	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:54.899 train.py: 98] Step: 195	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:54.899 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:56.980 train.py:134] Episode: 1	Loss: 2387120750592.00	Action: Buy	Reward: -2676072.26	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:57.018 train.py: 98] Step: 196	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:57.018 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:57:59.105 train.py:134] Episode: 1	Loss: 2572209881088.00	Action: Buy	Reward: -2777882.16	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:57:59.138 train.py: 98] Step: 197	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:57:59.138 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:01.256 train.py:134] Episode: 1	Loss: 2764066521088.00	Action: Buy	Reward: -2879618.06	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:58:01.298 train.py: 98] Step: 198	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:01.298 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:03.458 train.py:134] Episode: 1	Loss: 2963579863040.00	Action: Buy	Reward: -2981734.21	Balance: 1321.70	Number of Stocks: 25
+[11/28/2021 17:58:03.475 train.py: 98] Step: 199	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:03.475 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:58:03.475 train.py:114] Sell: $1862.76 | Profit: $-77.70
+[11/28/2021 17:58:05.546 train.py:134] Episode: 1	Loss: 1594395.38	Action: Sell	Reward: -2187.00	Balance: 3184.46	Number of Stocks: 24
+[11/28/2021 17:58:05.546 train.py: 88] 
+-------------------Period: 200/251-------------------
+[11/28/2021 17:58:05.579 train.py: 98] Step: 200	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:05.579 train.py:114] Buy: $1886.76
+[11/28/2021 17:58:07.665 train.py:134] Episode: 1	Loss: 4613666.50	Action: Buy	Reward: -3720.30	Balance: 1297.70	Number of Stocks: 25
+[11/28/2021 17:58:07.699 train.py: 98] Step: 201	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:07.699 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:09.878 train.py:134] Episode: 1	Loss: 3662584832.00	Action: Buy	Reward: -104822.45	Balance: 1297.70	Number of Stocks: 25
+[11/28/2021 17:58:09.909 train.py: 98] Step: 202	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:09.909 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:11.974 train.py:134] Episode: 1	Loss: 14007361536.00	Action: Buy	Reward: -204992.84	Balance: 1297.70	Number of Stocks: 25
+[11/28/2021 17:58:12.013 train.py: 98] Step: 203	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:12.013 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:14.093 train.py:134] Episode: 1	Loss: 31113652224.00	Action: Buy	Reward: -305517.49	Balance: 1297.70	Number of Stocks: 25
+[11/28/2021 17:58:14.130 train.py: 98] Step: 204	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:14.131 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:16.212 train.py:134] Episode: 1	Loss: 54796414976.00	Action: Buy	Reward: -405449.39	Balance: 1297.70	Number of Stocks: 25
+[11/28/2021 17:58:16.252 train.py: 98] Step: 205	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:16.252 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:18.488 train.py:134] Episode: 1	Loss: 85020909568.00	Action: Buy	Reward: -505037.28	Balance: 1297.70	Number of Stocks: 25
+[11/28/2021 17:58:18.505 train.py: 98] Step: 206	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:18.505 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:58:18.505 train.py:114] Sell: $1961.63 | Profit: $12.19
+[11/28/2021 17:58:20.565 train.py:134] Episode: 1	Loss: 40971.18	Action: Sell	Reward: 350.64	Balance: 3259.33	Number of Stocks: 24
+[11/28/2021 17:58:20.598 train.py: 98] Step: 207	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:20.598 train.py:114] Buy: $1985.05
+[11/28/2021 17:58:22.706 train.py:134] Episode: 1	Loss: 521768.28	Action: Buy	Reward: 1251.17	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:22.737 train.py: 98] Step: 208	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:22.737 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:24.793 train.py:134] Episode: 1	Loss: 3195925760.00	Action: Buy	Reward: -97917.14	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:24.825 train.py: 98] Step: 209	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:24.825 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:27.201 train.py:134] Episode: 1	Loss: 12907029504.00	Action: Buy	Reward: -196776.71	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:27.239 train.py: 98] Step: 210	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:27.240 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:29.624 train.py:134] Episode: 1	Loss: 29018425344.00	Action: Buy	Reward: -295051.27	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:29.656 train.py: 98] Step: 211	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:29.656 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:31.742 train.py:134] Episode: 1	Loss: 51569987584.00	Action: Buy	Reward: -393331.83	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:31.780 train.py: 98] Step: 212	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:31.780 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:33.928 train.py:134] Episode: 1	Loss: 80607723520.00	Action: Buy	Reward: -491755.15	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:33.961 train.py: 98] Step: 213	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:33.961 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:36.139 train.py:134] Episode: 1	Loss: 115990757376.00	Action: Buy	Reward: -589891.71	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:36.172 train.py: 98] Step: 214	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:36.172 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:38.242 train.py:134] Episode: 1	Loss: 157706731520.00	Action: Buy	Reward: -687837.28	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:38.278 train.py: 98] Step: 215	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:38.279 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:40.364 train.py:134] Episode: 1	Loss: 205808943104.00	Action: Buy	Reward: -785765.09	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:40.395 train.py: 98] Step: 216	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:40.395 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:42.443 train.py:134] Episode: 1	Loss: 260211032064.00	Action: Buy	Reward: -883534.41	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:42.476 train.py: 98] Step: 217	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:42.476 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:44.582 train.py:134] Episode: 1	Loss: 320962461696.00	Action: Buy	Reward: -981268.22	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:44.613 train.py: 98] Step: 218	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:44.613 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:46.643 train.py:134] Episode: 1	Loss: 388107599872.00	Action: Buy	Reward: -1079037.79	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:46.683 train.py: 98] Step: 219	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:46.683 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:48.707 train.py:134] Episode: 1	Loss: 461603995648.00	Action: Buy	Reward: -1176780.35	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:48.738 train.py: 98] Step: 220	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:48.739 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:50.755 train.py:134] Episode: 1	Loss: 541459218432.00	Action: Buy	Reward: -1274510.67	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:50.794 train.py: 98] Step: 221	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:50.794 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:52.888 train.py:134] Episode: 1	Loss: 627647512576.00	Action: Buy	Reward: -1372203.48	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:52.918 train.py: 98] Step: 222	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:52.918 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:54.932 train.py:134] Episode: 1	Loss: 719941730304.00	Action: Buy	Reward: -1469634.30	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:54.964 train.py: 98] Step: 223	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:54.964 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:57.015 train.py:134] Episode: 1	Loss: 818644779008.00	Action: Buy	Reward: -1567142.11	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:57.046 train.py: 98] Step: 224	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:57.046 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:58:59.148 train.py:134] Episode: 1	Loss: 923574730752.00	Action: Buy	Reward: -1664549.18	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:58:59.185 train.py: 98] Step: 225	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:58:59.185 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:01.232 train.py:134] Episode: 1	Loss: 1034514268160.00	Action: Buy	Reward: -1761687.49	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:01.265 train.py: 98] Step: 226	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:01.265 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:03.289 train.py:134] Episode: 1	Loss: 1151561498624.00	Action: Buy	Reward: -1858678.06	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:03.319 train.py: 98] Step: 227	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:03.319 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:05.329 train.py:134] Episode: 1	Loss: 1274957529088.00	Action: Buy	Reward: -1955728.12	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:05.366 train.py: 98] Step: 228	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:05.366 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:07.507 train.py:134] Episode: 1	Loss: 1404434382848.00	Action: Buy	Reward: -2052633.19	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:07.539 train.py: 98] Step: 229	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:07.539 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:09.571 train.py:134] Episode: 1	Loss: 1540360372224.00	Action: Buy	Reward: -2149670.00	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:09.613 train.py: 98] Step: 230	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:09.613 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:11.644 train.py:134] Episode: 1	Loss: 1683092537344.00	Action: Buy	Reward: -2247059.81	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:11.676 train.py: 98] Step: 231	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:11.676 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:13.671 train.py:134] Episode: 1	Loss: 1831635910656.00	Action: Buy	Reward: -2344121.88	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:13.702 train.py: 98] Step: 232	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:13.702 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:15.813 train.py:134] Episode: 1	Loss: 1986143322112.00	Action: Buy	Reward: -2440989.44	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:15.845 train.py: 98] Step: 233	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:15.845 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:17.890 train.py:134] Episode: 1	Loss: 2147007987712.00	Action: Buy	Reward: -2537917.26	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:17.921 train.py: 98] Step: 234	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:17.921 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:20.038 train.py:134] Episode: 1	Loss: 2313984671744.00	Action: Buy	Reward: -2634758.82	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:20.075 train.py: 98] Step: 235	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:20.076 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:22.222 train.py:134] Episode: 1	Loss: 2487899389952.00	Action: Buy	Reward: -2731976.88	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:22.254 train.py: 98] Step: 236	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:22.255 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:24.727 train.py:134] Episode: 1	Loss: 2668137807872.00	Action: Buy	Reward: -2829207.20	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:24.777 train.py: 98] Step: 237	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:24.777 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:26.874 train.py:134] Episode: 1	Loss: 2856321810432.00	Action: Buy	Reward: -2927279.51	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:26.906 train.py: 98] Step: 238	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:26.906 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:28.941 train.py:134] Episode: 1	Loss: 3050454646784.00	Action: Buy	Reward: -3025122.08	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:28.981 train.py: 98] Step: 239	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:28.981 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:31.049 train.py:134] Episode: 1	Loss: 3252687208448.00	Action: Buy	Reward: -3123789.64	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:31.086 train.py: 98] Step: 240	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:31.086 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:33.218 train.py:134] Episode: 1	Loss: 3462092554240.00	Action: Buy	Reward: -3222774.71	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:33.249 train.py: 98] Step: 241	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:33.249 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:35.288 train.py:134] Episode: 1	Loss: 3678964547584.00	Action: Buy	Reward: -3322182.02	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:35.319 train.py: 98] Step: 242	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:35.320 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:37.363 train.py:134] Episode: 1	Loss: 3900135702528.00	Action: Buy	Reward: -3420585.59	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:37.396 train.py: 98] Step: 243	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:37.396 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:39.427 train.py:134] Episode: 1	Loss: 4124927066112.00	Action: Buy	Reward: -3517780.65	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:39.459 train.py: 98] Step: 244	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:39.460 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:41.564 train.py:134] Episode: 1	Loss: 4355449159680.00	Action: Buy	Reward: -3614740.22	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:41.595 train.py: 98] Step: 245	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:41.595 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:43.629 train.py:134] Episode: 1	Loss: 4591750479872.00	Action: Buy	Reward: -3711502.53	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:43.667 train.py: 98] Step: 246	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:43.667 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:45.694 train.py:134] Episode: 1	Loss: 4834063810560.00	Action: Buy	Reward: -3808174.10	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:45.728 train.py: 98] Step: 247	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:45.728 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:47.768 train.py:134] Episode: 1	Loss: 5082625605632.00	Action: Buy	Reward: -3904852.92	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:47.806 train.py: 98] Step: 248	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:47.806 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:49.913 train.py:134] Episode: 1	Loss: 5336959287296.00	Action: Buy	Reward: -4001359.48	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:49.944 train.py: 98] Step: 249	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:49.944 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:51.975 train.py:134] Episode: 1	Loss: 5597378904064.00	Action: Buy	Reward: -4097821.04	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:52.006 train.py: 98] Step: 250	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:52.006 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:54.040 train.py:134] Episode: 1	Loss: 5864716500992.00	Action: Buy	Reward: -4194538.10	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:54.073 train.py: 98] Step: 251	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:54.073 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 17:59:56.178 train.py:134] Episode: 1	Loss: 6139827716096.00	Action: Buy	Reward: -4291791.42	Balance: 1274.28	Number of Stocks: 25
+[11/28/2021 17:59:56.178 utils.py: 86] --------------------------------
+[11/28/2021 17:59:56.178 utils.py: 87] Portfolio Value:        $52746.78
+[11/28/2021 17:59:56.179 utils.py: 88] Portfolio Balance:      $1274.28
+[11/28/2021 17:59:56.179 utils.py: 89] Portfolio Stocks Number: 25
+[11/28/2021 17:59:56.179 utils.py: 90] Total Return:           $2746.78
+[11/28/2021 17:59:56.179 utils.py: 91] Mean/Daily Return Rate:  0.000%
+[11/28/2021 17:59:56.179 utils.py: 92] Sharpe Ratio adjusted with Treasury bond daily return: 0.216
+[11/28/2021 17:59:56.179 utils.py: 93] Maximum Drawdown:        -7.212%
+[11/28/2021 17:59:56.179 utils.py: 94] --------------------------------
+[11/28/2021 17:59:56.179 train.py: 81] 
+Episode: 2/2
+[11/28/2021 17:59:56.194 train.py: 98] Step: 1	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:56.194 train.py:114] Buy: $1831.37
+[11/28/2021 17:59:58.232 train.py:134] Episode: 2	Loss: 0.00	Action: Buy	Reward: 0.00	Balance: 48168.63	Number of Stocks: 1
+[11/28/2021 17:59:58.248 train.py: 98] Step: 2	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 17:59:58.248 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 17:59:58.248 train.py:114] Sell: $1826.77 | Profit: $-4.60
+[11/28/2021 18:00:00.296 train.py:134] Episode: 2	Loss: 28.52	Action: Sell	Reward: -9.20	Balance: 49995.40	Number of Stocks: 0
+[11/28/2021 18:00:00.312 train.py: 98] Step: 3	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:00.313 train.py:114] Buy: $1837.88
+[11/28/2021 18:00:02.329 train.py:134] Episode: 2	Loss: 63.94	Action: Buy	Reward: -13.80	Balance: 48157.52	Number of Stocks: 1
+[11/28/2021 18:00:02.344 train.py: 98] Step: 4	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:02.344 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:00:04.438 train.py:134] Episode: 2	Loss: 167.54	Action: Hold	Reward: -22.37	Balance: 48157.52	Number of Stocks: 1
+[11/28/2021 18:00:04.455 train.py: 98] Step: 5	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:04.456 train.py:114] Buy: $1838.13
+[11/28/2021 18:00:06.469 train.py:134] Episode: 2	Loss: 238.87	Action: Buy	Reward: -26.72	Balance: 46319.39	Number of Stocks: 2
+[11/28/2021 18:00:06.484 train.py: 98] Step: 6	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:06.484 train.py:114] Buy: $1842.37
+[11/28/2021 18:00:08.523 train.py:134] Episode: 2	Loss: 170.85	Action: Buy	Reward: -22.59	Balance: 44477.02	Number of Stocks: 3
+[11/28/2021 18:00:08.544 train.py: 98] Step: 7	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:08.545 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:00:08.545 train.py:114] Sell: $1819.20 | Profit: $-18.68
+[11/28/2021 18:00:10.546 train.py:134] Episode: 2	Loss: 2358.17	Action: Sell	Reward: -84.06	Balance: 46296.22	Number of Stocks: 2
+[11/28/2021 18:00:10.578 train.py: 98] Step: 8	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:10.578 train.py:114] Buy: $1838.88
+[11/28/2021 18:00:12.685 train.py:134] Episode: 2	Loss: 4042.89	Action: Buy	Reward: -110.08	Balance: 44457.34	Number of Stocks: 3
+[11/28/2021 18:00:12.700 train.py: 98] Step: 9	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:12.700 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:00:12.701 train.py:114] Hold
+[11/28/2021 18:00:14.692 train.py:134] Episode: 2	Loss: 53.59	Action: Hold	Reward: 12.73	Balance: 46305.72	Number of Stocks: 2
+[11/28/2021 18:00:14.708 train.py: 98] Step: 10	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:14.708 train.py:114] Buy: $1845.89
+[11/28/2021 18:00:16.737 train.py:134] Episode: 2	Loss: 34.54	Action: Buy	Reward: 10.23	Balance: 44459.83	Number of Stocks: 3
+[11/28/2021 18:00:16.769 train.py: 98] Step: 11	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:16.769 train.py:114] Buy: $1838.70
+[11/28/2021 18:00:18.770 train.py:134] Episode: 2	Loss: 64.31	Action: Buy	Reward: -13.84	Balance: 42621.13	Number of Stocks: 4
+[11/28/2021 18:00:18.786 train.py: 98] Step: 12	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:18.786 train.py:114] Buy: $1843.80
+[11/28/2021 18:00:20.893 train.py:134] Episode: 2	Loss: 102.78	Action: Buy	Reward: -17.51	Balance: 40777.33	Number of Stocks: 5
+[11/28/2021 18:00:20.909 train.py: 98] Step: 13	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:20.909 train.py:114] Buy: $1844.86
+[11/28/2021 18:00:22.911 train.py:134] Episode: 2	Loss: 84.59	Action: Buy	Reward: -15.88	Balance: 38932.47	Number of Stocks: 6
+[11/28/2021 18:00:22.926 train.py: 98] Step: 14	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:22.926 train.py:114] Buy: $1828.46
+[11/28/2021 18:00:24.946 train.py:134] Episode: 2	Loss: 4233.79	Action: Buy	Reward: -112.65	Balance: 37104.01	Number of Stocks: 7
+[11/28/2021 18:00:24.962 train.py: 98] Step: 15	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:24.962 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:00:27.023 train.py:134] Episode: 2	Loss: 76613.87	Action: Hold	Reward: -479.37	Balance: 37104.01	Number of Stocks: 7
+[11/28/2021 18:00:27.039 train.py: 98] Step: 16	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:27.039 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:00:29.866 train.py:134] Episode: 2	Loss: 274364.75	Action: Hold	Reward: -907.20	Balance: 37104.01	Number of Stocks: 7
+[11/28/2021 18:00:29.906 train.py: 98] Step: 17	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:29.906 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:00:32.470 train.py:134] Episode: 2	Loss: 527935.12	Action: Hold	Reward: -1258.44	Balance: 37104.01	Number of Stocks: 7
+[11/28/2021 18:00:32.494 train.py: 98] Step: 18	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:32.494 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:00:34.952 train.py:134] Episode: 2	Loss: 1006697.56	Action: Hold	Reward: -1737.79	Balance: 37104.01	Number of Stocks: 7
+[11/28/2021 18:00:34.973 train.py: 98] Step: 19	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:34.974 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:00:34.974 train.py:114] Sell: $1794.19 | Profit: $-48.18
+[11/28/2021 18:00:37.609 train.py:134] Episode: 2	Loss: 49380.22	Action: Sell	Reward: -384.84	Balance: 38898.20	Number of Stocks: 6
+[11/28/2021 18:00:37.628 train.py: 98] Step: 20	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:37.628 train.py:114] Buy: $1782.59
+[11/28/2021 18:00:40.828 train.py:134] Episode: 2	Loss: 208639.81	Action: Buy	Reward: -791.10	Balance: 37115.61	Number of Stocks: 7
+[11/28/2021 18:00:40.855 train.py: 98] Step: 21	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:40.855 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:00:40.855 train.py:114] Sell: $1741.89 | Profit: $-96.99
+[11/28/2021 18:00:44.682 train.py:134] Episode: 2	Loss: 207086.36	Action: Sell	Reward: -788.15	Balance: 38857.50	Number of Stocks: 6
+[11/28/2021 18:00:44.713 train.py: 98] Step: 22	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:44.713 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:00:44.713 train.py:114] Sell: $1755.20 | Profit: $-90.69
+[11/28/2021 18:00:47.255 train.py:134] Episode: 2	Loss: 164286.89	Action: Sell	Reward: -701.99	Balance: 40612.70	Number of Stocks: 5
+[11/28/2021 18:00:47.279 train.py: 98] Step: 23	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:47.279 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:00:47.279 train.py:114] Sell: $1751.64 | Profit: $-87.06
+[11/28/2021 18:00:49.699 train.py:134] Episode: 2	Loss: 170985.55	Action: Sell	Reward: -716.16	Balance: 42364.34	Number of Stocks: 4
+[11/28/2021 18:00:49.720 train.py: 98] Step: 24	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:49.720 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:00:49.720 train.py:114] Sell: $1773.43 | Profit: $-70.37
+[11/28/2021 18:00:52.092 train.py:134] Episode: 2	Loss: 124994.84	Action: Sell	Reward: -612.31	Balance: 44137.77	Number of Stocks: 3
+[11/28/2021 18:00:52.123 train.py: 98] Step: 25	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:52.123 train.py:114] Buy: $1797.02
+[11/28/2021 18:00:54.128 train.py:134] Episode: 2	Loss: 391345.59	Action: Buy	Reward: -1083.48	Balance: 42340.75	Number of Stocks: 4
+[11/28/2021 18:00:54.164 train.py: 98] Step: 26	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:54.164 train.py:114] Buy: $1799.84
+[11/28/2021 18:00:56.378 train.py:134] Episode: 2	Loss: 794048.31	Action: Buy	Reward: -1543.37	Balance: 40540.91	Number of Stocks: 5
+[11/28/2021 18:00:56.399 train.py: 98] Step: 27	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:56.399 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:00:56.399 train.py:114] Sell: $1819.75 | Profit: $-25.11
+[11/28/2021 18:00:59.208 train.py:134] Episode: 2	Loss: 49536.73	Action: Sell	Reward: -385.45	Balance: 42360.66	Number of Stocks: 4
+[11/28/2021 18:00:59.242 train.py: 98] Step: 28	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:00:59.242 train.py:114] Buy: $1819.26
+[11/28/2021 18:01:01.630 train.py:134] Episode: 2	Loss: 186401.55	Action: Buy	Reward: -747.75	Balance: 40541.40	Number of Stocks: 5
+[11/28/2021 18:01:01.667 train.py: 98] Step: 29	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:01.667 train.py:114] Buy: $1829.83
+[11/28/2021 18:01:03.908 train.py:134] Episode: 2	Loss: 372592.62	Action: Buy	Reward: -1057.20	Balance: 38711.57	Number of Stocks: 6
+[11/28/2021 18:01:03.924 train.py: 98] Step: 30	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:03.924 train.py:114] Buy: $1838.63
+[11/28/2021 18:01:05.978 train.py:134] Episode: 2	Loss: 575444.44	Action: Buy	Reward: -1313.85	Balance: 36872.94	Number of Stocks: 7
+[11/28/2021 18:01:06.010 train.py: 98] Step: 31	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:06.010 train.py:114] Buy: $1840.76
+[11/28/2021 18:01:08.033 train.py:134] Episode: 2	Loss: 806671.81	Action: Buy	Reward: -1555.59	Balance: 35032.18	Number of Stocks: 8
+[11/28/2021 18:01:08.069 train.py: 98] Step: 32	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:08.069 train.py:114] Buy: $1828.75
+[11/28/2021 18:01:10.284 train.py:134] Episode: 2	Loss: 1195063.38	Action: Buy	Reward: -1893.41	Balance: 33203.43	Number of Stocks: 9
+[11/28/2021 18:01:10.322 train.py: 98] Step: 33	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:10.322 train.py:114] Buy: $1839.78
+[11/28/2021 18:01:12.506 train.py:134] Episode: 2	Loss: 1515154.88	Action: Buy	Reward: -2131.96	Balance: 31363.65	Number of Stocks: 10
+[11/28/2021 18:01:12.522 train.py: 98] Step: 34	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:12.522 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:01:12.522 train.py:114] Sell: $1836.25 | Profit: $7.79
+[11/28/2021 18:01:15.711 train.py:134] Episode: 2	Loss: 23604.83	Action: Sell	Reward: -266.06	Balance: 33199.90	Number of Stocks: 9
+[11/28/2021 18:01:15.750 train.py: 98] Step: 35	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:15.750 train.py:114] Buy: $1847.61
+[11/28/2021 18:01:18.012 train.py:134] Episode: 2	Loss: 63866.29	Action: Buy	Reward: -437.67	Balance: 31352.29	Number of Stocks: 10
+[11/28/2021 18:01:18.046 train.py: 98] Step: 36	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:18.046 train.py:114] Buy: $1845.12
+[11/28/2021 18:01:20.501 train.py:134] Episode: 2	Loss: 134082.58	Action: Buy	Reward: -634.18	Balance: 29507.17	Number of Stocks: 11
+[11/28/2021 18:01:20.522 train.py: 98] Step: 37	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:20.522 train.py:114] Buy: $1845.16
+[11/28/2021 18:01:22.701 train.py:134] Episode: 2	Loss: 229799.14	Action: Buy	Reward: -830.25	Balance: 27662.01	Number of Stocks: 12
+[11/28/2021 18:01:22.720 train.py: 98] Step: 38	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:22.720 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:01:22.722 train.py:114] Hold
+[11/28/2021 18:01:24.923 train.py:134] Episode: 2	Loss: 73.60	Action: Hold	Reward: -14.81	Balance: 29516.30	Number of Stocks: 11
+[11/28/2021 18:01:24.978 train.py: 98] Step: 39	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:24.978 train.py:114] Buy: $1859.45
+[11/28/2021 18:01:27.412 train.py:134] Episode: 2	Loss: 663.35	Action: Buy	Reward: -44.56	Balance: 27656.85	Number of Stocks: 12
+[11/28/2021 18:01:27.445 train.py: 98] Step: 40	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:27.445 train.py:114] Buy: $1845.73
+[11/28/2021 18:01:29.758 train.py:134] Episode: 2	Loss: 19040.35	Action: Buy	Reward: -238.95	Balance: 25811.12	Number of Stocks: 13
+[11/28/2021 18:01:29.804 train.py: 98] Step: 41	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:29.804 train.py:114] Buy: $1873.91
+[11/28/2021 18:01:32.228 train.py:134] Episode: 2	Loss: 1498.55	Action: Buy	Reward: -67.00	Balance: 23937.21	Number of Stocks: 14
+[11/28/2021 18:01:32.244 train.py: 98] Step: 42	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:32.244 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:01:32.245 train.py:114] Hold
+[11/28/2021 18:01:34.463 train.py:134] Episode: 2	Loss: 20384.27	Action: Hold	Reward: 247.34	Balance: 25811.02	Number of Stocks: 13
+[11/28/2021 18:01:34.503 train.py: 98] Step: 43	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:34.503 train.py:114] Buy: $1877.03
+[11/28/2021 18:01:36.797 train.py:134] Episode: 2	Loss: 70441.82	Action: Buy	Reward: 459.75	Balance: 23933.99	Number of Stocks: 14
+[11/28/2021 18:01:36.931 train.py: 98] Step: 44	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:36.931 train.py:114] Buy: $1878.04
+[11/28/2021 18:01:39.394 train.py:134] Episode: 2	Loss: 156980.67	Action: Buy	Reward: 686.30	Balance: 22055.95	Number of Stocks: 15
+[11/28/2021 18:01:39.438 train.py: 98] Step: 45	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:39.439 train.py:114] Buy: $1877.17
+[11/28/2021 18:01:41.650 train.py:134] Episode: 2	Loss: 269851.75	Action: Buy	Reward: 899.80	Balance: 20178.78	Number of Stocks: 16
+[11/28/2021 18:01:41.687 train.py: 98] Step: 46	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:41.687 train.py:114] Buy: $1867.63
+[11/28/2021 18:01:43.770 train.py:134] Episode: 2	Loss: 307592.44	Action: Buy	Reward: 960.66	Balance: 18311.15	Number of Stocks: 17
+[11/28/2021 18:01:43.802 train.py: 98] Step: 47	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:43.802 train.py:114] Buy: $1868.20
+[11/28/2021 18:01:45.997 train.py:134] Episode: 2	Loss: 354431.75	Action: Buy	Reward: 1031.21	Balance: 16442.95	Number of Stocks: 18
+[11/28/2021 18:01:46.013 train.py: 98] Step: 48	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:46.013 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:01:46.013 train.py:114] Sell: $1846.34 | Profit: $46.50
+[11/28/2021 18:01:49.120 train.py:134] Episode: 2	Loss: 25480.49	Action: Sell	Reward: -276.43	Balance: 18289.29	Number of Stocks: 17
+[11/28/2021 18:01:49.154 train.py: 98] Step: 49	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:49.154 train.py:114] Buy: $1841.13
+[11/28/2021 18:01:52.163 train.py:134] Episode: 2	Loss: 157772.34	Action: Buy	Reward: -687.93	Balance: 16448.16	Number of Stocks: 18
+[11/28/2021 18:01:52.189 train.py: 98] Step: 50	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:52.189 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:01:52.192 train.py:114] Hold
+[11/28/2021 18:01:55.108 train.py:134] Episode: 2	Loss: 949.84	Action: Hold	Reward: -53.33	Balance: 18306.99	Number of Stocks: 17
+[11/28/2021 18:01:55.155 train.py: 98] Step: 51	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:55.155 train.py:114] Buy: $1872.25
+[11/28/2021 18:01:57.519 train.py:134] Episode: 2	Loss: 2233.64	Action: Buy	Reward: 81.91	Balance: 16434.74	Number of Stocks: 18
+[11/28/2021 18:01:57.535 train.py: 98] Step: 52	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:01:57.535 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:01:57.536 train.py:114] Hold
+[11/28/2021 18:02:00.010 train.py:134] Episode: 2	Loss: 547.01	Action: Hold	Reward: -40.46	Balance: 18295.51	Number of Stocks: 17
+[11/28/2021 18:02:00.055 train.py: 98] Step: 53	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:00.055 train.py:114] Buy: $1872.01
+[11/28/2021 18:02:02.467 train.py:134] Episode: 2	Loss: 2089.33	Action: Buy	Reward: 79.22	Balance: 16423.50	Number of Stocks: 18
+[11/28/2021 18:02:02.486 train.py: 98] Step: 54	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:02.486 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:02:02.486 train.py:114] Hold
+[11/28/2021 18:02:04.606 train.py:134] Episode: 2	Loss: 790.58	Action: Hold	Reward: 48.75	Balance: 18290.02	Number of Stocks: 17
+[11/28/2021 18:02:04.640 train.py: 98] Step: 55	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:04.640 train.py:114] Buy: $1857.44
+[11/28/2021 18:02:07.021 train.py:134] Episode: 2	Loss: 2397.05	Action: Buy	Reward: -84.75	Balance: 16432.58	Number of Stocks: 18
+[11/28/2021 18:02:07.044 train.py: 98] Step: 56	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:07.044 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:02:07.044 train.py:114] Hold
+[11/28/2021 18:02:09.710 train.py:134] Episode: 2	Loss: 495.37	Action: Hold	Reward: 38.60	Balance: 18298.20	Number of Stocks: 17
+[11/28/2021 18:02:09.746 train.py: 98] Step: 57	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:09.746 train.py:114] Buy: $1852.56
+[11/28/2021 18:02:11.935 train.py:134] Episode: 2	Loss: 9602.64	Action: Buy	Reward: -169.68	Balance: 16445.64	Number of Stocks: 18
+[11/28/2021 18:02:11.967 train.py: 98] Step: 58	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:11.967 train.py:114] Buy: $1849.04
+[11/28/2021 18:02:14.630 train.py:134] Episode: 2	Loss: 64935.30	Action: Buy	Reward: -441.32	Balance: 14596.60	Number of Stocks: 19
+[11/28/2021 18:02:14.654 train.py: 98] Step: 59	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:14.654 train.py:114] Buy: $1857.62
+[11/28/2021 18:02:17.032 train.py:134] Episode: 2	Loss: 100829.06	Action: Buy	Reward: -549.94	Balance: 12738.98	Number of Stocks: 20
+[11/28/2021 18:02:17.048 train.py: 98] Step: 60	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:17.048 train.py:114] Buy: $1872.34
+[11/28/2021 18:02:19.709 train.py:134] Episode: 2	Loss: 44216.08	Action: Buy	Reward: -364.16	Balance: 10866.64	Number of Stocks: 21
+[11/28/2021 18:02:19.752 train.py: 98] Step: 61	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:19.752 train.py:114] Buy: $1885.52
+[11/28/2021 18:02:22.135 train.py:134] Episode: 2	Loss: 3224.33	Action: Buy	Reward: 98.40	Balance: 8981.12	Number of Stocks: 22
+[11/28/2021 18:02:22.173 train.py: 98] Step: 62	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:22.173 train.py:114] Buy: $1890.90
+[11/28/2021 18:02:24.753 train.py:134] Episode: 2	Loss: 153803.45	Action: Buy	Reward: 679.32	Balance: 7090.22	Number of Stocks: 23
+[11/28/2021 18:02:24.783 train.py: 98] Step: 63	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:24.784 train.py:114] Buy: $1888.77
+[11/28/2021 18:02:27.655 train.py:134] Episode: 2	Loss: 489003.75	Action: Buy	Reward: 1211.25	Balance: 5201.45	Number of Stocks: 24
+[11/28/2021 18:02:27.690 train.py: 98] Step: 64	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:27.690 train.py:114] Buy: $1865.09
+[11/28/2021 18:02:30.210 train.py:134] Episode: 2	Loss: 460060.72	Action: Buy	Reward: 1174.86	Balance: 3336.36	Number of Stocks: 25
+[11/28/2021 18:02:30.250 train.py: 98] Step: 65	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:30.250 train.py:114] Buy: $1845.04
+[11/28/2021 18:02:32.590 train.py:134] Episode: 2	Loss: 135329.56	Action: Buy	Reward: 637.22	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:32.621 train.py: 98] Step: 66	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:32.621 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:34.675 train.py:134] Episode: 2	Loss: 3314736384.00	Action: Buy	Reward: -99720.61	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:34.708 train.py: 98] Step: 67	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:34.708 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:37.343 train.py:134] Episode: 2	Loss: 13273768960.00	Action: Buy	Reward: -199552.72	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:37.389 train.py: 98] Step: 68	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:37.389 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:39.552 train.py:134] Episode: 2	Loss: 30080346112.00	Action: Buy	Reward: -300401.43	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:39.587 train.py: 98] Step: 69	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:39.588 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:41.624 train.py:134] Episode: 2	Loss: 53788258304.00	Action: Buy	Reward: -401702.28	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:41.661 train.py: 98] Step: 70	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:41.661 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:43.826 train.py:134] Episode: 2	Loss: 84207362048.00	Action: Buy	Reward: -502615.21	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:43.860 train.py: 98] Step: 71	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:43.860 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:45.877 train.py:134] Episode: 2	Loss: 121286057984.00	Action: Buy	Reward: -603206.53	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:45.908 train.py: 98] Step: 72	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:45.909 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:47.957 train.py:134] Episode: 2	Loss: 164874764288.00	Action: Buy	Reward: -703295.26	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:47.988 train.py: 98] Step: 73	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:47.988 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:49.972 train.py:134] Episode: 2	Loss: 215106600960.00	Action: Buy	Reward: -803317.95	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:50.003 train.py: 98] Step: 74	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:50.004 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:52.082 train.py:134] Episode: 2	Loss: 271897903104.00	Action: Buy	Reward: -903157.60	Balance: 1491.32	Number of Stocks: 26
+[11/28/2021 18:02:52.099 train.py: 98] Step: 75	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:52.099 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:02:52.099 train.py:114] Hold
+[11/28/2021 18:02:54.100 train.py:134] Episode: 2	Loss: 56134.86	Action: Hold	Reward: 410.42	Balance: 3370.87	Number of Stocks: 25
+[11/28/2021 18:02:54.133 train.py: 98] Step: 76	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:54.133 train.py:114] Buy: $1875.39
+[11/28/2021 18:02:56.107 train.py:134] Episode: 2	Loss: 147848.30	Action: Buy	Reward: 666.04	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:02:56.144 train.py: 98] Step: 77	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:56.145 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:02:58.162 train.py:134] Episode: 2	Loss: 3266655488.00	Action: Buy	Reward: -98994.73	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:02:58.198 train.py: 98] Step: 78	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:02:58.198 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:00.283 train.py:134] Episode: 2	Loss: 13207102464.00	Action: Buy	Reward: -199050.96	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:00.320 train.py: 98] Step: 79	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:00.320 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:02.320 train.py:134] Episode: 2	Loss: 29790461952.00	Action: Buy	Reward: -298950.41	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:02.352 train.py: 98] Step: 80	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:02.352 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:04.353 train.py:134] Episode: 2	Loss: 52965568512.00	Action: Buy	Reward: -398618.46	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:04.383 train.py: 98] Step: 81	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:04.383 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:06.782 train.py:134] Episode: 2	Loss: 82714632192.00	Action: Buy	Reward: -498140.40	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:06.829 train.py: 98] Step: 82	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:06.829 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:09.209 train.py:134] Episode: 2	Loss: 119069564928.00	Action: Buy	Reward: -597669.34	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:09.240 train.py: 98] Step: 83	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:09.240 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:11.721 train.py:134] Episode: 2	Loss: 162059206656.00	Action: Buy	Reward: -697264.34	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:11.761 train.py: 98] Step: 84	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:11.761 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:14.159 train.py:134] Episode: 2	Loss: 211613007872.00	Action: Buy	Reward: -796767.81	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:14.196 train.py: 98] Step: 85	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:14.196 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:16.445 train.py:134] Episode: 2	Loss: 268030656512.00	Action: Buy	Reward: -896711.72	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:16.484 train.py: 98] Step: 86	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:16.484 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:19.187 train.py:134] Episode: 2	Loss: 330926325760.00	Action: Buy	Reward: -996382.89	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:19.222 train.py: 98] Step: 87	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:19.223 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:21.823 train.py:134] Episode: 2	Loss: 400493936640.00	Action: Buy	Reward: -1096121.14	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:21.865 train.py: 98] Step: 88	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:21.865 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:24.946 train.py:134] Episode: 2	Loss: 476634251264.00	Action: Buy	Reward: -1195785.29	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:24.998 train.py: 98] Step: 89	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:24.998 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:28.756 train.py:134] Episode: 2	Loss: 558988591104.00	Action: Buy	Reward: -1294977.02	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:28.825 train.py: 98] Step: 90	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:28.825 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:33.516 train.py:134] Episode: 2	Loss: 647882866688.00	Action: Buy	Reward: -1394147.96	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:33.553 train.py: 98] Step: 91	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:33.554 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:37.653 train.py:134] Episode: 2	Loss: 743564705792.00	Action: Buy	Reward: -1493550.81	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:37.727 train.py: 98] Step: 92	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:37.727 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:40.340 train.py:134] Episode: 2	Loss: 846322008064.00	Action: Buy	Reward: -1593413.34	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:40.379 train.py: 98] Step: 93	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:40.379 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:42.601 train.py:134] Episode: 2	Loss: 955522023424.00	Action: Buy	Reward: -1693093.61	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:42.643 train.py: 98] Step: 94	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:42.643 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:45.442 train.py:134] Episode: 2	Loss: 1071121760256.00	Action: Buy	Reward: -1792586.16	Balance: 1495.48	Number of Stocks: 26
+[11/28/2021 18:03:45.462 train.py: 98] Step: 95	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:45.462 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:03:45.464 train.py:114] Hold
+[11/28/2021 18:03:48.116 train.py:134] Episode: 2	Loss: 16436.70	Action: Hold	Reward: 222.11	Balance: 3368.31	Number of Stocks: 25
+[11/28/2021 18:03:48.159 train.py: 98] Step: 96	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:48.159 train.py:114] Buy: $1888.03
+[11/28/2021 18:03:50.908 train.py:134] Episode: 2	Loss: 208623.33	Action: Buy	Reward: 791.17	Balance: 1480.28	Number of Stocks: 26
+[11/28/2021 18:03:50.991 train.py: 98] Step: 97	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:50.992 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:54.051 train.py:134] Episode: 2	Loss: 3235657472.00	Action: Buy	Reward: -98523.92	Balance: 1480.28	Number of Stocks: 26
+[11/28/2021 18:03:54.108 train.py: 98] Step: 98	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:54.108 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:56.770 train.py:134] Episode: 2	Loss: 13019208704.00	Action: Buy	Reward: -197629.97	Balance: 1480.28	Number of Stocks: 26
+[11/28/2021 18:03:56.813 train.py: 98] Step: 99	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:56.813 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:03:59.500 train.py:134] Episode: 2	Loss: 29292263424.00	Action: Buy	Reward: -296440.14	Balance: 1480.28	Number of Stocks: 26
+[11/28/2021 18:03:59.500 train.py: 88] 
+-------------------Period: 100/251-------------------
+[11/28/2021 18:03:59.529 train.py: 98] Step: 100	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:03:59.529 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:03:59.529 train.py:114] Sell: $1909.78 | Profit: $62.17
+[11/28/2021 18:04:02.177 train.py:134] Episode: 2	Loss: 477348.22	Action: Sell	Reward: 1196.73	Balance: 3390.06	Number of Stocks: 25
+[11/28/2021 18:04:02.225 train.py: 98] Step: 101	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:02.225 train.py:114] Buy: $1920.03
+[11/28/2021 18:04:05.078 train.py:134] Episode: 2	Loss: 2231704.00	Action: Buy	Reward: 2587.54	Balance: 1470.03	Number of Stocks: 26
+[11/28/2021 18:04:05.101 train.py: 98] Step: 102	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:05.101 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:04:05.101 train.py:114] Sell: $1923.57 | Profit: $78.45
+[11/28/2021 18:04:07.719 train.py:134] Episode: 2	Loss: 812498.81	Action: Sell	Reward: 1561.30	Balance: 3393.60	Number of Stocks: 25
+[11/28/2021 18:04:07.757 train.py: 98] Step: 103	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:07.757 train.py:114] Buy: $1924.97
+[11/28/2021 18:04:09.945 train.py:134] Episode: 2	Loss: 3160280.75	Action: Buy	Reward: 3079.15	Balance: 1468.63	Number of Stocks: 26
+[11/28/2021 18:04:09.977 train.py: 98] Step: 104	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:09.977 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:12.305 train.py:134] Episode: 2	Loss: 3035128064.00	Action: Buy	Reward: -95422.09	Balance: 1468.63	Number of Stocks: 26
+[11/28/2021 18:04:12.332 train.py: 98] Step: 105	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:12.332 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:04:12.333 train.py:114] Hold
+[11/28/2021 18:04:14.979 train.py:134] Episode: 2	Loss: 936526.44	Action: Hold	Reward: 1676.23	Balance: 3396.51	Number of Stocks: 25
+[11/28/2021 18:04:15.013 train.py: 98] Step: 106	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:15.013 train.py:114] Buy: $1940.46
+[11/28/2021 18:04:17.133 train.py:134] Episode: 2	Loss: 4282137.00	Action: Buy	Reward: 3584.24	Balance: 1456.05	Number of Stocks: 26
+[11/28/2021 18:04:17.167 train.py: 98] Step: 107	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:17.167 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:19.244 train.py:134] Episode: 2	Loss: 2962555904.00	Action: Buy	Reward: -94274.38	Balance: 1456.05	Number of Stocks: 26
+[11/28/2021 18:04:19.275 train.py: 98] Step: 108	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:19.275 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:21.346 train.py:134] Episode: 2	Loss: 12298941440.00	Action: Buy	Reward: -192085.42	Balance: 1456.05	Number of Stocks: 26
+[11/28/2021 18:04:21.362 train.py: 98] Step: 109	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:21.362 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:04:21.363 train.py:114] Hold
+[11/28/2021 18:04:23.577 train.py:134] Episode: 2	Loss: 1714428.12	Action: Hold	Reward: 2267.93	Balance: 3406.84	Number of Stocks: 25
+[11/28/2021 18:04:23.614 train.py: 98] Step: 110	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:23.614 train.py:114] Buy: $1943.89
+[11/28/2021 18:04:25.718 train.py:134] Episode: 2	Loss: 6083246.00	Action: Buy	Reward: 4272.02	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:25.750 train.py: 98] Step: 111	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:25.751 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:27.787 train.py:134] Episode: 2	Loss: 2950494976.00	Action: Buy	Reward: -94082.28	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:27.805 train.py: 98] Step: 112	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:27.805 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:29.865 train.py:134] Episode: 2	Loss: 12323779584.00	Action: Buy	Reward: -192279.28	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:29.896 train.py: 98] Step: 113	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:29.896 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:32.041 train.py:134] Episode: 2	Loss: 28117344256.00	Action: Buy	Reward: -290434.15	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:32.074 train.py: 98] Step: 114	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:32.074 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:34.131 train.py:134] Episode: 2	Loss: 50305470464.00	Action: Buy	Reward: -388479.57	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:34.162 train.py: 98] Step: 115	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:34.162 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:36.179 train.py:134] Episode: 2	Loss: 78775844864.00	Action: Buy	Reward: -486135.25	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:36.210 train.py: 98] Step: 116	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:36.210 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:38.231 train.py:134] Episode: 2	Loss: 113578680320.00	Action: Buy	Reward: -583725.93	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:38.254 train.py: 98] Step: 117	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:38.254 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:40.359 train.py:134] Episode: 2	Loss: 154690764800.00	Action: Buy	Reward: -681228.47	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:40.392 train.py: 98] Step: 118	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:40.392 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:42.528 train.py:134] Episode: 2	Loss: 202144202752.00	Action: Buy	Reward: -778737.77	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:42.561 train.py: 98] Step: 119	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:42.561 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:44.577 train.py:134] Episode: 2	Loss: 256128204800.00	Action: Buy	Reward: -876575.45	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:44.612 train.py: 98] Step: 120	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:44.612 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:46.718 train.py:134] Episode: 2	Loss: 316332408832.00	Action: Buy	Reward: -974164.83	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:46.753 train.py: 98] Step: 121	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:46.753 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:48.781 train.py:134] Episode: 2	Loss: 382928683008.00	Action: Buy	Reward: -1071814.27	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:48.823 train.py: 98] Step: 122	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:48.823 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:50.853 train.py:134] Episode: 2	Loss: 455805992960.00	Action: Buy	Reward: -1169366.47	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:50.884 train.py: 98] Step: 123	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:50.884 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:52.944 train.py:134] Episode: 2	Loss: 535043768320.00	Action: Buy	Reward: -1266937.65	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:52.981 train.py: 98] Step: 124	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:52.981 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:55.100 train.py:134] Episode: 2	Loss: 620318556160.00	Action: Buy	Reward: -1364168.49	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:55.131 train.py: 98] Step: 125	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:55.131 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:57.149 train.py:134] Episode: 2	Loss: 711863173120.00	Action: Buy	Reward: -1461365.52	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:57.181 train.py: 98] Step: 126	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:57.181 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:04:59.192 train.py:134] Episode: 2	Loss: 809413443584.00	Action: Buy	Reward: -1558281.24	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:04:59.225 train.py: 98] Step: 127	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:04:59.225 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:01.252 train.py:134] Episode: 2	Loss: 913449156608.00	Action: Buy	Reward: -1655399.50	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:01.284 train.py: 98] Step: 128	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:01.284 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:03.395 train.py:134] Episode: 2	Loss: 1024196411392.00	Action: Buy	Reward: -1752880.20	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:03.430 train.py: 98] Step: 129	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:03.430 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:05.460 train.py:134] Episode: 2	Loss: 1140986085376.00	Action: Buy	Reward: -1850123.78	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:05.492 train.py: 98] Step: 130	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:05.493 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:07.540 train.py:134] Episode: 2	Loss: 1264354983936.00	Action: Buy	Reward: -1947579.26	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:07.578 train.py: 98] Step: 131	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:07.579 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:09.736 train.py:134] Episode: 2	Loss: 1393953210368.00	Action: Buy	Reward: -2044959.60	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:09.768 train.py: 98] Step: 132	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:09.768 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:12.085 train.py:134] Episode: 2	Loss: 1529519669248.00	Action: Buy	Reward: -2142092.16	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:12.117 train.py: 98] Step: 133	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:12.117 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:14.172 train.py:134] Episode: 2	Loss: 1671523991552.00	Action: Buy	Reward: -2239324.04	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:14.206 train.py: 98] Step: 134	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:14.206 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:16.246 train.py:134] Episode: 2	Loss: 1819495759872.00	Action: Buy	Reward: -2336340.38	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:16.277 train.py: 98] Step: 135	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:16.277 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:18.319 train.py:134] Episode: 2	Loss: 1974730883072.00	Action: Buy	Reward: -2433966.42	Balance: 1462.95	Number of Stocks: 26
+[11/28/2021 18:05:18.336 train.py: 98] Step: 136	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:18.336 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:05:18.336 train.py:114] Hold
+[11/28/2021 18:05:20.810 train.py:134] Episode: 2	Loss: 3058500.75	Action: Hold	Reward: 3029.16	Balance: 3441.17	Number of Stocks: 25
+[11/28/2021 18:05:20.848 train.py: 98] Step: 137	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:20.848 train.py:114] Buy: $1973.63
+[11/28/2021 18:05:23.376 train.py:134] Episode: 2	Loss: 11256020.00	Action: Buy	Reward: 5811.08	Balance: 1467.54	Number of Stocks: 26
+[11/28/2021 18:05:23.421 train.py: 98] Step: 138	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:23.421 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:26.164 train.py:134] Episode: 2	Loss: 2769426176.00	Action: Buy	Reward: -91149.71	Balance: 1467.54	Number of Stocks: 26
+[11/28/2021 18:05:26.203 train.py: 98] Step: 139	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:26.203 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:28.883 train.py:134] Episode: 2	Loss: 11783847936.00	Action: Buy	Reward: -188020.02	Balance: 1467.54	Number of Stocks: 26
+[11/28/2021 18:05:28.905 train.py: 98] Step: 140	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:28.905 train.py: 99] 		'Hold' is an exploration.
+[11/28/2021 18:05:28.905 train.py:114] Hold
+[11/28/2021 18:05:31.744 train.py:134] Episode: 2	Loss: 3562206.00	Action: Hold	Reward: 3269.09	Balance: 3455.52	Number of Stocks: 25
+[11/28/2021 18:05:31.792 train.py: 98] Step: 141	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:31.793 train.py:114] Buy: $1978.34
+[11/28/2021 18:05:34.359 train.py:134] Episode: 2	Loss: 12743404.00	Action: Buy	Reward: 6183.11	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:34.403 train.py: 98] Step: 142	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:34.403 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:37.016 train.py:134] Episode: 2	Loss: 2753555712.00	Action: Buy	Reward: -90888.16	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:37.044 train.py: 98] Step: 143	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:37.044 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:39.833 train.py:134] Episode: 2	Loss: 11805463552.00	Action: Buy	Reward: -188192.39	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:39.878 train.py: 98] Step: 144	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:39.879 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:42.483 train.py:134] Episode: 2	Loss: 27168858112.00	Action: Buy	Reward: -285493.50	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:42.521 train.py: 98] Step: 145	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:42.521 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:44.835 train.py:134] Episode: 2	Loss: 49105694720.00	Action: Buy	Reward: -383819.01	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:44.853 train.py: 98] Step: 146	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:44.853 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:47.190 train.py:134] Episode: 2	Loss: 77533937664.00	Action: Buy	Reward: -482288.04	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:47.238 train.py: 98] Step: 147	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:47.238 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:49.949 train.py:134] Episode: 2	Loss: 112286990336.00	Action: Buy	Reward: -580397.23	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:49.987 train.py: 98] Step: 148	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:49.988 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:52.380 train.py:134] Episode: 2	Loss: 153677955072.00	Action: Buy	Reward: -678994.70	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:52.414 train.py: 98] Step: 149	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:52.415 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:55.192 train.py:134] Episode: 2	Loss: 201549479936.00	Action: Buy	Reward: -777591.39	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:55.303 train.py: 98] Step: 150	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:55.303 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:57.708 train.py:134] Episode: 2	Loss: 256063963136.00	Action: Buy	Reward: -876465.50	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:05:57.740 train.py: 98] Step: 151	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:05:57.740 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:05:59.991 train.py:134] Episode: 2	Loss: 316723658752.00	Action: Buy	Reward: -974767.09	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:06:00.025 train.py: 98] Step: 152	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:00.025 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:02.256 train.py:134] Episode: 2	Loss: 383726354432.00	Action: Buy	Reward: -1072930.10	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:06:02.305 train.py: 98] Step: 153	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:02.306 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:04.535 train.py:134] Episode: 2	Loss: 457217441792.00	Action: Buy	Reward: -1171175.53	Balance: 1477.18	Number of Stocks: 26
+[11/28/2021 18:06:04.552 train.py: 98] Step: 154	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:04.552 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:06:04.552 train.py:114] Sell: $1946.72 | Profit: $69.69
+[11/28/2021 18:06:06.976 train.py:134] Episode: 2	Loss: 1557417.00	Action: Sell	Reward: 2161.59	Balance: 3423.90	Number of Stocks: 25
+[11/28/2021 18:06:07.022 train.py: 98] Step: 155	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:07.023 train.py:114] Buy: $1955.18
+[11/28/2021 18:06:09.492 train.py:134] Episode: 2	Loss: 6645231.50	Action: Buy	Reward: 4464.99	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:09.525 train.py: 98] Step: 156	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:09.525 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:11.820 train.py:134] Episode: 2	Loss: 2897581824.00	Action: Buy	Reward: -93234.84	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:11.860 train.py: 98] Step: 157	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:11.860 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:13.905 train.py:134] Episode: 2	Loss: 12096880640.00	Action: Buy	Reward: -190500.99	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:13.937 train.py: 98] Step: 158	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:13.937 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:16.004 train.py:134] Episode: 2	Loss: 27554154496.00	Action: Buy	Reward: -287510.78	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:16.042 train.py: 98] Step: 159	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:16.042 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:18.559 train.py:134] Episode: 2	Loss: 49252651008.00	Action: Buy	Reward: -384392.91	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:18.594 train.py: 98] Step: 160	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:18.594 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:21.194 train.py:134] Episode: 2	Loss: 77159686144.00	Action: Buy	Reward: -481122.68	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:21.237 train.py: 98] Step: 161	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:21.237 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:23.861 train.py:134] Episode: 2	Loss: 111344254976.00	Action: Buy	Reward: -577955.66	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:23.903 train.py: 98] Step: 162	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:23.903 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:26.575 train.py:134] Episode: 2	Loss: 151668604928.00	Action: Buy	Reward: -674541.13	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:26.621 train.py: 98] Step: 163	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:26.621 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:29.549 train.py:134] Episode: 2	Loss: 198184026112.00	Action: Buy	Reward: -771072.00	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:29.599 train.py: 98] Step: 164	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:29.599 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:32.799 train.py:134] Episode: 2	Loss: 250910097408.00	Action: Buy	Reward: -867600.27	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:32.854 train.py: 98] Step: 165	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:32.854 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:36.594 train.py:134] Episode: 2	Loss: 309904506880.00	Action: Buy	Reward: -964216.42	Balance: 1468.72	Number of Stocks: 26
+[11/28/2021 18:06:36.624 train.py: 98] Step: 166	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:36.624 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:06:36.624 train.py:114] Sell: $2003.37 | Profit: $125.33
+[11/28/2021 18:06:41.533 train.py:134] Episode: 2	Loss: 4518107.50	Action: Sell	Reward: 3681.67	Balance: 3472.09	Number of Stocks: 25
+[11/28/2021 18:06:41.586 train.py: 98] Step: 167	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:41.586 train.py:114] Buy: $2002.28
+[11/28/2021 18:06:44.679 train.py:134] Episode: 2	Loss: 17331448.00	Action: Buy	Reward: 7210.76	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:06:44.718 train.py: 98] Step: 168	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:44.719 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:47.202 train.py:134] Episode: 2	Loss: 2658214912.00	Action: Buy	Reward: -89300.82	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:06:47.277 train.py: 98] Step: 169	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:47.278 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:50.160 train.py:134] Episode: 2	Loss: 11518644224.00	Action: Buy	Reward: -185892.22	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:06:50.197 train.py: 98] Step: 170	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:50.197 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:52.881 train.py:134] Episode: 2	Loss: 26549770240.00	Action: Buy	Reward: -282222.06	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:06:52.922 train.py: 98] Step: 171	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:52.922 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:55.634 train.py:134] Episode: 2	Loss: 47807688704.00	Action: Buy	Reward: -378712.32	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:06:55.669 train.py: 98] Step: 172	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:55.669 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:57.791 train.py:134] Episode: 2	Loss: 75380449280.00	Action: Buy	Reward: -475543.18	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:06:57.822 train.py: 98] Step: 173	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:57.822 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:06:59.873 train.py:134] Episode: 2	Loss: 109132111872.00	Action: Buy	Reward: -572185.54	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:06:59.906 train.py: 98] Step: 174	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:06:59.906 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:02.187 train.py:134] Episode: 2	Loss: 149089861632.00	Action: Buy	Reward: -668782.14	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:07:02.221 train.py: 98] Step: 175	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:02.221 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:04.750 train.py:134] Episode: 2	Loss: 195426254848.00	Action: Buy	Reward: -765688.40	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:07:04.788 train.py: 98] Step: 176	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:04.788 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:07.134 train.py:134] Episode: 2	Loss: 248044306432.00	Action: Buy	Reward: -862631.32	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:07:07.174 train.py: 98] Step: 177	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:07.174 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:09.381 train.py:134] Episode: 2	Loss: 306680659968.00	Action: Buy	Reward: -959188.14	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:07:09.428 train.py: 98] Step: 178	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:09.428 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:11.879 train.py:134] Episode: 2	Loss: 371485081600.00	Action: Buy	Reward: -1055677.62	Balance: 1469.81	Number of Stocks: 26
+[11/28/2021 18:07:11.898 train.py: 98] Step: 179	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:11.898 train.py: 99] 		'Sell' is an exploration.
+[11/28/2021 18:07:11.898 train.py:114] Sell: $2011.36 | Profit: $134.19
+[11/28/2021 18:07:14.199 train.py:134] Episode: 2	Loss: 5068204.50	Action: Sell	Reward: 3899.36	Balance: 3481.17	Number of Stocks: 25
+[11/28/2021 18:07:14.244 train.py: 98] Step: 180	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:14.244 train.py:114] Buy: $2010.40
+[11/28/2021 18:07:16.560 train.py:134] Episode: 2	Loss: 19458978.00	Action: Buy	Reward: 7640.53	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:16.597 train.py: 98] Step: 181	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:16.597 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:19.095 train.py:134] Episode: 2	Loss: 2642547968.00	Action: Buy	Reward: -89037.27	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:19.136 train.py: 98] Step: 182	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:19.136 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:22.160 train.py:134] Episode: 2	Loss: 11533815808.00	Action: Buy	Reward: -186014.59	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:22.228 train.py: 98] Step: 183	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:22.228 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:25.045 train.py:134] Episode: 2	Loss: 26618693632.00	Action: Buy	Reward: -282588.13	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:25.089 train.py: 98] Step: 184	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:25.089 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:27.710 train.py:134] Episode: 2	Loss: 48133783552.00	Action: Buy	Reward: -380001.73	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:27.755 train.py: 98] Step: 185	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:27.755 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:30.600 train.py:134] Episode: 2	Loss: 75835695104.00	Action: Buy	Reward: -476976.97	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:30.636 train.py: 98] Step: 186	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:30.636 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:33.503 train.py:134] Episode: 2	Loss: 109857308672.00	Action: Buy	Reward: -574083.50	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:33.537 train.py: 98] Step: 187	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:33.537 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:36.268 train.py:134] Episode: 2	Loss: 150229499904.00	Action: Buy	Reward: -671333.30	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:36.315 train.py: 98] Step: 188	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:36.316 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:39.209 train.py:134] Episode: 2	Loss: 197254971392.00	Action: Buy	Reward: -769262.48	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:39.251 train.py: 98] Step: 189	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:39.251 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:42.068 train.py:134] Episode: 2	Loss: 250673676288.00	Action: Buy	Reward: -867191.40	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:42.115 train.py: 98] Step: 190	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:42.115 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:45.121 train.py:134] Episode: 2	Loss: 310122348544.00	Action: Buy	Reward: -964555.34	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:45.168 train.py: 98] Step: 191	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:45.168 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:47.898 train.py:134] Episode: 2	Loss: 375947558912.00	Action: Buy	Reward: -1061999.36	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:47.948 train.py: 98] Step: 192	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:47.948 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:50.417 train.py:134] Episode: 2	Loss: 448700481536.00	Action: Buy	Reward: -1160216.10	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:50.452 train.py: 98] Step: 193	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:50.452 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:52.878 train.py:134] Episode: 2	Loss: 527147696128.00	Action: Buy	Reward: -1257554.30	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:52.923 train.py: 98] Step: 194	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:52.923 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:56.042 train.py:134] Episode: 2	Loss: 612867047424.00	Action: Buy	Reward: -1355950.18	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:56.082 train.py: 98] Step: 195	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:56.082 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:07:58.849 train.py:134] Episode: 2	Loss: 705597603840.00	Action: Buy	Reward: -1454920.14	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:07:58.893 train.py: 98] Step: 196	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:07:58.893 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:01.606 train.py:134] Episode: 2	Loss: 805703843840.00	Action: Buy	Reward: -1554706.24	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:01.647 train.py: 98] Step: 197	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:01.647 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:04.514 train.py:134] Episode: 2	Loss: 912363421696.00	Action: Buy	Reward: -1654415.38	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:04.565 train.py: 98] Step: 198	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:04.565 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:06.804 train.py:134] Episode: 2	Loss: 1026113470464.00	Action: Buy	Reward: -1754519.98	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:06.845 train.py: 98] Step: 199	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:06.845 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:08.979 train.py:134] Episode: 2	Loss: 1146535542784.00	Action: Buy	Reward: -1854617.56	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:08.979 train.py: 88] 
+-------------------Period: 200/251-------------------
+[11/28/2021 18:08:09.011 train.py: 98] Step: 200	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:09.011 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:11.089 train.py:134] Episode: 2	Loss: 1272824201216.00	Action: Buy	Reward: -1954091.14	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:11.127 train.py: 98] Step: 201	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:11.128 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:13.306 train.py:134] Episode: 2	Loss: 1405095378944.00	Action: Buy	Reward: -2053116.22	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:13.339 train.py: 98] Step: 202	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:13.339 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:15.459 train.py:134] Episode: 2	Loss: 1542514016256.00	Action: Buy	Reward: -2151172.28	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:15.509 train.py: 98] Step: 203	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:15.509 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:18.064 train.py:134] Episode: 2	Loss: 1686895198208.00	Action: Buy	Reward: -2249596.76	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:18.103 train.py: 98] Step: 204	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:18.103 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:20.900 train.py:134] Episode: 2	Loss: 1836769607680.00	Action: Buy	Reward: -2347404.78	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:20.936 train.py: 98] Step: 205	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:20.936 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:24.263 train.py:134] Episode: 2	Loss: 1992438579200.00	Action: Buy	Reward: -2444855.04	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:24.313 train.py: 98] Step: 206	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:24.313 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:26.784 train.py:134] Episode: 2	Loss: 2154568744960.00	Action: Buy	Reward: -2542382.00	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:26.819 train.py: 98] Step: 207	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:26.820 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:28.905 train.py:134] Episode: 2	Loss: 2321968005120.00	Action: Buy	Reward: -2639300.04	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:28.938 train.py: 98] Step: 208	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:28.938 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:31.987 train.py:134] Episode: 2	Loss: 2495760039936.00	Action: Buy	Reward: -2736289.57	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:32.045 train.py: 98] Step: 209	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:32.045 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:35.528 train.py:134] Episode: 2	Loss: 2675217006592.00	Action: Buy	Reward: -2832958.01	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:35.567 train.py: 98] Step: 210	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:35.567 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:38.156 train.py:134] Episode: 2	Loss: 2859715526656.00	Action: Buy	Reward: -2929018.05	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:38.204 train.py: 98] Step: 211	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:38.205 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:40.729 train.py:134] Episode: 2	Loss: 3050378887168.00	Action: Buy	Reward: -3025084.33	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:40.774 train.py: 98] Step: 212	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:40.774 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:44.489 train.py:134] Episode: 2	Loss: 3247502524416.00	Action: Buy	Reward: -3121299.07	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:44.542 train.py: 98] Step: 213	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:44.543 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:47.489 train.py:134] Episode: 2	Loss: 3450158972928.00	Action: Buy	Reward: -3217215.59	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:47.534 train.py: 98] Step: 214	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:47.534 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:49.932 train.py:134] Episode: 2	Loss: 3658509713408.00	Action: Buy	Reward: -3312933.47	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:49.965 train.py: 98] Step: 215	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:49.965 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:52.435 train.py:134] Episode: 2	Loss: 3872926203904.00	Action: Buy	Reward: -3408632.89	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:52.479 train.py: 98] Step: 216	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:52.479 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:55.020 train.py:134] Episode: 2	Loss: 4093063200768.00	Action: Buy	Reward: -3504167.47	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:55.060 train.py: 98] Step: 217	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:55.060 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:08:57.541 train.py:134] Episode: 2	Loss: 4319196741632.00	Action: Buy	Reward: -3599665.13	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:08:57.580 train.py: 98] Step: 218	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:08:57.580 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:00.156 train.py:134] Episode: 2	Loss: 4551500890112.00	Action: Buy	Reward: -3695199.97	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:00.209 train.py: 98] Step: 219	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:00.209 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:02.891 train.py:134] Episode: 2	Loss: 4789819146240.00	Action: Buy	Reward: -3790706.73	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:02.933 train.py: 98] Step: 220	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:02.934 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:05.375 train.py:134] Episode: 2	Loss: 5034185588736.00	Action: Buy	Reward: -3886200.75	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:05.421 train.py: 98] Step: 221	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:05.421 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:08.077 train.py:134] Episode: 2	Loss: 5284527341568.00	Action: Buy	Reward: -3981655.77	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:08.156 train.py: 98] Step: 222	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:08.157 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:11.298 train.py:134] Episode: 2	Loss: 5540203200512.00	Action: Buy	Reward: -4076838.31	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:11.336 train.py: 98] Step: 223	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:11.336 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:13.836 train.py:134] Episode: 2	Loss: 5802142203904.00	Action: Buy	Reward: -4172100.93	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:13.872 train.py: 98] Step: 224	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:13.872 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:17.401 train.py:134] Episode: 2	Loss: 6069833170944.00	Action: Buy	Reward: -4267258.77	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:17.424 train.py: 98] Step: 225	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:17.424 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:20.083 train.py:134] Episode: 2	Loss: 6342746570752.00	Action: Buy	Reward: -4362137.11	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:20.136 train.py: 98] Step: 226	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:20.137 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:22.851 train.py:134] Episode: 2	Loss: 6621206413312.00	Action: Buy	Reward: -4456861.79	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:22.894 train.py: 98] Step: 227	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:22.894 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:26.375 train.py:134] Episode: 2	Loss: 6905835028480.00	Action: Buy	Reward: -4551648.35	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:26.432 train.py: 98] Step: 228	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:26.433 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:28.909 train.py:134] Episode: 2	Loss: 7195984920576.00	Action: Buy	Reward: -4646284.10	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:28.942 train.py: 98] Step: 229	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:28.942 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:31.295 train.py:134] Episode: 2	Loss: 7492540563456.00	Action: Buy	Reward: -4741056.88	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:31.330 train.py: 98] Step: 230	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:31.330 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:33.750 train.py:134] Episode: 2	Loss: 7796267417600.00	Action: Buy	Reward: -4836196.78	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:33.785 train.py: 98] Step: 231	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:33.785 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:37.263 train.py:134] Episode: 2	Loss: 8104907374592.00	Action: Buy	Reward: -4930995.82	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:37.304 train.py: 98] Step: 232	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:37.304 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:39.859 train.py:134] Episode: 2	Loss: 8418859941888.00	Action: Buy	Reward: -5025592.58	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:39.896 train.py: 98] Step: 233	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:39.896 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:43.497 train.py:134] Episode: 2	Loss: 8738993340416.00	Action: Buy	Reward: -5120252.00	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:43.564 train.py: 98] Step: 234	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:43.565 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:47.126 train.py:134] Episode: 2	Loss: 9064789573632.00	Action: Buy	Reward: -5214821.72	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:47.200 train.py: 98] Step: 235	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:47.200 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:50.439 train.py:134] Episode: 2	Loss: 9397931606016.00	Action: Buy	Reward: -5309783.00	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:50.472 train.py: 98] Step: 236	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:50.473 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:53.320 train.py:134] Episode: 2	Loss: 9737132310528.00	Action: Buy	Reward: -5404757.01	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:53.370 train.py: 98] Step: 237	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:53.370 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:56.457 train.py:134] Episode: 2	Loss: 10085559435264.00	Action: Buy	Reward: -5500606.71	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:56.502 train.py: 98] Step: 238	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:56.503 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:09:59.711 train.py:134] Episode: 2	Loss: 10439216857088.00	Action: Buy	Reward: -5596217.47	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:09:59.777 train.py: 98] Step: 239	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:09:59.777 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:02.593 train.py:134] Episode: 2	Loss: 10802226528256.00	Action: Buy	Reward: -5692686.23	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:02.633 train.py: 98] Step: 240	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:02.633 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:05.466 train.py:134] Episode: 2	Loss: 11172712546304.00	Action: Buy	Reward: -5789485.19	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:05.500 train.py: 98] Step: 241	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:05.500 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:07.912 train.py:134] Episode: 2	Loss: 11551170887680.00	Action: Buy	Reward: -5886723.29	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:07.955 train.py: 98] Step: 242	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:07.955 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:10.371 train.py:134] Episode: 2	Loss: 11931767275520.00	Action: Buy	Reward: -5982917.49	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:10.413 train.py: 98] Step: 243	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:10.413 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:13.079 train.py:134] Episode: 2	Loss: 12313440550912.00	Action: Buy	Reward: -6077854.85	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:13.126 train.py: 98] Step: 244	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:13.127 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:15.959 train.py:134] Episode: 2	Loss: 12700114485248.00	Action: Buy	Reward: -6172547.29	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:16.017 train.py: 98] Step: 245	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:16.017 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:18.591 train.py:134] Episode: 2	Loss: 13091907567616.00	Action: Buy	Reward: -6267034.59	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:18.632 train.py: 98] Step: 246	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:18.633 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:21.415 train.py:134] Episode: 2	Loss: 13489253908480.00	Action: Buy	Reward: -6361427.51	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:21.456 train.py: 98] Step: 247	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:21.456 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:24.051 train.py:134] Episode: 2	Loss: 13892571889664.00	Action: Buy	Reward: -6455827.98	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:24.092 train.py: 98] Step: 248	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:24.093 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:26.379 train.py:134] Episode: 2	Loss: 14301049913344.00	Action: Buy	Reward: -6550049.30	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:26.413 train.py: 98] Step: 249	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:26.413 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:28.945 train.py:134] Episode: 2	Loss: 14715237433344.00	Action: Buy	Reward: -6644223.81	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:28.994 train.py: 98] Step: 250	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:28.994 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:31.681 train.py:134] Episode: 2	Loss: 15136531152896.00	Action: Buy	Reward: -6738664.05	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:31.718 train.py: 98] Step: 251	Hold signal: 0.0 	Buy signal: 1.0 	Sell signal: 0.0
+[11/28/2021 18:10:31.718 train.py: 51] Trying to buy when inventory is less than stock price. Hence giving a negative reward
+[11/28/2021 18:10:34.229 train.py:134] Episode: 2	Loss: 15566316240896.00	Action: Buy	Reward: -6833661.99	Balance: 1470.77	Number of Stocks: 26
+[11/28/2021 18:10:34.230 utils.py: 86] --------------------------------
+[11/28/2021 18:10:34.230 utils.py: 87] Portfolio Value:        $55002.17
+[11/28/2021 18:10:34.230 utils.py: 88] Portfolio Balance:      $1470.77
+[11/28/2021 18:10:34.230 utils.py: 89] Portfolio Stocks Number: 26
+[11/28/2021 18:10:34.230 utils.py: 90] Total Return:           $5002.17
+[11/28/2021 18:10:34.230 utils.py: 91] Mean/Daily Return Rate:  -0.000%
+[11/28/2021 18:10:34.231 utils.py: 92] Sharpe Ratio adjusted with Treasury bond daily return: -0.294
+[11/28/2021 18:10:34.231 utils.py: 93] Maximum Drawdown:        -7.197%
+[11/28/2021 18:10:34.231 utils.py: 94] --------------------------------
+[11/28/2021 18:10:34.257 train.py:144] model saved
+[11/28/2021 18:10:34.257 train.py:146] total training time: 18.93 min

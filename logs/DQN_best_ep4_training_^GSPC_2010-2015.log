@@ -1,0 +1,856 @@
+[11/30/2021 22:21:46.887 train_best_ep4.py: 70] Trading Object:           ^GSPC_2010-2015
+[11/30/2021 22:21:46.887 train_best_ep4.py: 71] Trading Period:           1509 days
+[11/30/2021 22:21:46.887 train_best_ep4.py: 72] Window Size:              5 days
+[11/30/2021 22:21:46.887 train_best_ep4.py: 73] Training Episode:         4
+[11/30/2021 22:21:46.887 train_best_ep4.py: 74] Model Name:               DQN_best_ep4
+[11/30/2021 22:21:46.887 train_best_ep4.py: 75] Initial Portfolio Value: $50,000
+[11/30/2021 22:21:46.887 train_best_ep4.py: 79] 
+Episode: 1/4
+[11/30/2021 22:21:46.948 train_best_ep4.py:100] Step: 1	Hold signal: 0.2531 	Buy signal: 0.1811 	Sell signal: 0.5658
+[11/30/2021 22:21:46.966 train_best_ep4.py:100] Step: 2	Hold signal: 0.2486 	Buy signal: 0.1814 	Sell signal: 0.57
+[11/30/2021 22:21:46.967 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:46.985 train_best_ep4.py:100] Step: 3	Hold signal: 0.2515 	Buy signal: 0.1785 	Sell signal: 0.57
+[11/30/2021 22:21:46.985 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:46.985 train_best_ep4.py:116] Buy: $1141.69
+[11/30/2021 22:21:47.004 train_best_ep4.py:100] Step: 4	Hold signal: 0.251 	Buy signal: 0.1786 	Sell signal: 0.5704
+[11/30/2021 22:21:47.005 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.022 train_best_ep4.py:100] Step: 5	Hold signal: 0.2429 	Buy signal: 0.295 	Sell signal: 0.4621
+[11/30/2021 22:21:47.022 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.040 train_best_ep4.py:100] Step: 6	Hold signal: 0.2499 	Buy signal: 0.2889 	Sell signal: 0.4611
+[11/30/2021 22:21:47.040 train_best_ep4.py:116] Sell: $1136.22 | Profit: $-5.47
+[11/30/2021 22:21:47.058 train_best_ep4.py:100] Step: 7	Hold signal: 0.2478 	Buy signal: 0.2916 	Sell signal: 0.4605
+[11/30/2021 22:21:47.058 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.074 train_best_ep4.py:100] Step: 8	Hold signal: 0.249 	Buy signal: 0.1801 	Sell signal: 0.5709
+[11/30/2021 22:21:47.075 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.092 train_best_ep4.py:100] Step: 9	Hold signal: 0.246 	Buy signal: 0.1772 	Sell signal: 0.5768
+[11/30/2021 22:21:47.092 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.092 train_best_ep4.py:116] Buy: $1136.03
+[11/30/2021 22:21:47.110 train_best_ep4.py:100] Step: 10	Hold signal: 0.2602 	Buy signal: 0.1788 	Sell signal: 0.561
+[11/30/2021 22:21:47.110 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.127 train_best_ep4.py:100] Step: 11	Hold signal: 0.2307 	Buy signal: 0.2964 	Sell signal: 0.4729
+[11/30/2021 22:21:47.127 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.127 train_best_ep4.py:116] Buy: $1138.04
+[11/30/2021 22:21:47.145 train_best_ep4.py:100] Step: 12	Hold signal: 0.2454 	Buy signal: 0.3002 	Sell signal: 0.4544
+[11/30/2021 22:21:47.145 train_best_ep4.py:116] Sell: $1116.48 | Profit: $-19.55
+[11/30/2021 22:21:47.163 train_best_ep4.py:100] Step: 13	Hold signal: 0.2449 	Buy signal: 0.3017 	Sell signal: 0.4534
+[11/30/2021 22:21:47.163 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.164 train_best_ep4.py:116] Buy: $1091.76
+[11/30/2021 22:21:47.185 train_best_ep4.py:100] Step: 14	Hold signal: 0.2325 	Buy signal: 0.3124 	Sell signal: 0.455
+[11/30/2021 22:21:47.186 train_best_ep4.py:116] Sell: $1096.78 | Profit: $-41.26
+[11/30/2021 22:21:47.202 train_best_ep4.py:100] Step: 15	Hold signal: 0.2333 	Buy signal: 0.3113 	Sell signal: 0.4554
+[11/30/2021 22:21:47.202 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.203 train_best_ep4.py:116] Buy: $1092.17
+[11/30/2021 22:21:47.219 train_best_ep4.py:100] Step: 16	Hold signal: 0.2456 	Buy signal: 0.3209 	Sell signal: 0.4335
+[11/30/2021 22:21:47.219 train_best_ep4.py:116] Sell: $1097.50 | Profit: $5.74
+[11/30/2021 22:21:47.237 train_best_ep4.py:100] Step: 17	Hold signal: 0.238 	Buy signal: 0.3053 	Sell signal: 0.4567
+[11/30/2021 22:21:47.237 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.254 train_best_ep4.py:100] Step: 18	Hold signal: 0.2404 	Buy signal: 0.3112 	Sell signal: 0.4484
+[11/30/2021 22:21:47.254 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.273 train_best_ep4.py:100] Step: 19	Hold signal: 0.2463 	Buy signal: 0.3014 	Sell signal: 0.4522
+[11/30/2021 22:21:47.273 train_best_ep4.py:116] Sell: $1089.19 | Profit: $-2.98
+[11/30/2021 22:21:47.292 train_best_ep4.py:100] Step: 20	Hold signal: 0.2252 	Buy signal: 0.3113 	Sell signal: 0.4636
+[11/30/2021 22:21:47.292 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.292 train_best_ep4.py:116] Buy: $1103.32
+[11/30/2021 22:21:47.309 train_best_ep4.py:100] Step: 21	Hold signal: 0.2452 	Buy signal: 0.1815 	Sell signal: 0.5733
+[11/30/2021 22:21:47.309 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.326 train_best_ep4.py:100] Step: 22	Hold signal: 0.2536 	Buy signal: 0.3063 	Sell signal: 0.4401
+[11/30/2021 22:21:47.326 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.326 train_best_ep4.py:116] Buy: $1063.11
+[11/30/2021 22:21:47.349 train_best_ep4.py:100] Step: 23	Hold signal: 0.2382 	Buy signal: 0.2968 	Sell signal: 0.465
+[11/30/2021 22:21:47.349 train_best_ep4.py:116] Sell: $1066.19 | Profit: $-37.13
+[11/30/2021 22:21:47.365 train_best_ep4.py:100] Step: 24	Hold signal: 0.2271 	Buy signal: 0.3016 	Sell signal: 0.4713
+[11/30/2021 22:21:47.365 train_best_ep4.py:116] Sell: $1056.74 | Profit: $-6.37
+[11/30/2021 22:21:47.383 train_best_ep4.py:100] Step: 25	Hold signal: 0.2504 	Buy signal: 0.3114 	Sell signal: 0.4382
+[11/30/2021 22:21:47.383 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.383 train_best_ep4.py:116] Buy: $1070.52
+[11/30/2021 22:21:47.399 train_best_ep4.py:100] Step: 26	Hold signal: 0.2518 	Buy signal: 0.1862 	Sell signal: 0.562
+[11/30/2021 22:21:47.399 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.399 train_best_ep4.py:116] Buy: $1068.13
+[11/30/2021 22:21:47.416 train_best_ep4.py:100] Step: 27	Hold signal: 0.2402 	Buy signal: 0.3119 	Sell signal: 0.4478
+[11/30/2021 22:21:47.416 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:47.433 train_best_ep4.py:100] Step: 28	Hold signal: 0.2444 	Buy signal: 0.2989 	Sell signal: 0.4568
+[11/30/2021 22:21:47.433 train_best_ep4.py:116] Sell: $1075.51 | Profit: $4.99
+[11/30/2021 22:21:47.450 train_best_ep4.py:100] Step: 29	Hold signal: 0.2417 	Buy signal: 0.3076 	Sell signal: 0.4507
+[11/30/2021 22:21:47.450 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:47.450 train_best_ep4.py:116] Buy: $1094.87
+[11/30/2021 22:21:47.467 train_best_ep4.py:100] Step: 30	Hold signal: 0.2428 	Buy signal: 0.2967 	Sell signal: 0.4605
+[11/30/2021 22:21:47.467 train_best_ep4.py:116] Sell: $1099.51 | Profit: $31.38
+[11/30/2021 22:21:47.484 train_best_ep4.py:100] Step: 31	Hold signal: 0.2377 	Buy signal: 0.3087 	Sell signal: 0.4536
+[11/30/2021 22:21:47.484 train_best_ep4.py:116] Sell: $1106.75 | Profit: $11.88
+[11/30/2021 22:21:50.024 train_best_ep4.py:136] Episode: 1	Loss: 0.13	Action: Sell	Reward: -46.89	Balance: 49941.23	Number of Stocks: 0
+[11/30/2021 22:21:50.044 train_best_ep4.py:100] Step: 32	Hold signal: 0.7473 	Buy signal: 0.2457 	Sell signal: 0.006975
+[11/30/2021 22:21:50.044 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:21:52.286 train_best_ep4.py:136] Episode: 1	Loss: 35.84	Action: Sell	Reward: -62.48	Balance: 49941.23	Number of Stocks: 0
+[11/30/2021 22:21:52.304 train_best_ep4.py:100] Step: 33	Hold signal: 0.9142 	Buy signal: 0.08497 	Sell signal: 0.0008646
+[11/30/2021 22:21:52.304 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:21:54.652 train_best_ep4.py:136] Episode: 1	Loss: 34.99	Action: Sell	Reward: -62.48	Balance: 49941.23	Number of Stocks: 0
+[11/30/2021 22:21:54.672 train_best_ep4.py:100] Step: 34	Hold signal: 0.8261 	Buy signal: 0.1733 	Sell signal: 0.0006268
+[11/30/2021 22:21:54.672 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:21:54.672 train_best_ep4.py:116] Buy: $1094.60
+[11/30/2021 22:21:56.913 train_best_ep4.py:136] Episode: 1	Loss: 35.74	Action: Buy	Reward: -58.77	Balance: 48846.63	Number of Stocks: 1
+[11/30/2021 22:21:56.930 train_best_ep4.py:100] Step: 35	Hold signal: 0.008667 	Buy signal: 0.9912 	Sell signal: 0.0001231
+[11/30/2021 22:21:56.930 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:21:59.183 train_best_ep4.py:136] Episode: 1	Loss: 53.84	Action: Hold	Reward: -51.76	Balance: 48846.63	Number of Stocks: 1
+[11/30/2021 22:21:59.200 train_best_ep4.py:100] Step: 36	Hold signal: 0.01094 	Buy signal: 0.9889 	Sell signal: 0.0001856
+[11/30/2021 22:21:59.201 train_best_ep4.py:116] Buy: $1102.94
+[11/30/2021 22:22:01.474 train_best_ep4.py:136] Episode: 1	Loss: 66.49	Action: Buy	Reward: -50.43	Balance: 47743.69	Number of Stocks: 2
+[11/30/2021 22:22:01.493 train_best_ep4.py:100] Step: 37	Hold signal: 0.01041 	Buy signal: 0.9894 	Sell signal: 0.0001798
+[11/30/2021 22:22:01.494 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:22:04.136 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: -50.88	Balance: 47743.69	Number of Stocks: 2
+[11/30/2021 22:22:04.155 train_best_ep4.py:100] Step: 38	Hold signal: 0.009308 	Buy signal: 0.9905 	Sell signal: 0.0001474
+[11/30/2021 22:22:04.155 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:22:06.601 train_best_ep4.py:136] Episode: 1	Loss: 40.37	Action: Hold	Reward: -28.44	Balance: 47743.69	Number of Stocks: 2
+[11/30/2021 22:22:06.618 train_best_ep4.py:100] Step: 39	Hold signal: 0.01396 	Buy signal: 0.9859 	Sell signal: 0.0001886
+[11/30/2021 22:22:06.618 train_best_ep4.py:116] Buy: $1118.31
+[11/30/2021 22:22:09.081 train_best_ep4.py:136] Episode: 1	Loss: 13.85	Action: Buy	Reward: -19.69	Balance: 46625.38	Number of Stocks: 3
+[11/30/2021 22:22:09.100 train_best_ep4.py:100] Step: 40	Hold signal: 0.03658 	Buy signal: 0.9631 	Sell signal: 0.0002915
+[11/30/2021 22:22:09.101 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:22:11.729 train_best_ep4.py:136] Episode: 1	Loss: 1.01	Action: Hold	Reward: -21.72	Balance: 46625.38	Number of Stocks: 3
+[11/30/2021 22:22:11.759 train_best_ep4.py:100] Step: 41	Hold signal: 0.2973 	Buy signal: 0.7014 	Sell signal: 0.001276
+[11/30/2021 22:22:11.759 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:22:11.759 train_best_ep4.py:116] Sell: $1122.97 | Profit: $28.37
+[11/30/2021 22:22:14.815 train_best_ep4.py:136] Episode: 1	Loss: 44.00	Action: Sell	Reward: 22.66	Balance: 47748.35	Number of Stocks: 2
+[11/30/2021 22:22:14.836 train_best_ep4.py:100] Step: 42	Hold signal: 0.9368 	Buy signal: 0.06228 	Sell signal: 0.0008911
+[11/30/2021 22:22:14.836 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:22:14.836 train_best_ep4.py:116] Buy: $1138.70
+[11/30/2021 22:22:17.367 train_best_ep4.py:136] Episode: 1	Loss: 52.87	Action: Buy	Reward: 25.75	Balance: 46609.65	Number of Stocks: 3
+[11/30/2021 22:22:17.390 train_best_ep4.py:100] Step: 43	Hold signal: 0.9874 	Buy signal: 0.01219 	Sell signal: 0.0003613
+[11/30/2021 22:22:17.390 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:22:17.391 train_best_ep4.py:116] Sell: $1138.50 | Profit: $35.56
+[11/30/2021 22:22:19.836 train_best_ep4.py:136] Episode: 1	Loss: 0.06	Action: Sell	Reward: 60.71	Balance: 47748.15	Number of Stocks: 2
+[11/30/2021 22:22:19.855 train_best_ep4.py:100] Step: 44	Hold signal: 0.9785 	Buy signal: 0.0211 	Sell signal: 0.0003748
+[11/30/2021 22:22:22.363 train_best_ep4.py:136] Episode: 1	Loss: 53.84	Action: Hold	Reward: 25.50	Balance: 47748.15	Number of Stocks: 2
+[11/30/2021 22:22:22.382 train_best_ep4.py:100] Step: 45	Hold signal: 0.991 	Buy signal: 0.008877 	Sell signal: 0.0001625
+[11/30/2021 22:22:25.000 train_best_ep4.py:136] Episode: 1	Loss: 23.87	Action: Hold	Reward: 35.82	Balance: 47748.15	Number of Stocks: 2
+[11/30/2021 22:22:25.032 train_best_ep4.py:100] Step: 46	Hold signal: 0.9926 	Buy signal: 0.007297 	Sell signal: 0.0001214
+[11/30/2021 22:22:25.032 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:22:25.032 train_best_ep4.py:116] Sell: $1150.24 | Profit: $31.93
+[11/30/2021 22:22:27.830 train_best_ep4.py:136] Episode: 1	Loss: 13.35	Action: Sell	Reward: 80.56	Balance: 48898.39	Number of Stocks: 1
+[11/30/2021 22:22:27.862 train_best_ep4.py:100] Step: 47	Hold signal: 0.9967 	Buy signal: 0.003264 	Sell signal: 5.612e-05
+[11/30/2021 22:22:30.656 train_best_ep4.py:136] Episode: 1	Loss: 3.73	Action: Hold	Reward: 44.75	Balance: 48898.39	Number of Stocks: 1
+[11/30/2021 22:22:30.675 train_best_ep4.py:100] Step: 48	Hold signal: 0.9949 	Buy signal: 0.00501 	Sell signal: 7.42e-05
+[11/30/2021 22:22:33.295 train_best_ep4.py:136] Episode: 1	Loss: 36.78	Action: Hold	Reward: 45.27	Balance: 48898.39	Number of Stocks: 1
+[11/30/2021 22:22:33.315 train_best_ep4.py:100] Step: 49	Hold signal: 0.9968 	Buy signal: 0.00311 	Sell signal: 4.57e-05
+[11/30/2021 22:22:35.866 train_best_ep4.py:136] Episode: 1	Loss: 45.27	Action: Hold	Reward: 54.22	Balance: 48898.39	Number of Stocks: 1
+[11/30/2021 22:22:35.886 train_best_ep4.py:100] Step: 50	Hold signal: 0.9981 	Buy signal: 0.001858 	Sell signal: 2.818e-05
+[11/30/2021 22:22:35.887 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:22:35.887 train_best_ep4.py:116] Buy: $1166.21
+[11/30/2021 22:22:38.624 train_best_ep4.py:136] Episode: 1	Loss: 36.78	Action: Buy	Reward: 64.60	Balance: 47732.18	Number of Stocks: 2
+[11/30/2021 22:22:38.702 train_best_ep4.py:100] Step: 51	Hold signal: 0.9989 	Buy signal: 0.001038 	Sell signal: 1.674e-05
+[11/30/2021 22:22:41.382 train_best_ep4.py:136] Episode: 1	Loss: 35.73	Action: Hold	Reward: 60.29	Balance: 47732.18	Number of Stocks: 2
+[11/30/2021 22:22:41.399 train_best_ep4.py:100] Step: 52	Hold signal: 0.9992 	Buy signal: 0.0008056 	Sell signal: 1.485e-05
+[11/30/2021 22:22:41.399 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:22:41.399 train_best_ep4.py:116] Buy: $1159.90
+[11/30/2021 22:22:43.935 train_best_ep4.py:136] Episode: 1	Loss: 21.99	Action: Buy	Reward: 51.98	Balance: 46572.28	Number of Stocks: 3
+[11/30/2021 22:22:43.957 train_best_ep4.py:100] Step: 53	Hold signal: 0.9993 	Buy signal: 0.0006959 	Sell signal: 1.351e-05
+[11/30/2021 22:22:43.958 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:22:43.958 train_best_ep4.py:116] Sell: $1165.81 | Profit: $27.11
+[11/30/2021 22:22:46.504 train_best_ep4.py:136] Episode: 1	Loss: 24.57	Action: Sell	Reward: 96.82	Balance: 47738.09	Number of Stocks: 2
+[11/30/2021 22:22:46.524 train_best_ep4.py:100] Step: 54	Hold signal: 0.9996 	Buy signal: 0.0003808 	Sell signal: 7.264e-06
+[11/30/2021 22:22:49.493 train_best_ep4.py:136] Episode: 1	Loss: 51.00	Action: Hold	Reward: 82.88	Balance: 47738.09	Number of Stocks: 2
+[11/30/2021 22:22:49.513 train_best_ep4.py:100] Step: 55	Hold signal: 0.9996 	Buy signal: 0.0003609 	Sell signal: 6.22e-06
+[11/30/2021 22:22:52.128 train_best_ep4.py:136] Episode: 1	Loss: 66.48	Action: Hold	Reward: 69.98	Balance: 47738.09	Number of Stocks: 2
+[11/30/2021 22:22:52.145 train_best_ep4.py:100] Step: 56	Hold signal: 0.9996 	Buy signal: 0.0003798 	Sell signal: 6.81e-06
+[11/30/2021 22:22:55.072 train_best_ep4.py:136] Episode: 1	Loss: 40.37	Action: Hold	Reward: 66.00	Balance: 47738.09	Number of Stocks: 2
+[11/30/2021 22:22:55.090 train_best_ep4.py:100] Step: 57	Hold signal: 0.9996 	Buy signal: 0.0003676 	Sell signal: 7.12e-06
+[11/30/2021 22:22:57.864 train_best_ep4.py:136] Episode: 1	Loss: 55.83	Action: Hold	Reward: 67.72	Balance: 47738.09	Number of Stocks: 2
+[11/30/2021 22:22:57.888 train_best_ep4.py:100] Step: 58	Hold signal: 0.9998 	Buy signal: 0.0002231 	Sell signal: 4.04e-06
+[11/30/2021 22:22:57.888 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:22:57.888 train_best_ep4.py:116] Sell: $1173.22 | Profit: $7.01
+[11/30/2021 22:23:00.582 train_best_ep4.py:136] Episode: 1	Loss: 36.78	Action: Sell	Reward: 91.54	Balance: 48911.31	Number of Stocks: 1
+[11/30/2021 22:23:00.604 train_best_ep4.py:100] Step: 59	Hold signal: 0.9998 	Buy signal: 0.0001932 	Sell signal: 3.256e-06
+[11/30/2021 22:23:00.604 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:00.604 train_best_ep4.py:116] Buy: $1173.27
+[11/30/2021 22:23:03.302 train_best_ep4.py:136] Episode: 1	Loss: 30.87	Action: Buy	Reward: 84.58	Balance: 47738.04	Number of Stocks: 2
+[11/30/2021 22:23:03.340 train_best_ep4.py:100] Step: 60	Hold signal: 0.9997 	Buy signal: 0.0002461 	Sell signal: 5.214e-06
+[11/30/2021 22:23:06.061 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: 73.35	Balance: 47738.04	Number of Stocks: 2
+[11/30/2021 22:23:06.079 train_best_ep4.py:100] Step: 61	Hold signal: 0.9999 	Buy signal: 0.0001251 	Sell signal: 3.919e-06
+[11/30/2021 22:23:06.080 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:06.080 train_best_ep4.py:116] Buy: $1178.10
+[11/30/2021 22:23:08.736 train_best_ep4.py:136] Episode: 1	Loss: 25.61	Action: Buy	Reward: 94.24	Balance: 46559.94	Number of Stocks: 3
+[11/30/2021 22:23:08.753 train_best_ep4.py:100] Step: 62	Hold signal: 0.9999 	Buy signal: 8.149e-05 	Sell signal: 2.425e-06
+[11/30/2021 22:23:08.753 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:23:08.753 train_best_ep4.py:116] Sell: $1187.44 | Profit: $27.54
+[11/30/2021 22:23:11.269 train_best_ep4.py:136] Episode: 1	Loss: 46.74	Action: Sell	Reward: 149.80	Balance: 47747.38	Number of Stocks: 2
+[11/30/2021 22:23:11.289 train_best_ep4.py:100] Step: 63	Hold signal: 0.9999 	Buy signal: 5.366e-05 	Sell signal: 1.752e-06
+[11/30/2021 22:23:11.289 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:23:11.289 train_best_ep4.py:116] Sell: $1189.44 | Profit: $16.17
+[11/30/2021 22:23:13.968 train_best_ep4.py:136] Episode: 1	Loss: 74.52	Action: Sell	Reward: 142.43	Balance: 48936.82	Number of Stocks: 1
+[11/30/2021 22:23:13.990 train_best_ep4.py:100] Step: 64	Hold signal: 0.9999 	Buy signal: 7.417e-05 	Sell signal: 2.345e-06
+[11/30/2021 22:23:13.990 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:23:13.990 train_best_ep4.py:116] Sell: $1182.45 | Profit: $4.35
+[11/30/2021 22:23:16.600 train_best_ep4.py:136] Episode: 1	Loss: 48.03	Action: Sell	Reward: 123.62	Balance: 50119.27	Number of Stocks: 0
+[11/30/2021 22:23:16.621 train_best_ep4.py:100] Step: 65	Hold signal: 0.9999 	Buy signal: 0.0001145 	Sell signal: 4.065e-06
+[11/30/2021 22:23:16.621 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:23:19.275 train_best_ep4.py:136] Episode: 1	Loss: 23.87	Action: Sell	Reward: 115.54	Balance: 50119.27	Number of Stocks: 0
+[11/30/2021 22:23:19.294 train_best_ep4.py:100] Step: 66	Hold signal: 0.002085 	Buy signal: 0.9979 	Sell signal: 3.318e-05
+[11/30/2021 22:23:19.294 train_best_ep4.py:116] Buy: $1194.37
+[11/30/2021 22:23:21.825 train_best_ep4.py:136] Episode: 1	Loss: 35.04	Action: Buy	Reward: 119.27	Balance: 48924.90	Number of Stocks: 1
+[11/30/2021 22:23:21.846 train_best_ep4.py:100] Step: 67	Hold signal: 0.002071 	Buy signal: 0.9979 	Sell signal: 3.184e-05
+[11/30/2021 22:23:21.846 train_best_ep4.py:101] 		'Hold' is an exploration.
+[11/30/2021 22:23:24.455 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: 117.74	Balance: 48924.90	Number of Stocks: 1
+[11/30/2021 22:23:24.474 train_best_ep4.py:100] Step: 68	Hold signal: 0.9999 	Buy signal: 5.243e-05 	Sell signal: 1.893e-06
+[11/30/2021 22:23:24.474 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:24.474 train_best_ep4.py:116] Buy: $1197.30
+[11/30/2021 22:23:26.936 train_best_ep4.py:136] Episode: 1	Loss: 2.67	Action: Buy	Reward: 122.20	Balance: 47727.60	Number of Stocks: 2
+[11/30/2021 22:23:26.955 train_best_ep4.py:100] Step: 69	Hold signal: 0.9999 	Buy signal: 5.784e-05 	Sell signal: 2.315e-06
+[11/30/2021 22:23:30.351 train_best_ep4.py:136] Episode: 1	Loss: 53.84	Action: Hold	Reward: 145.35	Balance: 47727.60	Number of Stocks: 2
+[11/30/2021 22:23:30.399 train_best_ep4.py:100] Step: 70	Hold signal: 1.0 	Buy signal: 2.285e-05 	Sell signal: 1.1e-06
+[11/30/2021 22:23:33.477 train_best_ep4.py:136] Episode: 1	Loss: 29.97	Action: Hold	Reward: 147.39	Balance: 47727.60	Number of Stocks: 2
+[11/30/2021 22:23:33.497 train_best_ep4.py:100] Step: 71	Hold signal: 1.0 	Buy signal: 2.184e-05 	Sell signal: 1.084e-06
+[11/30/2021 22:23:33.498 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:33.498 train_best_ep4.py:116] Buy: $1192.13
+[11/30/2021 22:23:37.497 train_best_ep4.py:136] Episode: 1	Loss: 25.51	Action: Buy	Reward: 111.86	Balance: 46535.47	Number of Stocks: 3
+[11/30/2021 22:23:37.530 train_best_ep4.py:100] Step: 72	Hold signal: 1.0 	Buy signal: 2.037e-05 	Sell signal: 1.148e-06
+[11/30/2021 22:23:40.499 train_best_ep4.py:136] Episode: 1	Loss: 22.58	Action: Hold	Reward: 124.57	Balance: 46535.47	Number of Stocks: 3
+[11/30/2021 22:23:40.518 train_best_ep4.py:100] Step: 73	Hold signal: 1.0 	Buy signal: 1.196e-05 	Sell signal: 7.227e-07
+[11/30/2021 22:23:40.518 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:23:40.518 train_best_ep4.py:116] Sell: $1207.17 | Profit: $12.80
+[11/30/2021 22:23:43.309 train_best_ep4.py:136] Episode: 1	Loss: 66.48	Action: Sell	Reward: 169.78	Balance: 47742.64	Number of Stocks: 2
+[11/30/2021 22:23:43.332 train_best_ep4.py:100] Step: 74	Hold signal: 1.0 	Buy signal: 1.079e-05 	Sell signal: 6.199e-07
+[11/30/2021 22:23:46.261 train_best_ep4.py:136] Episode: 1	Loss: 4.60	Action: Hold	Reward: 150.97	Balance: 47742.64	Number of Stocks: 2
+[11/30/2021 22:23:46.281 train_best_ep4.py:100] Step: 75	Hold signal: 1.0 	Buy signal: 1.655e-05 	Sell signal: 8.914e-07
+[11/30/2021 22:23:46.281 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:46.281 train_best_ep4.py:116] Buy: $1208.67
+[11/30/2021 22:23:49.346 train_best_ep4.py:136] Episode: 1	Loss: 43.96	Action: Buy	Reward: 159.98	Balance: 46533.97	Number of Stocks: 3
+[11/30/2021 22:23:49.366 train_best_ep4.py:100] Step: 76	Hold signal: 1.0 	Buy signal: 1.419e-05 	Sell signal: 8.577e-07
+[11/30/2021 22:23:49.366 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:49.366 train_best_ep4.py:116] Buy: $1217.28
+[11/30/2021 22:23:52.381 train_best_ep4.py:136] Episode: 1	Loss: 84.51	Action: Buy	Reward: 185.81	Balance: 45316.69	Number of Stocks: 4
+[11/30/2021 22:23:52.401 train_best_ep4.py:100] Step: 77	Hold signal: 1.0 	Buy signal: 7.669e-06 	Sell signal: 4.836e-07
+[11/30/2021 22:23:52.401 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:52.401 train_best_ep4.py:116] Buy: $1212.05
+[11/30/2021 22:23:55.473 train_best_ep4.py:136] Episode: 1	Loss: 36.78	Action: Buy	Reward: 164.89	Balance: 44104.64	Number of Stocks: 5
+[11/30/2021 22:23:55.513 train_best_ep4.py:100] Step: 78	Hold signal: 1.0 	Buy signal: 6.902e-06 	Sell signal: 4.822e-07
+[11/30/2021 22:23:58.481 train_best_ep4.py:136] Episode: 1	Loss: 74.52	Action: Hold	Reward: 19.91	Balance: 44104.64	Number of Stocks: 5
+[11/30/2021 22:23:58.501 train_best_ep4.py:100] Step: 79	Hold signal: 1.0 	Buy signal: 5.706e-06 	Sell signal: 4.794e-07
+[11/30/2021 22:23:58.501 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:23:58.501 train_best_ep4.py:116] Buy: $1191.36
+[11/30/2021 22:24:01.213 train_best_ep4.py:136] Episode: 1	Loss: 60.72	Action: Buy	Reward: 61.44	Balance: 42913.28	Number of Stocks: 6
+[11/30/2021 22:24:01.232 train_best_ep4.py:100] Step: 80	Hold signal: 1.0 	Buy signal: 3.805e-06 	Sell signal: 2.945e-07
+[11/30/2021 22:24:01.232 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:01.232 train_best_ep4.py:116] Buy: $1206.78
+[11/30/2021 22:24:03.946 train_best_ep4.py:136] Episode: 1	Loss: 39.90	Action: Buy	Reward: 153.96	Balance: 41706.50	Number of Stocks: 7
+[11/30/2021 22:24:03.965 train_best_ep4.py:100] Step: 81	Hold signal: 1.0 	Buy signal: 3.586e-06 	Sell signal: 2.558e-07
+[11/30/2021 22:24:03.965 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:03.965 train_best_ep4.py:116] Buy: $1186.69
+[11/30/2021 22:24:06.593 train_best_ep4.py:136] Episode: 1	Loss: 41.91	Action: Buy	Reward: 13.33	Balance: 40519.81	Number of Stocks: 8
+[11/30/2021 22:24:06.613 train_best_ep4.py:100] Step: 82	Hold signal: 1.0 	Buy signal: 4.338e-06 	Sell signal: 3.71e-07
+[11/30/2021 22:24:09.448 train_best_ep4.py:136] Episode: 1	Loss: 61.43	Action: Hold	Reward: 134.88	Balance: 40519.81	Number of Stocks: 8
+[11/30/2021 22:24:09.475 train_best_ep4.py:100] Step: 83	Hold signal: 1.0 	Buy signal: 3.012e-06 	Sell signal: 2.638e-07
+[11/30/2021 22:24:09.475 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:09.475 train_best_ep4.py:116] Buy: $1173.60
+[11/30/2021 22:24:12.238 train_best_ep4.py:136] Episode: 1	Loss: 12.49	Action: Buy	Reward: -91.39	Balance: 39346.21	Number of Stocks: 9
+[11/30/2021 22:24:12.266 train_best_ep4.py:100] Step: 84	Hold signal: 1.0 	Buy signal: 2.559e-06 	Sell signal: 2.394e-07
+[11/30/2021 22:24:14.826 train_best_ep4.py:136] Episode: 1	Loss: 39.90	Action: Hold	Reward: -163.88	Balance: 39346.21	Number of Stocks: 9
+[11/30/2021 22:24:14.842 train_best_ep4.py:100] Step: 85	Hold signal: 1.0 	Buy signal: 2.054e-06 	Sell signal: 1.931e-07
+[11/30/2021 22:24:17.427 train_best_ep4.py:136] Episode: 1	Loss: 9.99	Action: Hold	Reward: -503.36	Balance: 39346.21	Number of Stocks: 9
+[11/30/2021 22:24:17.445 train_best_ep4.py:100] Step: 86	Hold signal: 1.0 	Buy signal: 2.046e-06 	Sell signal: 2.336e-07
+[11/30/2021 22:24:20.056 train_best_ep4.py:136] Episode: 1	Loss: 0.86	Action: Hold	Reward: -658.79	Balance: 39346.21	Number of Stocks: 9
+[11/30/2021 22:24:20.076 train_best_ep4.py:100] Step: 87	Hold signal: 1.0 	Buy signal: 1.604e-06 	Sell signal: 1.629e-07
+[11/30/2021 22:24:20.076 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:20.076 train_best_ep4.py:116] Buy: $1159.73
+[11/30/2021 22:24:22.642 train_best_ep4.py:136] Episode: 1	Loss: 22.25	Action: Buy	Reward: -216.22	Balance: 38186.48	Number of Stocks: 10
+[11/30/2021 22:24:22.659 train_best_ep4.py:100] Step: 88	Hold signal: 1.0 	Buy signal: 1.611e-06 	Sell signal: 1.591e-07
+[11/30/2021 22:24:22.660 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:22.660 train_best_ep4.py:116] Buy: $1155.79
+[11/30/2021 22:24:25.132 train_best_ep4.py:136] Episode: 1	Loss: 3.72	Action: Buy	Reward: -255.62	Balance: 37030.69	Number of Stocks: 11
+[11/30/2021 22:24:25.154 train_best_ep4.py:100] Step: 89	Hold signal: 1.0 	Buy signal: 1.738e-06 	Sell signal: 1.918e-07
+[11/30/2021 22:24:25.154 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:25.154 train_best_ep4.py:116] Buy: $1171.67
+[11/30/2021 22:24:28.254 train_best_ep4.py:136] Episode: 1	Loss: 30.87	Action: Buy	Reward: -80.94	Balance: 35859.02	Number of Stocks: 12
+[11/30/2021 22:24:28.274 train_best_ep4.py:100] Step: 90	Hold signal: 1.0 	Buy signal: 1.323e-06 	Sell signal: 1.368e-07
+[11/30/2021 22:24:28.274 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:24:28.274 train_best_ep4.py:116] Sell: $1157.44 | Profit: $-39.86
+[11/30/2021 22:24:31.217 train_best_ep4.py:136] Episode: 1	Loss: 34.61	Action: Sell	Reward: -291.56	Balance: 37016.46	Number of Stocks: 11
+[11/30/2021 22:24:31.264 train_best_ep4.py:100] Step: 91	Hold signal: 1.0 	Buy signal: 1.296e-06 	Sell signal: 1.682e-07
+[11/30/2021 22:24:33.948 train_best_ep4.py:136] Episode: 1	Loss: 40.10	Action: Hold	Reward: -493.81	Balance: 37016.46	Number of Stocks: 11
+[11/30/2021 22:24:33.965 train_best_ep4.py:100] Step: 92	Hold signal: 1.0 	Buy signal: 9.303e-07 	Sell signal: 1.112e-07
+[11/30/2021 22:24:33.965 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:24:33.965 train_best_ep4.py:116] Sell: $1136.94 | Profit: $-55.19
+[11/30/2021 22:24:36.716 train_best_ep4.py:136] Episode: 1	Loss: 11.45	Action: Sell	Reward: -532.39	Balance: 38153.40	Number of Stocks: 10
+[11/30/2021 22:24:36.760 train_best_ep4.py:100] Step: 93	Hold signal: 1.0 	Buy signal: 9.068e-07 	Sell signal: 1.184e-07
+[11/30/2021 22:24:39.930 train_best_ep4.py:136] Episode: 1	Loss: 74.52	Action: Hold	Reward: -641.44	Balance: 38153.40	Number of Stocks: 10
+[11/30/2021 22:24:39.963 train_best_ep4.py:100] Step: 94	Hold signal: 1.0 	Buy signal: 8.377e-07 	Sell signal: 1.04e-07
+[11/30/2021 22:24:42.572 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: -698.94	Balance: 38153.40	Number of Stocks: 10
+[11/30/2021 22:24:42.591 train_best_ep4.py:100] Step: 95	Hold signal: 1.0 	Buy signal: 9.384e-07 	Sell signal: 1.247e-07
+[11/30/2021 22:24:45.380 train_best_ep4.py:136] Episode: 1	Loss: 33.48	Action: Hold	Reward: -1133.54	Balance: 38153.40	Number of Stocks: 10
+[11/30/2021 22:24:45.436 train_best_ep4.py:100] Step: 96	Hold signal: 1.0 	Buy signal: 7.646e-07 	Sell signal: 1.157e-07
+[11/30/2021 22:24:48.380 train_best_ep4.py:136] Episode: 1	Loss: 73.32	Action: Hold	Reward: -972.54	Balance: 38153.40	Number of Stocks: 10
+[11/30/2021 22:24:48.440 train_best_ep4.py:100] Step: 97	Hold signal: 1.0 	Buy signal: 4.828e-07 	Sell signal: 6.485e-08
+[11/30/2021 22:24:51.355 train_best_ep4.py:136] Episode: 1	Loss: 0.86	Action: Hold	Reward: -1112.94	Balance: 38153.40	Number of Stocks: 10
+[11/30/2021 22:24:51.383 train_best_ep4.py:100] Step: 98	Hold signal: 1.0 	Buy signal: 7.678e-07 	Sell signal: 1.089e-07
+[11/30/2021 22:24:51.383 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:24:51.383 train_best_ep4.py:116] Sell: $1074.03 | Profit: $-134.64
+[11/30/2021 22:24:54.447 train_best_ep4.py:136] Episode: 1	Loss: 23.87	Action: Sell	Reward: -1240.94	Balance: 39227.43	Number of Stocks: 9
+[11/30/2021 22:24:54.466 train_best_ep4.py:100] Step: 99	Hold signal: 1.0 	Buy signal: 6.116e-07 	Sell signal: 8.471e-08
+[11/30/2021 22:24:54.467 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:54.467 train_best_ep4.py:116] Buy: $1067.95
+[11/30/2021 22:24:57.208 train_best_ep4.py:136] Episode: 1	Loss: 33.48	Action: Buy	Reward: -1161.02	Balance: 38159.48	Number of Stocks: 10
+[11/30/2021 22:24:57.209 train_best_ep4.py: 86] 
+-------------------Period: 100/1509-------------------
+[11/30/2021 22:24:57.241 train_best_ep4.py:100] Step: 100	Hold signal: 1.0 	Buy signal: 7.301e-07 	Sell signal: 1.093e-07
+[11/30/2021 22:24:57.241 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:24:57.241 train_best_ep4.py:116] Buy: $1103.06
+[11/30/2021 22:24:59.852 train_best_ep4.py:136] Episode: 1	Loss: 3.72	Action: Buy	Reward: -809.92	Balance: 37056.42	Number of Stocks: 11
+[11/30/2021 22:24:59.872 train_best_ep4.py:100] Step: 101	Hold signal: 1.0 	Buy signal: 5.289e-07 	Sell signal: 6.197e-08
+[11/30/2021 22:24:59.872 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:24:59.872 train_best_ep4.py:116] Sell: $1089.41 | Profit: $-127.87
+[11/30/2021 22:25:02.694 train_best_ep4.py:136] Episode: 1	Loss: 4.60	Action: Sell	Reward: -1087.94	Balance: 38145.83	Number of Stocks: 10
+[11/30/2021 22:25:02.721 train_best_ep4.py:100] Step: 102	Hold signal: 1.0 	Buy signal: 7.42e-07 	Sell signal: 1.059e-07
+[11/30/2021 22:25:05.250 train_best_ep4.py:136] Episode: 1	Loss: 556.10	Action: Hold	Reward: -1149.91	Balance: 38145.83	Number of Stocks: 10
+[11/30/2021 22:25:05.269 train_best_ep4.py:100] Step: 103	Hold signal: 1.0 	Buy signal: 6.212e-07 	Sell signal: 8.181e-08
+[11/30/2021 22:25:05.269 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:25:05.269 train_best_ep4.py:116] Buy: $1098.38
+[11/30/2021 22:25:08.040 train_best_ep4.py:136] Episode: 1	Loss: 72.30	Action: Buy	Reward: -870.37	Balance: 37047.45	Number of Stocks: 11
+[11/30/2021 22:25:08.060 train_best_ep4.py:100] Step: 104	Hold signal: 1.0 	Buy signal: 5.335e-07 	Sell signal: 7.441e-08
+[11/30/2021 22:25:10.802 train_best_ep4.py:136] Episode: 1	Loss: 25.61	Action: Hold	Reward: -824.17	Balance: 37047.45	Number of Stocks: 11
+[11/30/2021 22:25:10.824 train_best_ep4.py:100] Step: 105	Hold signal: 1.0 	Buy signal: 4.58e-07 	Sell signal: 5.597e-08
+[11/30/2021 22:25:10.824 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:25:10.824 train_best_ep4.py:116] Sell: $1064.88 | Profit: $-147.17
+[11/30/2021 22:25:13.446 train_best_ep4.py:136] Episode: 1	Loss: 30.87	Action: Sell	Reward: -1386.04	Balance: 38112.33	Number of Stocks: 10
+[11/30/2021 22:25:13.464 train_best_ep4.py:100] Step: 106	Hold signal: 1.0 	Buy signal: 6.64e-07 	Sell signal: 9.324e-08
+[11/30/2021 22:25:13.464 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:25:13.464 train_best_ep4.py:116] Buy: $1050.47
+[11/30/2021 22:25:16.078 train_best_ep4.py:136] Episode: 1	Loss: 543.60	Action: Buy	Reward: -1382.97	Balance: 37061.86	Number of Stocks: 11
+[11/30/2021 22:25:16.100 train_best_ep4.py:100] Step: 107	Hold signal: 1.0 	Buy signal: 5.711e-07 	Sell signal: 8.804e-08
+[11/30/2021 22:25:16.100 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:25:16.100 train_best_ep4.py:116] Buy: $1062.00
+[11/30/2021 22:25:18.824 train_best_ep4.py:136] Episode: 1	Loss: 349.10	Action: Buy	Reward: -1256.14	Balance: 35999.86	Number of Stocks: 12
+[11/30/2021 22:25:18.845 train_best_ep4.py:100] Step: 108	Hold signal: 1.0 	Buy signal: 3.678e-07 	Sell signal: 5.047e-08
+[11/30/2021 22:25:18.845 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:25:18.845 train_best_ep4.py:116] Buy: $1055.69
+[11/30/2021 22:25:21.644 train_best_ep4.py:136] Episode: 1	Loss: 574.58	Action: Buy	Reward: -1331.86	Balance: 34944.17	Number of Stocks: 13
+[11/30/2021 22:25:21.663 train_best_ep4.py:100] Step: 109	Hold signal: 1.0 	Buy signal: 4.373e-07 	Sell signal: 6.112e-08
+[11/30/2021 22:25:21.663 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:25:21.663 train_best_ep4.py:116] Sell: $1086.84 | Profit: $-104.52
+[11/30/2021 22:25:24.704 train_best_ep4.py:136] Episode: 1	Loss: 55.83	Action: Sell	Reward: -1031.43	Balance: 36031.01	Number of Stocks: 12
+[11/30/2021 22:25:24.730 train_best_ep4.py:100] Step: 110	Hold signal: 1.0 	Buy signal: 4.79e-07 	Sell signal: 6.154e-08
+[11/30/2021 22:25:24.730 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:25:24.730 train_best_ep4.py:116] Buy: $1091.60
+[11/30/2021 22:25:27.422 train_best_ep4.py:136] Episode: 1	Loss: 22.25	Action: Buy	Reward: -869.79	Balance: 34939.41	Number of Stocks: 13
+[11/30/2021 22:25:27.445 train_best_ep4.py:100] Step: 111	Hold signal: 1.0 	Buy signal: 4.563e-07 	Sell signal: 6.493e-08
+[11/30/2021 22:25:30.426 train_best_ep4.py:136] Episode: 1	Loss: 30.87	Action: Hold	Reward: -898.00	Balance: 34939.41	Number of Stocks: 13
+[11/30/2021 22:25:30.451 train_best_ep4.py:100] Step: 112	Hold signal: 1.0 	Buy signal: 4.25e-07 	Sell signal: 5.628e-08
+[11/30/2021 22:25:30.451 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:25:30.451 train_best_ep4.py:116] Sell: $1115.23 | Profit: $-91.55
+[11/30/2021 22:25:33.815 train_best_ep4.py:136] Episode: 1	Loss: 53.84	Action: Sell	Reward: -654.15	Balance: 36054.64	Number of Stocks: 12
+[11/30/2021 22:25:33.871 train_best_ep4.py:100] Step: 113	Hold signal: 1.0 	Buy signal: 4.068e-07 	Sell signal: 5.809e-08
+[11/30/2021 22:25:36.796 train_best_ep4.py:136] Episode: 1	Loss: 92.52	Action: Hold	Reward: -572.72	Balance: 36054.64	Number of Stocks: 12
+[11/30/2021 22:25:36.818 train_best_ep4.py:100] Step: 114	Hold signal: 1.0 	Buy signal: 3.475e-07 	Sell signal: 5.047e-08
+[11/30/2021 22:25:36.818 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:25:36.818 train_best_ep4.py:116] Buy: $1116.04
+[11/30/2021 22:25:39.381 train_best_ep4.py:136] Episode: 1	Loss: 32.06	Action: Buy	Reward: -552.88	Balance: 34938.60	Number of Stocks: 13
+[11/30/2021 22:25:39.419 train_best_ep4.py:100] Step: 115	Hold signal: 1.0 	Buy signal: 3.176e-07 	Sell signal: 4.195e-08
+[11/30/2021 22:25:41.947 train_best_ep4.py:136] Episode: 1	Loss: 29.77	Action: Hold	Reward: -536.37	Balance: 34938.60	Number of Stocks: 13
+[11/30/2021 22:25:41.970 train_best_ep4.py:100] Step: 116	Hold signal: 1.0 	Buy signal: 3.374e-07 	Sell signal: 5.279e-08
+[11/30/2021 22:25:41.970 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:25:41.970 train_best_ep4.py:116] Sell: $1113.20 | Profit: $-73.49
+[11/30/2021 22:25:44.744 train_best_ep4.py:136] Episode: 1	Loss: 3.72	Action: Sell	Reward: -663.29	Balance: 36051.80	Number of Stocks: 12
+[11/30/2021 22:25:44.765 train_best_ep4.py:100] Step: 117	Hold signal: 1.0 	Buy signal: 3.054e-07 	Sell signal: 4.694e-08
+[11/30/2021 22:25:44.765 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:25:44.766 train_best_ep4.py:116] Buy: $1095.31
+[11/30/2021 22:25:47.400 train_best_ep4.py:136] Episode: 1	Loss: 665.56	Action: Buy	Reward: -804.48	Balance: 34956.49	Number of Stocks: 13
+[11/30/2021 22:25:47.418 train_best_ep4.py:100] Step: 118	Hold signal: 1.0 	Buy signal: 3.228e-07 	Sell signal: 5.331e-08
+[11/30/2021 22:25:50.053 train_best_ep4.py:136] Episode: 1	Loss: 81.57	Action: Hold	Reward: -849.59	Balance: 34956.49	Number of Stocks: 13
+[11/30/2021 22:25:50.083 train_best_ep4.py:100] Step: 119	Hold signal: 1.0 	Buy signal: 2.624e-07 	Sell signal: 4.341e-08
+[11/30/2021 22:25:50.083 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:25:50.083 train_best_ep4.py:116] Sell: $1073.69 | Profit: $-99.91
+[11/30/2021 22:25:53.046 train_best_ep4.py:136] Episode: 1	Loss: 0.86	Action: Sell	Reward: -1185.45	Balance: 36030.18	Number of Stocks: 12
+[11/30/2021 22:25:53.087 train_best_ep4.py:100] Step: 120	Hold signal: 1.0 	Buy signal: 2.855e-07 	Sell signal: 4.339e-08
+[11/30/2021 22:25:56.445 train_best_ep4.py:136] Episode: 1	Loss: 34.61	Action: Hold	Reward: -1051.38	Balance: 36030.18	Number of Stocks: 12
+[11/30/2021 22:25:56.466 train_best_ep4.py:100] Step: 121	Hold signal: 1.0 	Buy signal: 3.133e-07 	Sell signal: 4.426e-08
+[11/30/2021 22:25:56.466 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:25:56.466 train_best_ep4.py:116] Sell: $1074.57 | Profit: $-85.16
+[11/30/2021 22:25:59.541 train_best_ep4.py:136] Episode: 1	Loss: 24.35	Action: Sell	Reward: -1160.14	Balance: 37104.75	Number of Stocks: 11
+[11/30/2021 22:25:59.562 train_best_ep4.py:100] Step: 122	Hold signal: 1.0 	Buy signal: 3.574e-07 	Sell signal: 5.593e-08
+[11/30/2021 22:26:02.565 train_best_ep4.py:136] Episode: 1	Loss: 41.91	Action: Hold	Reward: -1444.37	Balance: 37104.75	Number of Stocks: 11
+[11/30/2021 22:26:02.598 train_best_ep4.py:100] Step: 123	Hold signal: 1.0 	Buy signal: 3.583e-07 	Sell signal: 5.503e-08
+[11/30/2021 22:26:05.432 train_best_ep4.py:136] Episode: 1	Loss: 26.73	Action: Hold	Reward: -1560.20	Balance: 37104.75	Number of Stocks: 11
+[11/30/2021 22:26:05.453 train_best_ep4.py:100] Step: 124	Hold signal: 1.0 	Buy signal: 3.183e-07 	Sell signal: 5.41e-08
+[11/30/2021 22:26:05.453 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:26:05.453 train_best_ep4.py:116] Sell: $1027.37 | Profit: $-128.42
+[11/30/2021 22:26:08.149 train_best_ep4.py:136] Episode: 1	Loss: 566.40	Action: Sell	Reward: -1722.60	Balance: 38132.12	Number of Stocks: 10
+[11/30/2021 22:26:08.191 train_best_ep4.py:100] Step: 125	Hold signal: 1.0 	Buy signal: 2.452e-07 	Sell signal: 3.801e-08
+[11/30/2021 22:26:10.959 train_best_ep4.py:136] Episode: 1	Loss: 72.30	Action: Hold	Reward: -1644.91	Balance: 38132.12	Number of Stocks: 10
+[11/30/2021 22:26:10.980 train_best_ep4.py:100] Step: 126	Hold signal: 1.0 	Buy signal: 3.037e-07 	Sell signal: 4.86e-08
+[11/30/2021 22:26:13.577 train_best_ep4.py:136] Episode: 1	Loss: 84.51	Action: Hold	Reward: -1590.11	Balance: 38132.12	Number of Stocks: 10
+[11/30/2021 22:26:13.595 train_best_ep4.py:100] Step: 127	Hold signal: 1.0 	Buy signal: 2.75e-07 	Sell signal: 3.989e-08
+[11/30/2021 22:26:16.363 train_best_ep4.py:136] Episode: 1	Loss: 40.37	Action: Hold	Reward: -1268.01	Balance: 38132.12	Number of Stocks: 10
+[11/30/2021 22:26:16.405 train_best_ep4.py:100] Step: 128	Hold signal: 1.0 	Buy signal: 2.993e-07 	Sell signal: 4.272e-08
+[11/30/2021 22:26:18.992 train_best_ep4.py:136] Episode: 1	Loss: 41.06	Action: Hold	Reward: -1168.21	Balance: 38132.12	Number of Stocks: 10
+[11/30/2021 22:26:19.010 train_best_ep4.py:100] Step: 129	Hold signal: 1.0 	Buy signal: 3.22e-07 	Sell signal: 4.329e-08
+[11/30/2021 22:26:19.010 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:26:19.010 train_best_ep4.py:116] Buy: $1077.96
+[11/30/2021 22:26:21.753 train_best_ep4.py:136] Episode: 1	Loss: 349.10	Action: Buy	Reward: -1088.28	Balance: 37054.16	Number of Stocks: 11
+[11/30/2021 22:26:21.783 train_best_ep4.py:100] Step: 130	Hold signal: 1.0 	Buy signal: 2.85e-07 	Sell signal: 4.244e-08
+[11/30/2021 22:26:24.363 train_best_ep4.py:136] Episode: 1	Loss: 525.32	Action: Hold	Reward: -1082.34	Balance: 37054.16	Number of Stocks: 11
+[11/30/2021 22:26:24.382 train_best_ep4.py:100] Step: 131	Hold signal: 1.0 	Buy signal: 2.171e-07 	Sell signal: 3.23e-08
+[11/30/2021 22:26:24.382 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:26:24.382 train_best_ep4.py:116] Buy: $1095.34
+[11/30/2021 22:26:27.194 train_best_ep4.py:136] Episode: 1	Loss: 45.39	Action: Buy	Reward: -897.10	Balance: 35958.82	Number of Stocks: 12
+[11/30/2021 22:26:27.223 train_best_ep4.py:100] Step: 132	Hold signal: 1.0 	Buy signal: 1.929e-07 	Sell signal: 2.836e-08
+[11/30/2021 22:26:27.223 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:26:27.223 train_best_ep4.py:116] Sell: $1095.17 | Profit: $-76.50
+[11/30/2021 22:26:29.967 train_best_ep4.py:136] Episode: 1	Loss: 401.87	Action: Sell	Reward: -975.64	Balance: 37053.99	Number of Stocks: 11
+[11/30/2021 22:26:29.986 train_best_ep4.py:100] Step: 133	Hold signal: 1.0 	Buy signal: 1.896e-07 	Sell signal: 3.041e-08
+[11/30/2021 22:26:32.967 train_best_ep4.py:136] Episode: 1	Loss: 349.10	Action: Hold	Reward: -887.48	Balance: 37053.99	Number of Stocks: 11
+[11/30/2021 22:26:33.010 train_best_ep4.py:100] Step: 134	Hold signal: 1.0 	Buy signal: 1.838e-07 	Sell signal: 2.75e-08
+[11/30/2021 22:26:35.858 train_best_ep4.py:136] Episode: 1	Loss: 53.84	Action: Hold	Reward: -1235.08	Balance: 37053.99	Number of Stocks: 11
+[11/30/2021 22:26:35.879 train_best_ep4.py:100] Step: 135	Hold signal: 1.0 	Buy signal: 2.092e-07 	Sell signal: 3.619e-08
+[11/30/2021 22:26:38.594 train_best_ep4.py:136] Episode: 1	Loss: 251.31	Action: Hold	Reward: -1165.01	Balance: 37053.99	Number of Stocks: 11
+[11/30/2021 22:26:38.651 train_best_ep4.py:100] Step: 136	Hold signal: 1.0 	Buy signal: 1.728e-07 	Sell signal: 2.49e-08
+[11/30/2021 22:26:41.626 train_best_ep4.py:136] Episode: 1	Loss: 424.42	Action: Hold	Reward: -1030.48	Balance: 37053.99	Number of Stocks: 11
+[11/30/2021 22:26:41.646 train_best_ep4.py:100] Step: 137	Hold signal: 1.0 	Buy signal: 1.947e-07 	Sell signal: 2.996e-08
+[11/30/2021 22:26:41.647 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:26:41.647 train_best_ep4.py:116] Buy: $1069.59
+[11/30/2021 22:26:44.745 train_best_ep4.py:136] Episode: 1	Loss: 514.87	Action: Buy	Reward: -1180.52	Balance: 35984.40	Number of Stocks: 12
+[11/30/2021 22:26:44.763 train_best_ep4.py:100] Step: 138	Hold signal: 1.0 	Buy signal: 2.167e-07 	Sell signal: 3.287e-08
+[11/30/2021 22:26:47.550 train_best_ep4.py:136] Episode: 1	Loss: 434.53	Action: Hold	Reward: -894.23	Balance: 35984.40	Number of Stocks: 12
+[11/30/2021 22:26:47.570 train_best_ep4.py:100] Step: 139	Hold signal: 1.0 	Buy signal: 1.936e-07 	Sell signal: 3.076e-08
+[11/30/2021 22:26:50.235 train_best_ep4.py:136] Episode: 1	Loss: 70.83	Action: Hold	Reward: -786.35	Balance: 35984.40	Number of Stocks: 12
+[11/30/2021 22:26:50.280 train_best_ep4.py:100] Step: 140	Hold signal: 1.0 	Buy signal: 1.503e-07 	Sell signal: 2.325e-08
+[11/30/2021 22:26:53.092 train_best_ep4.py:136] Episode: 1	Loss: 29.77	Action: Hold	Reward: -638.15	Balance: 35984.40	Number of Stocks: 12
+[11/30/2021 22:26:53.132 train_best_ep4.py:100] Step: 141	Hold signal: 1.0 	Buy signal: 1.714e-07 	Sell signal: 2.338e-08
+[11/30/2021 22:26:53.132 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:26:53.132 train_best_ep4.py:116] Sell: $1113.84 | Profit: $45.89
+[11/30/2021 22:26:56.144 train_best_ep4.py:136] Episode: 1	Loss: 34.78	Action: Sell	Reward: -603.63	Balance: 37098.24	Number of Stocks: 11
+[11/30/2021 22:26:56.165 train_best_ep4.py:100] Step: 142	Hold signal: 1.0 	Buy signal: 2.22e-07 	Sell signal: 3.706e-08
+[11/30/2021 22:26:59.411 train_best_ep4.py:136] Episode: 1	Loss: 794.69	Action: Hold	Reward: -737.09	Balance: 37098.24	Number of Stocks: 11
+[11/30/2021 22:26:59.447 train_best_ep4.py:100] Step: 143	Hold signal: 1.0 	Buy signal: 1.762e-07 	Sell signal: 2.79e-08
+[11/30/2021 22:26:59.447 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:26:59.447 train_best_ep4.py:116] Buy: $1101.53
+[11/30/2021 22:27:02.505 train_best_ep4.py:136] Episode: 1	Loss: 17.53	Action: Buy	Reward: -784.93	Balance: 35996.71	Number of Stocks: 12
+[11/30/2021 22:27:02.531 train_best_ep4.py:100] Step: 144	Hold signal: 1.0 	Buy signal: 1.577e-07 	Sell signal: 2.602e-08
+[11/30/2021 22:27:06.397 train_best_ep4.py:136] Episode: 1	Loss: 579.70	Action: Hold	Reward: -786.77	Balance: 35996.71	Number of Stocks: 12
+[11/30/2021 22:27:06.429 train_best_ep4.py:100] Step: 145	Hold signal: 1.0 	Buy signal: 1.436e-07 	Sell signal: 2.186e-08
+[11/30/2021 22:27:06.429 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:27:06.429 train_best_ep4.py:116] Buy: $1125.86
+[11/30/2021 22:27:09.323 train_best_ep4.py:136] Episode: 1	Loss: 25.61	Action: Buy	Reward: -492.97	Balance: 34870.85	Number of Stocks: 13
+[11/30/2021 22:27:09.340 train_best_ep4.py:100] Step: 146	Hold signal: 1.0 	Buy signal: 1.721e-07 	Sell signal: 2.517e-08
+[11/30/2021 22:27:09.340 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:27:09.340 train_best_ep4.py:116] Buy: $1120.46
+[11/30/2021 22:27:12.548 train_best_ep4.py:136] Episode: 1	Loss: 34.61	Action: Buy	Reward: -563.17	Balance: 33750.39	Number of Stocks: 14
+[11/30/2021 22:27:12.597 train_best_ep4.py:100] Step: 147	Hold signal: 1.0 	Buy signal: 2.119e-07 	Sell signal: 3.443e-08
+[11/30/2021 22:27:15.850 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: -470.76	Balance: 33750.39	Number of Stocks: 14
+[11/30/2021 22:27:15.876 train_best_ep4.py:100] Step: 148	Hold signal: 1.0 	Buy signal: 1.653e-07 	Sell signal: 2.559e-08
+[11/30/2021 22:27:15.876 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:27:15.877 train_best_ep4.py:116] Buy: $1125.81
+[11/30/2021 22:27:18.755 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Buy	Reward: -488.27	Balance: 32624.58	Number of Stocks: 15
+[11/30/2021 22:27:18.801 train_best_ep4.py:100] Step: 149	Hold signal: 1.0 	Buy signal: 1.565e-07 	Sell signal: 2.701e-08
+[11/30/2021 22:27:22.310 train_best_ep4.py:136] Episode: 1	Loss: 514.87	Action: Hold	Reward: -553.25	Balance: 32624.58	Number of Stocks: 15
+[11/30/2021 22:27:22.371 train_best_ep4.py:100] Step: 150	Hold signal: 1.0 	Buy signal: 1.408e-07 	Sell signal: 2.214e-08
+[11/30/2021 22:27:25.426 train_best_ep4.py:136] Episode: 1	Loss: 589.89	Action: Hold	Reward: -460.99	Balance: 32624.58	Number of Stocks: 15
+[11/30/2021 22:27:25.473 train_best_ep4.py:100] Step: 151	Hold signal: 1.0 	Buy signal: 1.441e-07 	Sell signal: 2.394e-08
+[11/30/2021 22:27:28.720 train_best_ep4.py:136] Episode: 1	Loss: 34.61	Action: Hold	Reward: -561.94	Balance: 32624.58	Number of Stocks: 15
+[11/30/2021 22:27:28.770 train_best_ep4.py:100] Step: 152	Hold signal: 1.0 	Buy signal: 1.412e-07 	Sell signal: 2.287e-08
+[11/30/2021 22:27:31.748 train_best_ep4.py:136] Episode: 1	Loss: 40.37	Action: Hold	Reward: -1035.80	Balance: 32624.58	Number of Stocks: 15
+[11/30/2021 22:27:31.767 train_best_ep4.py:100] Step: 153	Hold signal: 1.0 	Buy signal: 1.763e-07 	Sell signal: 2.819e-08
+[11/30/2021 22:27:34.859 train_best_ep4.py:136] Episode: 1	Loss: 16.45	Action: Hold	Reward: -1123.70	Balance: 32624.58	Number of Stocks: 15
+[11/30/2021 22:27:34.882 train_best_ep4.py:100] Step: 154	Hold signal: 1.0 	Buy signal: 1.672e-07 	Sell signal: 2.942e-08
+[11/30/2021 22:27:34.882 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:27:34.882 train_best_ep4.py:116] Sell: $1079.25 | Profit: $-23.81
+[11/30/2021 22:27:37.624 train_best_ep4.py:136] Episode: 1	Loss: 127.44	Action: Sell	Reward: -1210.48	Balance: 33703.83	Number of Stocks: 14
+[11/30/2021 22:27:37.643 train_best_ep4.py:100] Step: 155	Hold signal: 1.0 	Buy signal: 1.326e-07 	Sell signal: 2.081e-08
+[11/30/2021 22:27:37.643 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:27:37.643 train_best_ep4.py:116] Buy: $1079.38
+[11/30/2021 22:27:40.841 train_best_ep4.py:136] Episode: 1	Loss: 41.91	Action: Buy	Reward: -1184.85	Balance: 32624.45	Number of Stocks: 15
+[11/30/2021 22:27:40.887 train_best_ep4.py:100] Step: 156	Hold signal: 1.0 	Buy signal: 1.693e-07 	Sell signal: 2.57e-08
+[11/30/2021 22:27:43.889 train_best_ep4.py:136] Episode: 1	Loss: 61.43	Action: Hold	Reward: -989.87	Balance: 32624.45	Number of Stocks: 15
+[11/30/2021 22:27:43.942 train_best_ep4.py:100] Step: 157	Hold signal: 1.0 	Buy signal: 1.56e-07 	Sell signal: 2.294e-08
+[11/30/2021 22:27:47.941 train_best_ep4.py:136] Episode: 1	Loss: 349.10	Action: Hold	Reward: -965.57	Balance: 32624.45	Number of Stocks: 15
+[11/30/2021 22:27:47.983 train_best_ep4.py:100] Step: 158	Hold signal: 1.0 	Buy signal: 1.7e-07 	Sell signal: 2.501e-08
+[11/30/2021 22:27:50.708 train_best_ep4.py:136] Episode: 1	Loss: 393.01	Action: Hold	Reward: -1243.53	Balance: 32624.45	Number of Stocks: 15
+[11/30/2021 22:27:50.767 train_best_ep4.py:100] Step: 159	Hold signal: 1.0 	Buy signal: 1.815e-07 	Sell signal: 3.02e-08
+[11/30/2021 22:27:53.720 train_best_ep4.py:136] Episode: 1	Loss: 320.35	Action: Hold	Reward: -1302.63	Balance: 32624.45	Number of Stocks: 15
+[11/30/2021 22:27:53.765 train_best_ep4.py:100] Step: 160	Hold signal: 1.0 	Buy signal: 1.472e-07 	Sell signal: 2.406e-08
+[11/30/2021 22:27:57.337 train_best_ep4.py:136] Episode: 1	Loss: 285.99	Action: Hold	Reward: -1367.58	Balance: 32624.45	Number of Stocks: 15
+[11/30/2021 22:27:57.384 train_best_ep4.py:100] Step: 161	Hold signal: 1.0 	Buy signal: 1.245e-07 	Sell signal: 2.013e-08
+[11/30/2021 22:28:00.549 train_best_ep4.py:136] Episode: 1	Loss: 127.44	Action: Hold	Reward: -1599.93	Balance: 32624.45	Number of Stocks: 15
+[11/30/2021 22:28:00.573 train_best_ep4.py:100] Step: 162	Hold signal: 1.0 	Buy signal: 1.288e-07 	Sell signal: 2.024e-08
+[11/30/2021 22:28:00.573 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:28:00.573 train_best_ep4.py:116] Sell: $1055.33 | Profit: $-43.05
+[11/30/2021 22:28:03.599 train_best_ep4.py:136] Episode: 1	Loss: 401.87	Action: Sell	Reward: -1588.65	Balance: 33679.78	Number of Stocks: 14
+[11/30/2021 22:28:03.645 train_best_ep4.py:100] Step: 163	Hold signal: 1.0 	Buy signal: 1.428e-07 	Sell signal: 2.113e-08
+[11/30/2021 22:28:06.853 train_best_ep4.py:136] Episode: 1	Loss: 604.87	Action: Hold	Reward: -1661.64	Balance: 33679.78	Number of Stocks: 14
+[11/30/2021 22:28:06.931 train_best_ep4.py:100] Step: 164	Hold signal: 1.0 	Buy signal: 1.769e-07 	Sell signal: 2.84e-08
+[11/30/2021 22:28:10.095 train_best_ep4.py:136] Episode: 1	Loss: 2.67	Action: Hold	Reward: -1418.46	Balance: 33679.78	Number of Stocks: 14
+[11/30/2021 22:28:10.150 train_best_ep4.py:100] Step: 165	Hold signal: 1.0 	Buy signal: 1.566e-07 	Sell signal: 2.154e-08
+[11/30/2021 22:28:12.932 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: -1637.84	Balance: 33679.78	Number of Stocks: 14
+[11/30/2021 22:28:12.956 train_best_ep4.py:100] Step: 166	Hold signal: 1.0 	Buy signal: 1.7e-07 	Sell signal: 2.882e-08
+[11/30/2021 22:28:12.956 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:28:12.956 train_best_ep4.py:116] Buy: $1049.33
+[11/30/2021 22:28:16.274 train_best_ep4.py:136] Episode: 1	Loss: 627.70	Action: Buy	Reward: -1629.60	Balance: 32630.45	Number of Stocks: 15
+[11/30/2021 22:28:16.295 train_best_ep4.py:100] Step: 167	Hold signal: 1.0 	Buy signal: 1.192e-07 	Sell signal: 1.688e-08
+[11/30/2021 22:28:16.295 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:28:16.295 train_best_ep4.py:116] Buy: $1080.29
+[11/30/2021 22:28:19.056 train_best_ep4.py:136] Episode: 1	Loss: 301.45	Action: Buy	Reward: -1165.20	Balance: 31550.16	Number of Stocks: 16
+[11/30/2021 22:28:19.091 train_best_ep4.py:100] Step: 168	Hold signal: 1.0 	Buy signal: 1.203e-07 	Sell signal: 2.017e-08
+[11/30/2021 22:28:22.213 train_best_ep4.py:136] Episode: 1	Loss: 36.78	Action: Hold	Reward: -1010.59	Balance: 31550.16	Number of Stocks: 16
+[11/30/2021 22:28:22.268 train_best_ep4.py:100] Step: 169	Hold signal: 1.0 	Buy signal: 1.023e-07 	Sell signal: 1.502e-08
+[11/30/2021 22:28:25.298 train_best_ep4.py:136] Episode: 1	Loss: 582.23	Action: Hold	Reward: -780.03	Balance: 31550.16	Number of Stocks: 16
+[11/30/2021 22:28:25.338 train_best_ep4.py:100] Step: 170	Hold signal: 1.0 	Buy signal: 1.382e-07 	Sell signal: 2.096e-08
+[11/30/2021 22:28:28.584 train_best_ep4.py:136] Episode: 1	Loss: 36.30	Action: Hold	Reward: -982.75	Balance: 31550.16	Number of Stocks: 16
+[11/30/2021 22:28:28.614 train_best_ep4.py:100] Step: 171	Hold signal: 1.0 	Buy signal: 1.384e-07 	Sell signal: 2.223e-08
+[11/30/2021 22:28:28.614 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:28:28.614 train_best_ep4.py:116] Sell: $1098.87 | Profit: $48.40
+[11/30/2021 22:28:31.807 train_best_ep4.py:136] Episode: 1	Loss: 561.48	Action: Sell	Reward: -819.52	Balance: 32649.03	Number of Stocks: 15
+[11/30/2021 22:28:31.828 train_best_ep4.py:100] Step: 172	Hold signal: 1.0 	Buy signal: 9.626e-08 	Sell signal: 1.409e-08
+[11/30/2021 22:28:31.828 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:28:31.828 train_best_ep4.py:116] Buy: $1104.18
+[11/30/2021 22:28:34.628 train_best_ep4.py:136] Episode: 1	Loss: 29.97	Action: Buy	Reward: -788.27	Balance: 31544.85	Number of Stocks: 16
+[11/30/2021 22:28:34.649 train_best_ep4.py:100] Step: 173	Hold signal: 1.0 	Buy signal: 9.52e-08 	Sell signal: 1.447e-08
+[11/30/2021 22:28:34.649 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:28:34.649 train_best_ep4.py:116] Buy: $1109.55
+[11/30/2021 22:28:37.397 train_best_ep4.py:136] Episode: 1	Loss: 34.61	Action: Buy	Reward: -702.35	Balance: 30435.30	Number of Stocks: 17
+[11/30/2021 22:28:37.432 train_best_ep4.py:100] Step: 174	Hold signal: 1.0 	Buy signal: 1.086e-07 	Sell signal: 1.467e-08
+[11/30/2021 22:28:39.982 train_best_ep4.py:136] Episode: 1	Loss: 24.35	Action: Hold	Reward: -494.66	Balance: 30435.30	Number of Stocks: 17
+[11/30/2021 22:28:40.002 train_best_ep4.py:100] Step: 175	Hold signal: 1.0 	Buy signal: 1.288e-07 	Sell signal: 1.972e-08
+[11/30/2021 22:28:40.002 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:28:40.002 train_best_ep4.py:116] Buy: $1121.10
+[11/30/2021 22:28:42.662 train_best_ep4.py:136] Episode: 1	Loss: 393.76	Action: Buy	Reward: -506.00	Balance: 29314.20	Number of Stocks: 18
+[11/30/2021 22:28:42.678 train_best_ep4.py:100] Step: 176	Hold signal: 1.0 	Buy signal: 1.067e-07 	Sell signal: 1.662e-08
+[11/30/2021 22:28:42.679 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:28:42.679 train_best_ep4.py:116] Buy: $1125.07
+[11/30/2021 22:28:45.101 train_best_ep4.py:136] Episode: 1	Loss: 24.57	Action: Buy	Reward: -434.54	Balance: 28189.13	Number of Stocks: 19
+[11/30/2021 22:28:45.120 train_best_ep4.py:100] Step: 177	Hold signal: 1.0 	Buy signal: 9.313e-08 	Sell signal: 1.366e-08
+[11/30/2021 22:28:45.120 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:28:45.120 train_best_ep4.py:116] Sell: $1124.66 | Profit: $62.66
+[11/30/2021 22:28:47.687 train_best_ep4.py:136] Episode: 1	Loss: 252.63	Action: Sell	Reward: -379.67	Balance: 29313.79	Number of Stocks: 18
+[11/30/2021 22:28:47.707 train_best_ep4.py:100] Step: 178	Hold signal: 1.0 	Buy signal: 1.002e-07 	Sell signal: 1.594e-08
+[11/30/2021 22:28:50.573 train_best_ep4.py:136] Episode: 1	Loss: 592.36	Action: Hold	Reward: -427.77	Balance: 29313.79	Number of Stocks: 18
+[11/30/2021 22:28:50.594 train_best_ep4.py:100] Step: 179	Hold signal: 1.0 	Buy signal: 1.023e-07 	Sell signal: 1.437e-08
+[11/30/2021 22:28:50.594 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:28:50.594 train_best_ep4.py:116] Buy: $1142.71
+[11/30/2021 22:28:53.777 train_best_ep4.py:136] Episode: 1	Loss: 21.99	Action: Buy	Reward: -117.43	Balance: 28171.08	Number of Stocks: 19
+[11/30/2021 22:28:53.800 train_best_ep4.py:100] Step: 180	Hold signal: 1.0 	Buy signal: 1.061e-07 	Sell signal: 1.657e-08
+[11/30/2021 22:28:53.801 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:28:53.801 train_best_ep4.py:116] Sell: $1139.78 | Profit: $84.09
+[11/30/2021 22:28:57.194 train_best_ep4.py:136] Episode: 1	Loss: 580.14	Action: Sell	Reward: -89.01	Balance: 29310.86	Number of Stocks: 18
+[11/30/2021 22:28:57.238 train_best_ep4.py:100] Step: 181	Hold signal: 1.0 	Buy signal: 1.048e-07 	Sell signal: 1.678e-08
+[11/30/2021 22:29:00.323 train_best_ep4.py:136] Episode: 1	Loss: 36.30	Action: Hold	Reward: -274.28	Balance: 29310.86	Number of Stocks: 18
+[11/30/2021 22:29:00.376 train_best_ep4.py:100] Step: 182	Hold signal: 1.0 	Buy signal: 1.163e-07 	Sell signal: 1.901e-08
+[11/30/2021 22:29:03.499 train_best_ep4.py:136] Episode: 1	Loss: 60.72	Action: Hold	Reward: -444.38	Balance: 29310.86	Number of Stocks: 18
+[11/30/2021 22:29:03.533 train_best_ep4.py:100] Step: 183	Hold signal: 1.0 	Buy signal: 1.009e-07 	Sell signal: 1.685e-08
+[11/30/2021 22:29:03.533 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:29:03.533 train_best_ep4.py:116] Buy: $1148.67
+[11/30/2021 22:29:06.548 train_best_ep4.py:136] Episode: 1	Loss: 9.58	Action: Buy	Reward: -13.08	Balance: 28162.19	Number of Stocks: 19
+[11/30/2021 22:29:06.570 train_best_ep4.py:100] Step: 184	Hold signal: 1.0 	Buy signal: 8.586e-08 	Sell signal: 1.201e-08
+[11/30/2021 22:29:09.513 train_best_ep4.py:136] Episode: 1	Loss: 515.35	Action: Hold	Reward: -138.86	Balance: 28162.19	Number of Stocks: 19
+[11/30/2021 22:29:09.563 train_best_ep4.py:100] Step: 185	Hold signal: 1.0 	Buy signal: 1.336e-07 	Sell signal: 2.184e-08
+[11/30/2021 22:29:12.779 train_best_ep4.py:136] Episode: 1	Loss: 621.39	Action: Hold	Reward: -33.60	Balance: 28162.19	Number of Stocks: 19
+[11/30/2021 22:29:12.801 train_best_ep4.py:100] Step: 186	Hold signal: 1.0 	Buy signal: 1.148e-07 	Sell signal: 1.627e-08
+[11/30/2021 22:29:12.801 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:29:12.801 train_best_ep4.py:116] Buy: $1144.73
+[11/30/2021 22:29:16.030 train_best_ep4.py:136] Episode: 1	Loss: 29.97	Action: Buy	Reward: -87.94	Balance: 27017.46	Number of Stocks: 20
+[11/30/2021 22:29:16.055 train_best_ep4.py:100] Step: 187	Hold signal: 1.0 	Buy signal: 1.263e-07 	Sell signal: 2.2e-08
+[11/30/2021 22:29:16.056 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:29:16.056 train_best_ep4.py:116] Buy: $1141.20
+[11/30/2021 22:29:19.110 train_best_ep4.py:136] Episode: 1	Loss: 53.84	Action: Buy	Reward: -158.54	Balance: 25876.26	Number of Stocks: 21
+[11/30/2021 22:29:19.136 train_best_ep4.py:100] Step: 188	Hold signal: 1.0 	Buy signal: 9.736e-08 	Sell signal: 1.486e-08
+[11/30/2021 22:29:19.136 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:29:19.136 train_best_ep4.py:116] Sell: $1146.24 | Profit: $54.64
+[11/30/2021 22:29:22.108 train_best_ep4.py:136] Episode: 1	Loss: 543.60	Action: Sell	Reward: 1.94	Balance: 27022.50	Number of Stocks: 20
+[11/30/2021 22:29:22.155 train_best_ep4.py:100] Step: 189	Hold signal: 1.0 	Buy signal: 9.61e-08 	Sell signal: 1.615e-08
+[11/30/2021 22:29:25.285 train_best_ep4.py:136] Episode: 1	Loss: 246.96	Action: Hold	Reward: -238.91	Balance: 27022.50	Number of Stocks: 20
+[11/30/2021 22:29:25.319 train_best_ep4.py:100] Step: 190	Hold signal: 1.0 	Buy signal: 9.33e-08 	Sell signal: 1.523e-08
+[11/30/2021 22:29:25.319 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:29:25.319 train_best_ep4.py:116] Sell: $1160.75 | Profit: $44.71
+[11/30/2021 22:29:28.427 train_best_ep4.py:136] Episode: 1	Loss: 189.46	Action: Sell	Reward: 282.21	Balance: 28183.25	Number of Stocks: 19
+[11/30/2021 22:29:28.471 train_best_ep4.py:100] Step: 191	Hold signal: 1.0 	Buy signal: 1.045e-07 	Sell signal: 1.525e-08
+[11/30/2021 22:29:31.474 train_best_ep4.py:136] Episode: 1	Loss: 32.20	Action: Hold	Reward: 220.58	Balance: 28183.25	Number of Stocks: 19
+[11/30/2021 22:29:31.536 train_best_ep4.py:100] Step: 192	Hold signal: 1.0 	Buy signal: 1.117e-07 	Sell signal: 1.921e-08
+[11/30/2021 22:29:34.829 train_best_ep4.py:136] Episode: 1	Loss: 301.45	Action: Hold	Reward: 184.30	Balance: 28183.25	Number of Stocks: 19
+[11/30/2021 22:29:34.855 train_best_ep4.py:100] Step: 193	Hold signal: 1.0 	Buy signal: 9.127e-08 	Sell signal: 1.383e-08
+[11/30/2021 22:29:37.632 train_best_ep4.py:136] Episode: 1	Loss: 11.45	Action: Hold	Reward: 319.01	Balance: 28183.25	Number of Stocks: 19
+[11/30/2021 22:29:37.669 train_best_ep4.py:100] Step: 194	Hold signal: 1.0 	Buy signal: 9.508e-08 	Sell signal: 1.543e-08
+[11/30/2021 22:29:40.749 train_best_ep4.py:136] Episode: 1	Loss: 70.83	Action: Hold	Reward: 322.23	Balance: 28183.25	Number of Stocks: 19
+[11/30/2021 22:29:40.788 train_best_ep4.py:100] Step: 195	Hold signal: 1.0 	Buy signal: 8.708e-08 	Sell signal: 1.324e-08
+[11/30/2021 22:29:40.788 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:29:40.789 train_best_ep4.py:116] Sell: $1169.77 | Profit: $74.46
+[11/30/2021 22:29:43.425 train_best_ep4.py:136] Episode: 1	Loss: 136.77	Action: Sell	Reward: 483.34	Balance: 29353.02	Number of Stocks: 18
+[11/30/2021 22:29:43.465 train_best_ep4.py:100] Step: 196	Hold signal: 1.0 	Buy signal: 1.002e-07 	Sell signal: 1.439e-08
+[11/30/2021 22:29:47.111 train_best_ep4.py:136] Episode: 1	Loss: 16.45	Action: Hold	Reward: 556.64	Balance: 29353.02	Number of Stocks: 18
+[11/30/2021 22:29:47.154 train_best_ep4.py:100] Step: 197	Hold signal: 1.0 	Buy signal: 1.055e-07 	Sell signal: 1.593e-08
+[11/30/2021 22:29:49.957 train_best_ep4.py:136] Episode: 1	Loss: 16.45	Action: Hold	Reward: 479.42	Balance: 29353.02	Number of Stocks: 18
+[11/30/2021 22:29:50.010 train_best_ep4.py:100] Step: 198	Hold signal: 1.0 	Buy signal: 1.021e-07 	Sell signal: 1.522e-08
+[11/30/2021 22:29:52.602 train_best_ep4.py:136] Episode: 1	Loss: 26.73	Action: Hold	Reward: 522.26	Balance: 29353.02	Number of Stocks: 18
+[11/30/2021 22:29:52.640 train_best_ep4.py:100] Step: 199	Hold signal: 1.0 	Buy signal: 8.88e-08 	Sell signal: 1.313e-08
+[11/30/2021 22:29:55.091 train_best_ep4.py:136] Episode: 1	Loss: 4.60	Action: Hold	Reward: 675.62	Balance: 29353.02	Number of Stocks: 18
+[11/30/2021 22:29:55.091 train_best_ep4.py: 86] 
+-------------------Period: 200/1509-------------------
+[11/30/2021 22:29:55.111 train_best_ep4.py:100] Step: 200	Hold signal: 1.0 	Buy signal: 7.358e-08 	Sell signal: 1.12e-08
+[11/30/2021 22:29:57.568 train_best_ep4.py:136] Episode: 1	Loss: 349.10	Action: Hold	Reward: 337.04	Balance: 29353.02	Number of Stocks: 18
+[11/30/2021 22:29:57.592 train_best_ep4.py:100] Step: 201	Hold signal: 1.0 	Buy signal: 9.481e-08 	Sell signal: 1.42e-08
+[11/30/2021 22:30:00.251 train_best_ep4.py:136] Episode: 1	Loss: 280.60	Action: Hold	Reward: 557.90	Balance: 29353.02	Number of Stocks: 18
+[11/30/2021 22:30:00.273 train_best_ep4.py:100] Step: 202	Hold signal: 1.0 	Buy signal: 9.773e-08 	Sell signal: 1.47e-08
+[11/30/2021 22:30:00.273 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:30:00.273 train_best_ep4.py:116] Buy: $1180.26
+[11/30/2021 22:30:02.910 train_best_ep4.py:136] Episode: 1	Loss: 32.38	Action: Buy	Reward: 597.70	Balance: 28172.76	Number of Stocks: 19
+[11/30/2021 22:30:02.935 train_best_ep4.py:100] Step: 203	Hold signal: 1.0 	Buy signal: 7.889e-08 	Sell signal: 1.182e-08
+[11/30/2021 22:30:05.537 train_best_ep4.py:136] Episode: 1	Loss: 349.10	Action: Hold	Reward: 649.18	Balance: 28172.76	Number of Stocks: 19
+[11/30/2021 22:30:05.582 train_best_ep4.py:100] Step: 204	Hold signal: 1.0 	Buy signal: 8.49e-08 	Sell signal: 1.141e-08
+[11/30/2021 22:30:09.125 train_best_ep4.py:136] Episode: 1	Loss: 592.06	Action: Hold	Reward: 697.45	Balance: 28172.76	Number of Stocks: 19
+[11/30/2021 22:30:09.165 train_best_ep4.py:100] Step: 205	Hold signal: 1.0 	Buy signal: 9.949e-08 	Sell signal: 1.565e-08
+[11/30/2021 22:30:13.116 train_best_ep4.py:136] Episode: 1	Loss: 55.55	Action: Hold	Reward: 697.83	Balance: 28172.76	Number of Stocks: 19
+[11/30/2021 22:30:13.170 train_best_ep4.py:100] Step: 206	Hold signal: 1.0 	Buy signal: 7.794e-08 	Sell signal: 1.223e-08
+[11/30/2021 22:30:15.949 train_best_ep4.py:136] Episode: 1	Loss: 30.87	Action: Hold	Reward: 637.21	Balance: 28172.76	Number of Stocks: 19
+[11/30/2021 22:30:15.973 train_best_ep4.py:100] Step: 207	Hold signal: 1.0 	Buy signal: 7.582e-08 	Sell signal: 1.306e-08
+[11/30/2021 22:30:15.973 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:30:15.973 train_best_ep4.py:116] Sell: $1183.78 | Profit: $105.82
+[11/30/2021 22:30:18.567 train_best_ep4.py:136] Episode: 1	Loss: 41.91	Action: Sell	Reward: 770.40	Balance: 29356.54	Number of Stocks: 18
+[11/30/2021 22:30:18.601 train_best_ep4.py:100] Step: 208	Hold signal: 1.0 	Buy signal: 6.303e-08 	Sell signal: 1.033e-08
+[11/30/2021 22:30:21.358 train_best_ep4.py:136] Episode: 1	Loss: 580.14	Action: Hold	Reward: 653.04	Balance: 29356.54	Number of Stocks: 18
+[11/30/2021 22:30:21.404 train_best_ep4.py:100] Step: 209	Hold signal: 1.0 	Buy signal: 6.794e-08 	Sell signal: 1.139e-08
+[11/30/2021 22:30:24.014 train_best_ep4.py:136] Episode: 1	Loss: 36.30	Action: Hold	Reward: 673.20	Balance: 29356.54	Number of Stocks: 18
+[11/30/2021 22:30:24.032 train_best_ep4.py:100] Step: 210	Hold signal: 1.0 	Buy signal: 7.369e-08 	Sell signal: 1.141e-08
+[11/30/2021 22:30:24.032 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:30:24.032 train_best_ep4.py:116] Buy: $1193.57
+[11/30/2021 22:30:26.454 train_best_ep4.py:136] Episode: 1	Loss: 35.72	Action: Buy	Reward: 840.80	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:26.487 train_best_ep4.py:100] Step: 211	Hold signal: 1.0 	Buy signal: 7.326e-08 	Sell signal: 1.252e-08
+[11/30/2021 22:30:28.892 train_best_ep4.py:136] Episode: 1	Loss: 326.14	Action: Hold	Reward: 922.12	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:28.936 train_best_ep4.py:100] Step: 212	Hold signal: 1.0 	Buy signal: 6.565e-08 	Sell signal: 1.032e-08
+[11/30/2021 22:30:31.297 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: 1361.02	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:31.332 train_best_ep4.py:100] Step: 213	Hold signal: 1.0 	Buy signal: 7.203e-08 	Sell signal: 1.171e-08
+[11/30/2021 22:30:33.748 train_best_ep4.py:136] Episode: 1	Loss: 109.91	Action: Hold	Reward: 1452.03	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:33.784 train_best_ep4.py:100] Step: 214	Hold signal: 1.0 	Buy signal: 6.304e-08 	Sell signal: 1.031e-08
+[11/30/2021 22:30:36.112 train_best_ep4.py:136] Episode: 1	Loss: 82.06	Action: Hold	Reward: 1402.63	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:36.129 train_best_ep4.py:100] Step: 215	Hold signal: 1.0 	Buy signal: 6.381e-08 	Sell signal: 1.145e-08
+[11/30/2021 22:30:38.480 train_best_ep4.py:136] Episode: 1	Loss: 44.13	Action: Hold	Reward: 1215.48	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:38.515 train_best_ep4.py:100] Step: 216	Hold signal: 1.0 	Buy signal: 5.733e-08 	Sell signal: 1.064e-08
+[11/30/2021 22:30:40.834 train_best_ep4.py:136] Episode: 1	Loss: 22.25	Action: Hold	Reward: 1316.37	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:40.875 train_best_ep4.py:100] Step: 217	Hold signal: 1.0 	Buy signal: 4.903e-08 	Sell signal: 8.491e-09
+[11/30/2021 22:30:43.262 train_best_ep4.py:136] Episode: 1	Loss: 0.99	Action: Hold	Reward: 1218.14	Balance: 28162.97	Number of Stocks: 19
+[11/30/2021 22:30:43.280 train_best_ep4.py:100] Step: 218	Hold signal: 1.0 	Buy signal: 6.344e-08 	Sell signal: 1.126e-08
+[11/30/2021 22:30:43.280 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:30:43.280 train_best_ep4.py:116] Buy: $1199.21
+[11/30/2021 22:30:45.626 train_best_ep4.py:136] Episode: 1	Loss: 276.25	Action: Buy	Reward: 947.96	Balance: 26963.76	Number of Stocks: 20
+[11/30/2021 22:30:45.668 train_best_ep4.py:100] Step: 219	Hold signal: 1.0 	Buy signal: 8.242e-08 	Sell signal: 1.452e-08
+[11/30/2021 22:30:48.125 train_best_ep4.py:136] Episode: 1	Loss: 514.87	Action: Hold	Reward: 916.76	Balance: 26963.76	Number of Stocks: 20
+[11/30/2021 22:30:48.159 train_best_ep4.py:100] Step: 220	Hold signal: 1.0 	Buy signal: 7.499e-08 	Sell signal: 1.456e-08
+[11/30/2021 22:30:50.658 train_best_ep4.py:136] Episode: 1	Loss: 28.52	Action: Hold	Reward: 528.55	Balance: 26963.76	Number of Stocks: 20
+[11/30/2021 22:30:50.703 train_best_ep4.py:100] Step: 221	Hold signal: 1.0 	Buy signal: 5.922e-08 	Sell signal: 1.067e-08
+[11/30/2021 22:30:53.343 train_best_ep4.py:136] Episode: 1	Loss: 55.83	Action: Hold	Reward: 533.55	Balance: 26963.76	Number of Stocks: 20
+[11/30/2021 22:30:53.366 train_best_ep4.py:100] Step: 222	Hold signal: 1.0 	Buy signal: 7.427e-08 	Sell signal: 1.295e-08
+[11/30/2021 22:30:53.366 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:30:53.366 train_best_ep4.py:116] Sell: $1196.69 | Profit: $101.35
+[11/30/2021 22:30:55.881 train_best_ep4.py:136] Episode: 1	Loss: 252.63	Action: Sell	Reward: 998.91	Balance: 28160.45	Number of Stocks: 19
+[11/30/2021 22:30:55.898 train_best_ep4.py:100] Step: 223	Hold signal: 1.0 	Buy signal: 7.017e-08 	Sell signal: 1.204e-08
+[11/30/2021 22:30:55.899 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:30:55.899 train_best_ep4.py:116] Sell: $1199.73 | Profit: $130.14
+[11/30/2021 22:30:58.429 train_best_ep4.py:136] Episode: 1	Loss: 579.70	Action: Sell	Reward: 1085.46	Balance: 29360.18	Number of Stocks: 18
+[11/30/2021 22:30:58.475 train_best_ep4.py:100] Step: 224	Hold signal: 1.0 	Buy signal: 7.199e-08 	Sell signal: 1.18e-08
+[11/30/2021 22:31:01.211 train_best_ep4.py:136] Episode: 1	Loss: 336.22	Action: Hold	Reward: 919.12	Balance: 29360.18	Number of Stocks: 18
+[11/30/2021 22:31:01.229 train_best_ep4.py:100] Step: 225	Hold signal: 1.0 	Buy signal: 8.507e-08 	Sell signal: 1.55e-08
+[11/30/2021 22:31:01.229 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:31:01.230 train_best_ep4.py:116] Buy: $1180.73
+[11/30/2021 22:31:03.561 train_best_ep4.py:136] Episode: 1	Loss: 13.35	Action: Buy	Reward: 613.32	Balance: 28179.45	Number of Stocks: 19
+[11/30/2021 22:31:03.578 train_best_ep4.py:100] Step: 226	Hold signal: 1.0 	Buy signal: 6.52e-08 	Sell signal: 1.227e-08
+[11/30/2021 22:31:03.578 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:31:03.578 train_best_ep4.py:116] Sell: $1198.35 | Profit: $96.82
+[11/30/2021 22:31:05.887 train_best_ep4.py:136] Episode: 1	Loss: 301.45	Action: Sell	Reward: 1044.92	Balance: 29377.80	Number of Stocks: 18
+[11/30/2021 22:31:05.905 train_best_ep4.py:100] Step: 227	Hold signal: 1.0 	Buy signal: 4.508e-08 	Sell signal: 8.066e-09
+[11/30/2021 22:31:08.249 train_best_ep4.py:136] Episode: 1	Loss: 119.08	Action: Hold	Reward: 784.82	Balance: 29377.80	Number of Stocks: 18
+[11/30/2021 22:31:08.287 train_best_ep4.py:100] Step: 228	Hold signal: 1.0 	Buy signal: 5.75e-08 	Sell signal: 1.065e-08
+[11/30/2021 22:31:10.978 train_best_ep4.py:136] Episode: 1	Loss: 392.10	Action: Hold	Reward: 755.30	Balance: 29377.80	Number of Stocks: 18
+[11/30/2021 22:31:10.995 train_best_ep4.py:100] Step: 229	Hold signal: 1.0 	Buy signal: 7e-08 	Sell signal: 1.257e-08
+[11/30/2021 22:31:10.995 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:31:10.996 train_best_ep4.py:116] Sell: $1180.55 | Profit: $54.69
+[11/30/2021 22:31:13.473 train_best_ep4.py:136] Episode: 1	Loss: 34.78	Action: Sell	Reward: 682.39	Balance: 30558.35	Number of Stocks: 17
+[11/30/2021 22:31:13.490 train_best_ep4.py:100] Step: 230	Hold signal: 1.0 	Buy signal: 6.892e-08 	Sell signal: 1.406e-08
+[11/30/2021 22:31:13.491 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:31:13.491 train_best_ep4.py:116] Buy: $1206.07
+[11/30/2021 22:31:16.012 train_best_ep4.py:136] Episode: 1	Loss: 263.90	Action: Buy	Reward: 1061.54	Balance: 29352.28	Number of Stocks: 18
+[11/30/2021 22:31:16.050 train_best_ep4.py:100] Step: 231	Hold signal: 1.0 	Buy signal: 4.669e-08 	Sell signal: 7.583e-09
+[11/30/2021 22:31:18.440 train_best_ep4.py:136] Episode: 1	Loss: 530.39	Action: Hold	Reward: 1337.64	Balance: 29352.28	Number of Stocks: 18
+[11/30/2021 22:31:18.459 train_best_ep4.py:100] Step: 232	Hold signal: 1.0 	Buy signal: 6.397e-08 	Sell signal: 1.116e-08
+[11/30/2021 22:31:20.913 train_best_ep4.py:136] Episode: 1	Loss: 530.39	Action: Hold	Reward: 1394.88	Balance: 29352.28	Number of Stocks: 18
+[11/30/2021 22:31:20.954 train_best_ep4.py:100] Step: 233	Hold signal: 1.0 	Buy signal: 6.495e-08 	Sell signal: 1.074e-08
+[11/30/2021 22:31:23.518 train_best_ep4.py:136] Episode: 1	Loss: 32.06	Action: Hold	Reward: 1366.26	Balance: 29352.28	Number of Stocks: 18
+[11/30/2021 22:31:23.536 train_best_ep4.py:100] Step: 234	Hold signal: 1.0 	Buy signal: 7.064e-08 	Sell signal: 1.377e-08
+[11/30/2021 22:31:23.536 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:31:23.536 train_best_ep4.py:116] Sell: $1223.75 | Profit: $103.29
+[11/30/2021 22:31:25.844 train_best_ep4.py:136] Episode: 1	Loss: 266.40	Action: Sell	Reward: 1483.07	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:25.862 train_best_ep4.py:100] Step: 235	Hold signal: 1.0 	Buy signal: 4.532e-08 	Sell signal: 8.157e-09
+[11/30/2021 22:31:28.293 train_best_ep4.py:136] Episode: 1	Loss: 331.28	Action: Hold	Reward: 1454.52	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:28.330 train_best_ep4.py:100] Step: 236	Hold signal: 1.0 	Buy signal: 4.142e-08 	Sell signal: 7.492e-09
+[11/30/2021 22:31:30.674 train_best_ep4.py:136] Episode: 1	Loss: 424.42	Action: Hold	Reward: 1534.76	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:30.710 train_best_ep4.py:100] Step: 237	Hold signal: 1.0 	Buy signal: 4.682e-08 	Sell signal: 7.794e-09
+[11/30/2021 22:31:33.025 train_best_ep4.py:136] Episode: 1	Loss: 620.10	Action: Hold	Reward: 1660.56	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:33.063 train_best_ep4.py:100] Step: 238	Hold signal: 1.0 	Buy signal: 5.923e-08 	Sell signal: 1.033e-08
+[11/30/2021 22:31:35.376 train_best_ep4.py:136] Episode: 1	Loss: 33.48	Action: Hold	Reward: 1661.58	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:35.414 train_best_ep4.py:100] Step: 239	Hold signal: 1.0 	Buy signal: 5.296e-08 	Sell signal: 9.823e-09
+[11/30/2021 22:31:37.788 train_best_ep4.py:136] Episode: 1	Loss: 189.46	Action: Hold	Reward: 1680.79	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:37.830 train_best_ep4.py:100] Step: 240	Hold signal: 1.0 	Buy signal: 4.501e-08 	Sell signal: 8.001e-09
+[11/30/2021 22:31:40.123 train_best_ep4.py:136] Episode: 1	Loss: 785.95	Action: Hold	Reward: 1572.67	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:40.157 train_best_ep4.py:100] Step: 241	Hold signal: 1.0 	Buy signal: 4.759e-08 	Sell signal: 9.425e-09
+[11/30/2021 22:31:42.639 train_best_ep4.py:136] Episode: 1	Loss: 329.03	Action: Hold	Reward: 1702.55	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:42.674 train_best_ep4.py:100] Step: 242	Hold signal: 1.0 	Buy signal: 4.064e-08 	Sell signal: 6.979e-09
+[11/30/2021 22:31:45.160 train_best_ep4.py:136] Episode: 1	Loss: 45.33	Action: Hold	Reward: 1720.23	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:45.200 train_best_ep4.py:100] Step: 243	Hold signal: 1.0 	Buy signal: 4.779e-08 	Sell signal: 9.019e-09
+[11/30/2021 22:31:47.814 train_best_ep4.py:136] Episode: 1	Loss: 566.40	Action: Hold	Reward: 1774.12	Balance: 30576.03	Number of Stocks: 17
+[11/30/2021 22:31:47.834 train_best_ep4.py:100] Step: 244	Hold signal: 1.0 	Buy signal: 4.529e-08 	Sell signal: 7.603e-09
+[11/30/2021 22:31:47.835 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:31:47.835 train_best_ep4.py:116] Sell: $1254.60 | Profit: $128.79
+[11/30/2021 22:31:50.377 train_best_ep4.py:136] Episode: 1	Loss: 82.06	Action: Sell	Reward: 2033.02	Balance: 31830.63	Number of Stocks: 16
+[11/30/2021 22:31:50.429 train_best_ep4.py:100] Step: 245	Hold signal: 1.0 	Buy signal: 5.053e-08 	Sell signal: 9.67e-09
+[11/30/2021 22:31:52.765 train_best_ep4.py:136] Episode: 1	Loss: 45.33	Action: Hold	Reward: 1969.70	Balance: 31830.63	Number of Stocks: 16
+[11/30/2021 22:31:52.784 train_best_ep4.py:100] Step: 246	Hold signal: 1.0 	Buy signal: 3.788e-08 	Sell signal: 6.691e-09
+[11/30/2021 22:31:52.784 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:31:52.784 train_best_ep4.py:116] Buy: $1256.77
+[11/30/2021 22:31:55.434 train_best_ep4.py:136] Episode: 1	Loss: 84.51	Action: Buy	Reward: 1938.95	Balance: 30573.86	Number of Stocks: 17
+[11/30/2021 22:31:55.452 train_best_ep4.py:100] Step: 247	Hold signal: 1.0 	Buy signal: 4.444e-08 	Sell signal: 8.825e-09
+[11/30/2021 22:31:57.865 train_best_ep4.py:136] Episode: 1	Loss: 607.36	Action: Hold	Reward: 1949.77	Balance: 30573.86	Number of Stocks: 17
+[11/30/2021 22:31:57.885 train_best_ep4.py:100] Step: 248	Hold signal: 1.0 	Buy signal: 3.466e-08 	Sell signal: 6.661e-09
+[11/30/2021 22:31:57.885 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:31:57.885 train_best_ep4.py:116] Sell: $1258.51 | Profit: $179.13
+[11/30/2021 22:32:00.192 train_best_ep4.py:136] Episode: 1	Loss: 725.63	Action: Sell	Reward: 2147.66	Balance: 31832.37	Number of Stocks: 16
+[11/30/2021 22:32:00.210 train_best_ep4.py:100] Step: 249	Hold signal: 1.0 	Buy signal: 3.228e-08 	Sell signal: 6.511e-09
+[11/30/2021 22:32:02.566 train_best_ep4.py:136] Episode: 1	Loss: 285.99	Action: Hold	Reward: 1986.48	Balance: 31832.37	Number of Stocks: 16
+[11/30/2021 22:32:02.601 train_best_ep4.py:100] Step: 250	Hold signal: 1.0 	Buy signal: 3.39e-08 	Sell signal: 6.234e-09
+[11/30/2021 22:32:05.039 train_best_ep4.py:136] Episode: 1	Loss: 43.96	Action: Hold	Reward: 1956.08	Balance: 31832.37	Number of Stocks: 16
+[11/30/2021 22:32:05.073 train_best_ep4.py:100] Step: 251	Hold signal: 1.0 	Buy signal: 4.604e-08 	Sell signal: 9.912e-09
+[11/30/2021 22:32:07.352 train_best_ep4.py:136] Episode: 1	Loss: 337.43	Action: Hold	Reward: 1952.24	Balance: 31832.37	Number of Stocks: 16
+[11/30/2021 22:32:07.371 train_best_ep4.py:100] Step: 252	Hold signal: 1.0 	Buy signal: 3.405e-08 	Sell signal: 7.018e-09
+[11/30/2021 22:32:07.372 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:32:07.372 train_best_ep4.py:116] Sell: $1271.87 | Profit: $222.54
+[11/30/2021 22:32:09.714 train_best_ep4.py:136] Episode: 1	Loss: 75.11	Action: Sell	Reward: 2404.83	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:09.747 train_best_ep4.py:100] Step: 253	Hold signal: 1.0 	Buy signal: 3.034e-08 	Sell signal: 6.066e-09
+[11/30/2021 22:32:12.005 train_best_ep4.py:136] Episode: 1	Loss: 1202.03	Action: Hold	Reward: 2154.78	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:12.046 train_best_ep4.py:100] Step: 254	Hold signal: 1.0 	Buy signal: 3.628e-08 	Sell signal: 7.325e-09
+[11/30/2021 22:32:14.423 train_best_ep4.py:136] Episode: 1	Loss: 22.58	Action: Hold	Reward: 2250.18	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:14.457 train_best_ep4.py:100] Step: 255	Hold signal: 1.0 	Buy signal: 3.701e-08 	Sell signal: 7.034e-09
+[11/30/2021 22:32:16.722 train_best_ep4.py:136] Episode: 1	Loss: 28.52	Action: Hold	Reward: 2209.53	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:16.755 train_best_ep4.py:100] Step: 256	Hold signal: 1.0 	Buy signal: 3.825e-08 	Sell signal: 8.424e-09
+[11/30/2021 22:32:19.199 train_best_ep4.py:136] Episode: 1	Loss: 43.96	Action: Hold	Reward: 2174.28	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:19.239 train_best_ep4.py:100] Step: 257	Hold signal: 1.0 	Buy signal: 3.279e-08 	Sell signal: 6.304e-09
+[11/30/2021 22:32:21.888 train_best_ep4.py:136] Episode: 1	Loss: 82.06	Action: Hold	Reward: 2148.03	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:21.934 train_best_ep4.py:100] Step: 258	Hold signal: 1.0 	Buy signal: 3.772e-08 	Sell signal: 8.257e-09
+[11/30/2021 22:32:24.489 train_best_ep4.py:136] Episode: 1	Loss: 579.70	Action: Hold	Reward: 2218.98	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:24.523 train_best_ep4.py:100] Step: 259	Hold signal: 1.0 	Buy signal: 2.655e-08 	Sell signal: 4.907e-09
+[11/30/2021 22:32:26.843 train_best_ep4.py:136] Episode: 1	Loss: 29.77	Action: Hold	Reward: 2391.18	Balance: 33104.24	Number of Stocks: 15
+[11/30/2021 22:32:26.860 train_best_ep4.py:100] Step: 260	Hold signal: 1.0 	Buy signal: 3.65e-08 	Sell signal: 6.997e-09
+[11/30/2021 22:32:26.860 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:32:26.860 train_best_ep4.py:116] Buy: $1283.76
+[11/30/2021 22:32:29.317 train_best_ep4.py:136] Episode: 1	Loss: 13.35	Action: Buy	Reward: 2360.64	Balance: 31820.48	Number of Stocks: 16
+[11/30/2021 22:32:29.335 train_best_ep4.py:100] Step: 261	Hold signal: 1.0 	Buy signal: 4.282e-08 	Sell signal: 8.699e-09
+[11/30/2021 22:32:31.775 train_best_ep4.py:136] Episode: 1	Loss: 0.95	Action: Hold	Reward: 2509.95	Balance: 31820.48	Number of Stocks: 16
+[11/30/2021 22:32:31.815 train_best_ep4.py:100] Step: 262	Hold signal: 1.0 	Buy signal: 3.188e-08 	Sell signal: 6.38e-09
+[11/30/2021 22:32:34.278 train_best_ep4.py:136] Episode: 1	Loss: 39.90	Action: Hold	Reward: 2538.43	Balance: 31820.48	Number of Stocks: 16
+[11/30/2021 22:32:34.315 train_best_ep4.py:100] Step: 263	Hold signal: 1.0 	Buy signal: 2.514e-08 	Sell signal: 5.137e-09
+[11/30/2021 22:32:36.706 train_best_ep4.py:136] Episode: 1	Loss: 767.00	Action: Hold	Reward: 2328.84	Balance: 31820.48	Number of Stocks: 16
+[11/30/2021 22:32:36.729 train_best_ep4.py:100] Step: 264	Hold signal: 1.0 	Buy signal: 3.025e-08 	Sell signal: 6.077e-09
+[11/30/2021 22:32:36.729 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:32:36.729 train_best_ep4.py:116] Sell: $1280.26 | Profit: $199.97
+[11/30/2021 22:32:39.092 train_best_ep4.py:136] Episode: 1	Loss: 306.28	Action: Sell	Reward: 2504.61	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:39.131 train_best_ep4.py:100] Step: 265	Hold signal: 1.0 	Buy signal: 3.357e-08 	Sell signal: 7.432e-09
+[11/30/2021 22:32:41.680 train_best_ep4.py:136] Episode: 1	Loss: 0.86	Action: Hold	Reward: 2348.53	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:41.720 train_best_ep4.py:100] Step: 266	Hold signal: 1.0 	Buy signal: 2.213e-08 	Sell signal: 4.451e-09
+[11/30/2021 22:32:44.315 train_best_ep4.py:136] Episode: 1	Loss: 31.92	Action: Hold	Reward: 2460.88	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:44.350 train_best_ep4.py:100] Step: 267	Hold signal: 1.0 	Buy signal: 2.549e-08 	Sell signal: 4.74e-09
+[11/30/2021 22:32:46.622 train_best_ep4.py:136] Episode: 1	Loss: 517.53	Action: Hold	Reward: 2465.98	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:46.658 train_best_ep4.py:100] Step: 268	Hold signal: 1.0 	Buy signal: 3.612e-08 	Sell signal: 7.136e-09
+[11/30/2021 22:32:49.070 train_best_ep4.py:136] Episode: 1	Loss: 278.57	Action: Hold	Reward: 2547.73	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:49.118 train_best_ep4.py:100] Step: 269	Hold signal: 1.0 	Buy signal: 2.943e-08 	Sell signal: 5.904e-09
+[11/30/2021 22:32:51.527 train_best_ep4.py:136] Episode: 1	Loss: 51.00	Action: Hold	Reward: 2591.38	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:51.569 train_best_ep4.py:100] Step: 270	Hold signal: 1.0 	Buy signal: 2.259e-08 	Sell signal: 4.529e-09
+[11/30/2021 22:32:54.135 train_best_ep4.py:136] Episode: 1	Loss: 434.82	Action: Hold	Reward: 2243.38	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:54.172 train_best_ep4.py:100] Step: 271	Hold signal: 1.0 	Buy signal: 2.573e-08 	Sell signal: 5.428e-09
+[11/30/2021 22:32:56.914 train_best_ep4.py:136] Episode: 1	Loss: 348.53	Action: Hold	Reward: 2390.08	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:56.951 train_best_ep4.py:100] Step: 272	Hold signal: 1.0 	Buy signal: 2.22e-08 	Sell signal: 4.531e-09
+[11/30/2021 22:32:59.941 train_best_ep4.py:136] Episode: 1	Loss: 337.43	Action: Hold	Reward: 2712.13	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:32:59.995 train_best_ep4.py:100] Step: 273	Hold signal: 1.0 	Buy signal: 2.004e-08 	Sell signal: 4.069e-09
+[11/30/2021 22:33:03.055 train_best_ep4.py:136] Episode: 1	Loss: 12.37	Action: Hold	Reward: 2658.73	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:03.100 train_best_ep4.py:100] Step: 274	Hold signal: 1.0 	Buy signal: 2.631e-08 	Sell signal: 5.178e-09
+[11/30/2021 22:33:05.462 train_best_ep4.py:136] Episode: 1	Loss: 627.70	Action: Hold	Reward: 2704.78	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:05.502 train_best_ep4.py:100] Step: 275	Hold signal: 1.0 	Buy signal: 2.659e-08 	Sell signal: 5.391e-09
+[11/30/2021 22:33:08.081 train_best_ep4.py:136] Episode: 1	Loss: 977.66	Action: Hold	Reward: 2761.33	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:08.120 train_best_ep4.py:100] Step: 276	Hold signal: 1.0 	Buy signal: 1.883e-08 	Sell signal: 3.879e-09
+[11/30/2021 22:33:10.719 train_best_ep4.py:136] Episode: 1	Loss: 700.93	Action: Hold	Reward: 2884.03	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:10.782 train_best_ep4.py:100] Step: 277	Hold signal: 1.0 	Buy signal: 2.075e-08 	Sell signal: 3.834e-09
+[11/30/2021 22:33:13.737 train_best_ep4.py:136] Episode: 1	Loss: 34.78	Action: Hold	Reward: 2966.83	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:13.803 train_best_ep4.py:100] Step: 278	Hold signal: 1.0 	Buy signal: 2.535e-08 	Sell signal: 5.286e-09
+[11/30/2021 22:33:16.563 train_best_ep4.py:136] Episode: 1	Loss: 41.06	Action: Hold	Reward: 2911.48	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:16.608 train_best_ep4.py:100] Step: 279	Hold signal: 1.0 	Buy signal: 2.113e-08 	Sell signal: 4.688e-09
+[11/30/2021 22:33:19.604 train_best_ep4.py:136] Episode: 1	Loss: 17.53	Action: Hold	Reward: 2926.33	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:19.645 train_best_ep4.py:100] Step: 280	Hold signal: 1.0 	Buy signal: 1.724e-08 	Sell signal: 3.631e-09
+[11/30/2021 22:33:22.728 train_best_ep4.py:136] Episode: 1	Loss: 692.65	Action: Hold	Reward: 3035.53	Balance: 33100.74	Number of Stocks: 15
+[11/30/2021 22:33:22.749 train_best_ep4.py:100] Step: 281	Hold signal: 1.0 	Buy signal: 1.563e-08 	Sell signal: 3.374e-09
+[11/30/2021 22:33:22.749 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:33:22.750 train_best_ep4.py:116] Buy: $1332.32
+[11/30/2021 22:33:25.300 train_best_ep4.py:136] Episode: 1	Loss: 76.60	Action: Buy	Reward: 3085.54	Balance: 31768.42	Number of Stocks: 16
+[11/30/2021 22:33:25.337 train_best_ep4.py:100] Step: 282	Hold signal: 1.0 	Buy signal: 1.647e-08 	Sell signal: 3.326e-09
+[11/30/2021 22:33:28.121 train_best_ep4.py:136] Episode: 1	Loss: 301.45	Action: Hold	Reward: 3014.22	Balance: 31768.42	Number of Stocks: 16
+[11/30/2021 22:33:28.140 train_best_ep4.py:100] Step: 283	Hold signal: 1.0 	Buy signal: 2.367e-08 	Sell signal: 5.84e-09
+[11/30/2021 22:33:28.140 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:33:28.140 train_best_ep4.py:116] Buy: $1336.32
+[11/30/2021 22:33:30.921 train_best_ep4.py:136] Episode: 1	Loss: 683.42	Action: Buy	Reward: 3149.54	Balance: 30432.10	Number of Stocks: 17
+[11/30/2021 22:33:30.974 train_best_ep4.py:100] Step: 284	Hold signal: 1.0 	Buy signal: 1.453e-08 	Sell signal: 3.282e-09
+[11/30/2021 22:33:33.994 train_best_ep4.py:136] Episode: 1	Loss: 1104.38	Action: Hold	Reward: 3217.15	Balance: 30432.10	Number of Stocks: 17
+[11/30/2021 22:33:34.031 train_best_ep4.py:100] Step: 285	Hold signal: 1.0 	Buy signal: 1.323e-08 	Sell signal: 3.108e-09
+[11/30/2021 22:33:36.728 train_best_ep4.py:136] Episode: 1	Loss: 697.06	Action: Hold	Reward: 3261.01	Balance: 30432.10	Number of Stocks: 17
+[11/30/2021 22:33:36.763 train_best_ep4.py:100] Step: 286	Hold signal: 1.0 	Buy signal: 1.571e-08 	Sell signal: 3.278e-09
+[11/30/2021 22:33:39.945 train_best_ep4.py:136] Episode: 1	Loss: 298.47	Action: Hold	Reward: 2792.32	Balance: 30432.10	Number of Stocks: 17
+[11/30/2021 22:33:40.031 train_best_ep4.py:100] Step: 287	Hold signal: 1.0 	Buy signal: 2.286e-08 	Sell signal: 5.801e-09
+[11/30/2021 22:33:43.126 train_best_ep4.py:136] Episode: 1	Loss: 830.41	Action: Hold	Reward: 2655.64	Balance: 30432.10	Number of Stocks: 17
+[11/30/2021 22:33:43.150 train_best_ep4.py:100] Step: 288	Hold signal: 1.0 	Buy signal: 1.516e-08 	Sell signal: 3.705e-09
+[11/30/2021 22:33:43.150 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:33:43.150 train_best_ep4.py:116] Sell: $1306.10 | Profit: $201.92
+[11/30/2021 22:33:46.820 train_best_ep4.py:136] Episode: 1	Loss: 127.44	Action: Sell	Reward: 2837.72	Balance: 31738.20	Number of Stocks: 16
+[11/30/2021 22:33:46.899 train_best_ep4.py:100] Step: 289	Hold signal: 1.0 	Buy signal: 1.421e-08 	Sell signal: 3.474e-09
+[11/30/2021 22:33:49.395 train_best_ep4.py:136] Episode: 1	Loss: 459.18	Action: Hold	Reward: 2853.92	Balance: 31738.20	Number of Stocks: 16
+[11/30/2021 22:33:49.432 train_best_ep4.py:100] Step: 290	Hold signal: 1.0 	Buy signal: 1.397e-08 	Sell signal: 2.931e-09
+[11/30/2021 22:33:52.174 train_best_ep4.py:136] Episode: 1	Loss: 189.46	Action: Hold	Reward: 2971.36	Balance: 31738.20	Number of Stocks: 16
+[11/30/2021 22:33:52.216 train_best_ep4.py:100] Step: 291	Hold signal: 1.0 	Buy signal: 2.018e-08 	Sell signal: 4.288e-09
+[11/30/2021 22:33:55.132 train_best_ep4.py:136] Episode: 1	Loss: 975.74	Action: Hold	Reward: 2637.12	Balance: 31738.20	Number of Stocks: 16
+[11/30/2021 22:33:55.150 train_best_ep4.py:100] Step: 292	Hold signal: 1.0 	Buy signal: 2.393e-08 	Sell signal: 5.574e-09
+[11/30/2021 22:33:55.150 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:33:55.150 train_best_ep4.py:116] Buy: $1308.44
+[11/30/2021 22:33:57.566 train_best_ep4.py:136] Episode: 1	Loss: 799.59	Action: Buy	Reward: 2673.24	Balance: 30429.76	Number of Stocks: 17
+[11/30/2021 22:33:57.585 train_best_ep4.py:100] Step: 293	Hold signal: 1.0 	Buy signal: 1.705e-08 	Sell signal: 3.818e-09
+[11/30/2021 22:33:57.585 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:33:57.585 train_best_ep4.py:116] Sell: $1330.97 | Profit: $221.42
+[11/30/2021 22:34:00.022 train_best_ep4.py:136] Episode: 1	Loss: 9.58	Action: Sell	Reward: 3277.67	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:00.060 train_best_ep4.py:100] Step: 294	Hold signal: 1.0 	Buy signal: 1.343e-08 	Sell signal: 2.985e-09
+[11/30/2021 22:34:02.611 train_best_ep4.py:136] Episode: 1	Loss: 30.37	Action: Hold	Reward: 2896.77	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:02.629 train_best_ep4.py:100] Step: 295	Hold signal: 1.0 	Buy signal: 1.751e-08 	Sell signal: 3.765e-09
+[11/30/2021 22:34:05.388 train_best_ep4.py:136] Episode: 1	Loss: 246.54	Action: Hold	Reward: 2720.45	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:05.433 train_best_ep4.py:100] Step: 296	Hold signal: 1.0 	Buy signal: 2.139e-08 	Sell signal: 5.078e-09
+[11/30/2021 22:34:07.954 train_best_ep4.py:136] Episode: 1	Loss: 401.87	Action: Hold	Reward: 2907.49	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:07.989 train_best_ep4.py:100] Step: 297	Hold signal: 1.0 	Buy signal: 1.266e-08 	Sell signal: 2.814e-09
+[11/30/2021 22:34:10.317 train_best_ep4.py:136] Episode: 1	Loss: 409.39	Action: Hold	Reward: 2878.69	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:10.351 train_best_ep4.py:100] Step: 298	Hold signal: 1.0 	Buy signal: 1.58e-08 	Sell signal: 3.461e-09
+[11/30/2021 22:34:12.721 train_best_ep4.py:136] Episode: 1	Loss: 12.49	Action: Hold	Reward: 2480.13	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:12.754 train_best_ep4.py:100] Step: 299	Hold signal: 1.0 	Buy signal: 2.202e-08 	Sell signal: 4.893e-09
+[11/30/2021 22:34:15.362 train_best_ep4.py:136] Episode: 1	Loss: 485.90	Action: Hold	Reward: 2626.85	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:15.362 train_best_ep4.py: 86] 
+-------------------Period: 300/1509-------------------
+[11/30/2021 22:34:15.402 train_best_ep4.py:100] Step: 300	Hold signal: 1.0 	Buy signal: 1.648e-08 	Sell signal: 3.712e-09
+[11/30/2021 22:34:18.134 train_best_ep4.py:136] Episode: 1	Loss: 9.58	Action: Hold	Reward: 2500.61	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:18.178 train_best_ep4.py:100] Step: 301	Hold signal: 1.0 	Buy signal: 1.564e-08 	Sell signal: 3.505e-09
+[11/30/2021 22:34:20.961 train_best_ep4.py:136] Episode: 1	Loss: 1173.88	Action: Hold	Reward: 2268.29	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:21.005 train_best_ep4.py:100] Step: 302	Hold signal: 1.0 	Buy signal: 2.038e-08 	Sell signal: 4.48e-09
+[11/30/2021 22:34:23.834 train_best_ep4.py:136] Episode: 1	Loss: 589.89	Action: Hold	Reward: 1868.45	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:23.871 train_best_ep4.py:100] Step: 303	Hold signal: 1.0 	Buy signal: 1.914e-08 	Sell signal: 4.699e-09
+[11/30/2021 22:34:26.553 train_best_ep4.py:136] Episode: 1	Loss: 448.63	Action: Hold	Reward: 2137.89	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:26.594 train_best_ep4.py:100] Step: 304	Hold signal: 1.0 	Buy signal: 1.25e-08 	Sell signal: 2.516e-09
+[11/30/2021 22:34:29.104 train_best_ep4.py:136] Episode: 1	Loss: 30.37	Action: Hold	Reward: 2225.73	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:29.160 train_best_ep4.py:100] Step: 305	Hold signal: 1.0 	Buy signal: 1.853e-08 	Sell signal: 3.825e-09
+[11/30/2021 22:34:31.948 train_best_ep4.py:136] Episode: 1	Loss: 1194.66	Action: Hold	Reward: 2532.45	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:31.986 train_best_ep4.py:100] Step: 306	Hold signal: 1.0 	Buy signal: 2.004e-08 	Sell signal: 3.96e-09
+[11/30/2021 22:34:34.555 train_best_ep4.py:136] Episode: 1	Loss: 159.12	Action: Hold	Reward: 2458.69	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:34.590 train_best_ep4.py:100] Step: 307	Hold signal: 1.0 	Buy signal: 2.159e-08 	Sell signal: 5.058e-09
+[11/30/2021 22:34:37.130 train_best_ep4.py:136] Episode: 1	Loss: 1638.45	Action: Hold	Reward: 2519.01	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:37.169 train_best_ep4.py:100] Step: 308	Hold signal: 1.0 	Buy signal: 1.221e-08 	Sell signal: 2.549e-09
+[11/30/2021 22:34:39.688 train_best_ep4.py:136] Episode: 1	Loss: 617.17	Action: Hold	Reward: 2712.93	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:39.706 train_best_ep4.py:100] Step: 309	Hold signal: 1.0 	Buy signal: 1.208e-08 	Sell signal: 2.611e-09
+[11/30/2021 22:34:42.092 train_best_ep4.py:136] Episode: 1	Loss: 44.13	Action: Hold	Reward: 2779.17	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:42.130 train_best_ep4.py:100] Step: 310	Hold signal: 1.0 	Buy signal: 1.386e-08 	Sell signal: 2.662e-09
+[11/30/2021 22:34:44.710 train_best_ep4.py:136] Episode: 1	Loss: 34.61	Action: Hold	Reward: 2721.41	Balance: 31760.73	Number of Stocks: 16
+[11/30/2021 22:34:44.729 train_best_ep4.py:100] Step: 311	Hold signal: 1.0 	Buy signal: 1.995e-08 	Sell signal: 4.743e-09
+[11/30/2021 22:34:44.729 train_best_ep4.py:101] 		'Sell' is an exploration.
+[11/30/2021 22:34:44.730 train_best_ep4.py:116] Sell: $1319.44 | Profit: $198.34
+[11/30/2021 22:34:47.205 train_best_ep4.py:136] Episode: 1	Loss: 75.11	Action: Sell	Reward: 3070.11	Balance: 33080.17	Number of Stocks: 15
+[11/30/2021 22:34:47.228 train_best_ep4.py:100] Step: 312	Hold signal: 1.0 	Buy signal: 1.119e-08 	Sell signal: 2.407e-09
+[11/30/2021 22:34:47.228 train_best_ep4.py:101] 		'Buy' is an exploration.
+[11/30/2021 22:34:47.228 train_best_ep4.py:116] Buy: $1328.26
